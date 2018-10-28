@@ -1,0 +1,4 @@
+1.使用qtdesigner进行界面设计，生成xxx.ui文件，其中需要设置相应的信号
+2.xxx.ui转成xxx.py
+    pyuic4 -o xxx.py xxx.ui
+3.在xxx.py文件中实现槽对应的方法（函数）

@@ -1,0 +1,691 @@
+#include <cstdio>
+#include <cstdlib>
+#include <cstring>
+#include <ctime>
+#include <queue>
+#include <cassert>
+#include <iostream>
+using namespace std;
+
+#define _int64 long long
+#define byte unsigned char
+#define keytype long long
+#define datatype char	//the type test should change
+#define M 17	//It is 64 in the paper, 32 is the large that program can run
+
+struct entry
+{
+    keytype key;
+	union
+	{
+		struct slotbitmapnode * ch;
+		datatype p;
+	} other;
+};
+
+struct slotbitmapnode
+{
+    _int64 bmp;
+    byte slot[M];
+	short level;
+	struct slotbitmapnode * parent;
+	struct entry entries[M-1];
+	union
+    {
+        struct slotbitmapnode * ch0;
+        struct slotbitmapnode * next;
+    } pointer;
+};
+
+class BPlusTree
+{
+    struct slotbitmapnode * root, * leafpoint;
+public:
+    BPlusTree();
+    ~BPlusTree();
+	
+	void BPlusTree_clear();
+    
+	inline int key_binary_search(struct slotbitmapnode * node, const keytype & key) const;
+	datatype BPlusTree_search_sequence(const keytype & key) const;
+	datatype BPlusTree_search_random(const keytype & key) const;
+	datatype BPlusTree_search(const keytype & key, const bool & rors) const;
+	
+	inline int GetUnusedEntry(const _int64 & bmp) const;
+	
+	void nonleaf_insert(struct slotbitmapnode * nonleaf, const int & pos, struct entry newentry);
+	void leaf_insert(struct slotbitmapnode * leaf, const int & pos, struct entry newentry);
+	bool BPlusTree_insert(struct entry newentry);
+	
+	void nonleaf_delete(struct slotbitmapnode * nonleaf, const int & pos , const keytype & key);
+	void leaf_delete(struct slotbitmapnode * leaf, const int & pos, const keytype & key);
+	bool BPlusTree_delete(const keytype & key);
+	
+	void display_node_info(struct slotbitmapnode * node) const;
+	void display_leafs() const;
+	void BPlusTree_display() const;
+	void BPlusTree_test(const char * filename);
+};
+
+BPlusTree::BPlusTree()
+{
+    root = NULL;
+}
+
+BPlusTree::~BPlusTree()
+{
+	BPlusTree_clear();
+}
+
+void BPlusTree::BPlusTree_clear()
+{
+    if(root == NULL)
+        return ;
+    queue<struct slotbitmapnode *> deletequeue;
+	while(!deletequeue.empty())
+	{
+		deletequeue.pop();
+	}
+    deletequeue.push(root);
+    int n, i;
+    while(!deletequeue.empty())
+    {
+        struct slotbitmapnode* tmp = deletequeue.front();
+        deletequeue.pop();
+        n = tmp->slot[0] >> 1;
+		/*
+		if(tmp->slot[0] & 1)
+        {
+			if(tmp->pointer.next != NULL)
+	            deletequeue.push(tmp->pointer.next);
+        }
+		*/
+        if(!(tmp->slot[0] & 1))
+        {
+			if(tmp->pointer.ch0 != NULL)	//the ch0 may be NULL, and than will call the wrong palce in the memory
+				deletequeue.push(tmp->pointer.ch0);
+            for(i = 0; i < n; i++)
+            {
+                deletequeue.push(tmp->entries[tmp->slot[i + 1]].other.ch);
+            }
+        }
+        delete tmp;
+    }
+	root = NULL;
+	leafpoint = NULL;
+}
+
+inline int BPlusTree::key_binary_search(slotbitmapnode* node, const keytype & key) const
+{
+	int n;
+	n = node->slot[0] >> 1;
+	int low = 0, up = n - 1, mid, tmpkey;
+	while(up > low - 1)
+	{
+		mid = (low + up) >> 1;
+		tmpkey = node->entries[node->slot[mid+1]].key;
+		if(key > tmpkey)
+		{
+			low = mid + 1;
+		}
+		else if(key < tmpkey)
+		{
+			up = mid - 1;
+		}
+		else
+		{
+			return -mid - 1;
+		}
+	}
+	return low;
+}
+
+datatype BPlusTree::BPlusTree_search_sequence(const keytype & key) const
+{
+	struct slotbitmapnode * node = leafpoint;
+	int pos;
+
+	while(node != NULL)
+	{
+		pos = key_binary_search(node, key);
+		if(pos < 0)
+			return node->entries[node->slot[-pos]].other.p;
+		else
+			node = node->pointer.next;
+	}
+	return 0;
+}
+
+datatype BPlusTree::BPlusTree_search_random(const keytype & key) const
+{
+	struct slotbitmapnode * node = root, childnode;
+	int pos;
+	while(node != NULL)
+	{
+		pos = key_binary_search(node, key);
+		if(node->slot[0] & 1)
+		{
+			if(pos < 0)
+				return node->entries[node->slot[-pos]].other.p;
+			else
+				return 0;
+		}
+		else
+		{
+			if(pos < 0)
+				node = node->entries[node->slot[-pos]].other.ch;
+			else if(pos == 0)
+				node = node->pointer.ch0;
+			else
+				node = node->entries[node->slot[pos]].other.ch;	//should be pos not pos-1
+		}
+	}
+}
+
+datatype BPlusTree::BPlusTree_search(const keytype & key, const bool & rors) const
+{
+	if(rors)
+		return BPlusTree_search_random(key);
+	else
+		return BPlusTree_search_sequence(key);
+}
+
+inline int BPlusTree::GetUnusedEntry(const _int64 & bmp) const
+{
+	_int64 compare = 2;
+    int	u;
+	
+	for(u = 0; bmp & compare; compare <<= 1, ++u)
+		;
+	
+	assert(u < 64);
+	return u;
+}
+
+void BPlusTree::leaf_insert(struct slotbitmapnode * leaf, const int & pos, struct entry newentry)
+{
+	int childnum, split = 0, i, j, u;
+	slotbitmapnode * sibling;
+	
+	childnum = leaf->slot[0] >> 1;
+
+	if(leaf->bmp & 1 == 0)	//slot is fail invalid
+    {
+       	; //recovery by bitmap
+    }
+
+	if(childnum < M - 1)	//insert directly
+	{	
+    	leaf->bmp -= 1;
+    	u = GetUnusedEntry(leaf->bmp);
+    	leaf->entries[u] = newentry;
+    	
+		for(i = childnum; i >= pos + 1; i--)
+    	{
+        	leaf->slot[i+1] = leaf->slot[i];
+    	}
+    	leaf->slot[pos + 1] = u;
+    	/*
+		for(i = pos; i >= 1; i--)
+	    {
+        	leaf->slot[i] = leaf->slot[i];
+    	}
+		*/	//It may be unnecessary.
+    	
+		leaf->slot[0] += 2;
+	    leaf->bmp = leaf->bmp + 1 + (1 << (u + 1));	//the plus operation is the same as & here
+	}
+	else
+	{
+		split = M / 2;	//should be M-1 not M or M+1
+		
+		sibling = new slotbitmapnode;
+		for(i = 0; i < childnum ; ++i)
+		{
+			sibling->entries[i] = leaf->entries[i];
+		}
+		sibling->pointer.next = leaf->pointer.next;
+		sibling->level = leaf->level;
+		//sibling->parent = leaf->parent;	//will update in later
+		sibling->bmp = 1;
+		//Attention: should be care of the order of '+' operation and '<<' operation
+		sibling->slot[0] = (((M & 1) ? (split + 1) : split) << 1) + 1;	//sibling is also a leaf, should be M & 1 not split & 1
+
+		if(pos < split) //insert in the left part of the leaf
+		{
+			//slotbitmapnode * tmp = new slotbitmapnode;	//the update of the leaf
+
+			for(i = split - 1, j = 1; i < childnum; ++i, ++j)	//i=split-1 may have error
+			{
+				sibling->slot[j] = leaf->slot[i + 1];
+				sibling->bmp |= 1 << (sibling->slot[j] + 1);	//be care that should use '|' operation not '&' operation
+			}
+			for(i = split - 1; i >= pos; --i)
+			{
+				leaf->slot[i + 2] = leaf->slot[i + 1];
+			}
+			leaf->slot[pos + 1] = leaf->slot[childnum];	//use the position on the rightest of the slots
+			leaf->entries[leaf->slot[childnum]] = newentry;
+		}
+		else
+		{
+			for(i = split, j = 1; i < pos; ++i, ++j)
+			{
+				sibling->slot[j] = leaf->slot[i + 1];
+				sibling->bmp |= 1 << (sibling->slot[j] + 1);
+			}
+			sibling->slot[j] = leaf->slot[1];	//use the position of the entry containing the lowest key in the leaf
+			sibling->bmp |= 1 << (sibling->slot[j++] + 1);
+			sibling->entries[leaf->slot[1]] = newentry;
+			for( ; i < childnum; i++, j++)
+			{
+				sibling->slot[j] = leaf->slot[i + 1];
+				sibling->bmp |= 1 << (sibling->slot[j] + 1);
+			}
+		}
+		
+		leaf->slot[0] = (split << 1) + 1;
+		leaf->pointer.next = sibling;	//Is should be the task of the copy of the leaf
+		leaf->bmp = 1;
+		for(i = 1; i < split + 1; ++i)	//update the slot of the leaf
+		{
+			leaf->bmp |= 1 << (leaf->slot[i] + 1);
+		}
+	}
+
+	if(split)
+	{
+		struct slotbitmapnode * parent = leaf->parent;
+		if(parent == NULL)
+		{
+			parent = new slotbitmapnode;
+			parent->level = leaf->level + 1;
+			parent->parent = NULL;
+			parent->pointer.ch0 = leaf;
+			struct entry tmp;
+			tmp.key = sibling->entries[sibling->slot[1]].key;
+			tmp.other.ch = sibling;
+			parent->entries[0] = tmp;
+			//parent->points.nonleaf.keys[0] = sibling->points.leaf.entries[sibling->slot[1]].key;
+			//parent->points.nonleaf.ch[1] = sibling;
+			parent->bmp = 3;
+			parent->slot[0] = 2;
+			parent->slot[1] = 0;	//there may have error
+			
+			leaf->parent = parent;
+			sibling->parent = parent;
+			root = parent;	//update the root of the b+ tree
+		}
+		else
+		{
+			sibling->parent = leaf->parent;
+			struct entry tempentry;
+			int temppos;
+			tempentry.key = sibling->entries[sibling->slot[1]].key;
+			tempentry.other.ch = sibling;
+			temppos = key_binary_search(parent, tempentry.key);
+			nonleaf_insert(parent, temppos, tempentry);
+		}
+	}
+}
+
+bool BPlusTree::BPlusTree_insert(struct entry newentry)
+{
+	struct slotbitmapnode * node = root, childnode;
+	int childnum, pos;
+	
+	if(root == NULL)
+	{	
+		root = new struct slotbitmapnode;
+		root->bmp = 3;	//tht lowest two bits
+	    root->slot[0] = 3; //the lowest two bits of slot[0]
+		root->slot[1] = 0;	//the first offset
+		root->entries[0] = newentry;
+		root->pointer.next = NULL;
+		root->parent = NULL;	//the parent of root is NULL
+		root->level = 1;
+		leafpoint = root;
+		return 1;
+	}
+
+	while(node != NULL)
+	{
+		childnum = node->slot[0] >> 1;
+		pos = key_binary_search(node, newentry.key);
+		if(node->slot[0] & 1)
+		{
+			if(pos < 0)
+				return 0;
+			else
+			{
+				leaf_insert(node, pos, newentry);	//insert from the leaf, than go up by the tree
+				return 1;
+			}
+			node = NULL;	//so that will run twice
+		}
+		else
+		{
+			if(pos < 0)
+			{
+				//node = node->points.nonleaf.ch[node->slot[-pos+1]];	//It is unnecessary
+				return 0;
+			}
+			else if(pos == 0)
+				node = node->pointer.ch0;
+			else
+				node = node->entries[node->slot[pos]].other.ch;	//should be pos not pos-1
+		}
+	}
+}
+
+void BPlusTree::nonleaf_delete(struct slotbitmapnode * nonleaf, const int & pos , const keytype & key)
+{
+	int childnum, i, j, nonleafpos, u;
+	struct slotbitmapnode * parent = nonleaf->parent;
+	keytype tmpkey;
+	byte tmppos;
+	_int64 tmpbmp;
+
+	childnum = nonleaf->slot[0] >> 1;
+	
+	if(childnum <= M / 2)
+	{
+		struct slotbitmapnode * sibling;
+		int siblingchild;
+		if(parent != NULL)
+		{
+			bool borrow = 0;	//0 stand for left, 1 stand for right
+			nonleafpos = key_binary_search(nonleaf->parent, nonleaf->entries[nonleaf->slot[1]].key);
+			if(nonleafpos < 0)
+			{
+				nonleafpos = -nonleafpos;
+				struct slotbitmapnode * l_sib, * r_sib;
+				if(nonleafpos == parent->slot[0] >> 1)	//the nonleaf in the rightest position
+				{
+					if(nonleafpos > 1)
+						sibling = parent->entries[parent->slot[nonleafpos - 1]].other.ch;
+					else if(1 == nonleafpos)	//when parent is root and the number of keys in root is 1
+					{
+						assert(parent->pointer.ch0 != NULL);
+						sibling = parent->pointer.ch0;
+					}
+					else
+						assert(0);
+					borrow = 0;
+				}
+				else if(1 == nonleafpos)	//this case should care of the ch0 pointer
+				{
+					if(parent->pointer.ch0 == NULL)
+					{
+						sibling = parent->entries[parent->slot[2]].other.ch;
+						borrow = 1;
+					}
+					else
+					{
+						l_sib = parent->pointer.ch0;
+						r_sib = parent->entries[parent->slot[2]].other.ch;
+						if((l_sib->slot[0] >> 1) >= (r_sib->slot[0] >> 1))	//select the left_sibling
+						{
+							sibling = l_sib;
+							borrow = 0;
+						}
+						else
+						{
+							sibling = r_sib;
+							borrow = 1;
+						}
+					}
+				}
+				else
+				{
+					l_sib = parent->entries[parent->slot[nonleafpos - 1]].other.ch;
+					r_sib = parent->entries[parent->slot[nonleafpos + 1]].other.ch;
+					if((l_sib->slot[0] >> 1) >= (r_sib->slot[0] >> 1))	//select the left_sibling
+					{
+						sibling = l_sib;
+						borrow = 0;
+					}
+					else
+					{
+						sibling = r_sib;
+						borrow = 1;
+					}
+				}
+			}
+			else if(nonleafpos == 0)	//nonleaf=parent->pointer.ch0, the nonleaf in the leftest position
+			{
+				sibling = parent->entries[parent->slot[1]].other.ch;
+				borrow = 1;
+			}
+			else
+			{
+				assert(0);	//report a error, there is a error
+			}
+
+			siblingchild = sibling->slot[0] >> 1;
+			if(!borrow)	//borrow from the left
+			{
+				if(siblingchild > (M / 2))	//left node right shift
+				{
+					tmppos = nonleaf->slot[pos];
+					keytype oldkey = nonleaf->entries[nonleaf->slot[1]].key;	//not the deleted key to use update the parents
+					nonleaf->bmp -= 1;
+					for(i = pos; i > 1; --i)
+					{
+						nonleaf->slot[i] = nonleaf->slot[i - 1];
+					}
+					nonleaf->slot[1] = tmppos;
+					nonleaf->entries[tmppos] = sibling->entries[sibling->slot[siblingchild]];
+					//nonleaf->slot[0] -= 2;	//the number of keys in nonleaf doesn't change
+					nonleaf->bmp += 1;
+					
+					sibling->bmp -= 1;
+					sibling->slot[0] -= 2;
+					sibling->bmp += 1;
+					assert(sibling->bmp & (1 << (sibling->slot[siblingchild] + 1)));
+					sibling->bmp ^= 1 << (sibling->slot[siblingchild] + 1);	//Attention: may be have error
+					assert(!(sibling->bmp & (1 << (sibling->slot[siblingchild] + 1))));
+
+					tmpkey = sibling->entries[sibling->slot[siblingchild]].key;	//update the parent
+					while(parent != NULL && (nonleafpos = key_binary_search(parent, oldkey)) < 0)
+					{
+						parent->entries[parent->slot[-nonleafpos]].key = tmpkey;
+						parent = parent->parent;
+					}
+				}
+				else	//merge nonleaf and left sibling
+				{
+					tmpbmp = sibling->bmp;	//the copy of the bmp
+					sibling->bmp -= 1;
+					for(j = siblingchild, i = 1; i <= childnum; ++i)
+					{
+						if(i != pos)
+						{
+							u = GetUnusedEntry(tmpbmp);
+							sibling->slot[++j] = u;
+							sibling->entries[u] = nonleaf->entries[nonleaf->slot[i]];
+							assert(!(tmpbmp & (1 << (u + 1))));
+							tmpbmp |= (1 << (u + 1));	//change 0 to 1, not ^ operation
+							assert(tmpbmp & (1 << (u + 1)));
+						}
+					}
+					sibling->slot[0] = (j << 1);	//update the count of the key in sibling, is not leaf
+					sibling->bmp = tmpbmp;
+					//sibling->pointer.next = nonleaf->pointer.next;
+					tmpkey = nonleaf->entries[nonleaf->slot[1]].key;
+					delete nonleaf;	//if nonleaf_delete isn't finished will report error
+					assert(0 != nonleafpos);	//so that it is unnecessary
+					if(0 == nonleafpos)
+						parent->pointer.ch0 = NULL;
+					else
+						parent->entries[parent->slot[nonleafpos]].other.ch = NULL;
+					nonleaf_delete(parent, nonleafpos, tmpkey);	//Attention: should be care of, the 1 will be change
+				}
+			}
+			else	//borrow from the right
+			{
+				if(siblingchild > (M / 2))	//right node left shift
+				{
+					tmppos = nonleaf->slot[pos];
+					//parent->entries[parent->slot[nonleafpos + 1]].key = sibling->entries[sibling->slot[2]].key;
+					nonleaf->bmp -= 1;
+					for(i = pos; i < childnum; ++i)
+					{
+						nonleaf->slot[i] = nonleaf->slot[i + 1];
+					}
+					nonleaf->slot[i] = tmppos;
+					nonleaf->entries[tmppos] = sibling->entries[sibling->slot[1]];
+					nonleaf->bmp += 1;
+					
+					byte tmpslot = sibling->slot[1];
+					_int64 oldkey = sibling->entries[sibling->slot[1]].key;	//should be saved before changing the slot
+					sibling->bmp -= 1;
+					for(i = 1; i < siblingchild; ++i)
+					{
+						sibling->slot[i] = sibling->slot[i + 1];
+					}
+					sibling->slot[0] -= 2;
+					sibling->bmp += 1;
+					assert(sibling->bmp & (1 << (tmpslot + 1)));
+					sibling->bmp ^= 1 << (tmpslot + 1);	//delete operation
+					assert(!(sibling->bmp & (1 << (tmpslot + 1))));
+
+					tmpkey = sibling->entries[sibling->slot[1]].key;	//stand for the new leftest point, not use 2
+					while(parent != NULL && (nonleafpos = key_binary_search(parent, oldkey)) < 0)	//update the parent
+					{
+						parent->entries[parent->slot[-nonleafpos]].key = tmpkey;
+						parent = parent->parent;
+					}
+					if(pos == 1)	//because borrow from right_sibling
+					{
+						parent = nonleaf->parent;	//parent may be changed
+						tmpkey = nonleaf->entries[nonleaf->slot[1]].key;	//stand for the new leftest point, not use 2
+						while(parent != NULL && (nonleafpos = key_binary_search(parent, key)) < 0)
+						{
+							parent->entries[parent->slot[-nonleafpos]].key = tmpkey;
+							parent = parent->parent;
+						}
+					}
+				}
+				else	//merge nonleaf and right sibling
+				{
+					tmpbmp = nonleaf->bmp;	//the copy of the bmp
+					assert(tmpbmp & (1 << (nonleaf->slot[pos] + 1)));
+					tmpbmp ^= (1 << (nonleaf->slot[pos] + 1));	//Attention: update the bit removed
+					assert(!(tmpbmp & (1 << (nonleaf->slot[pos] + 1))));
+					nonleaf->bmp -= 1;
+					for(i = pos; i < childnum; ++i)	//delete first
+					{
+						nonleaf->slot[i] = nonleaf->slot[i + 1];
+					}
+					for(j = childnum - 1, i = 1; i <= siblingchild; ++i)
+					{
+						u = GetUnusedEntry(tmpbmp);
+						nonleaf->slot[++j] = u;
+						nonleaf->entries[u] = sibling->entries[sibling->slot[i]];
+						assert(!(tmpbmp & (1 << (u + 1))));
+						tmpbmp |= (1 << (u + 1));	//don't use ^ operation
+						assert(tmpbmp & (1 << (u + 1)));
+					}
+					nonleaf->slot[0] = (j << 1);	//update the count of the key in sibling, is not leaf
+					nonleaf->bmp = tmpbmp;
+					//nonleaf->pointer.next = sibling->pointer.next;
+					if(1 == pos)	//should update the parent through the deleted key of nonleaf
+					{
+						tmpkey = nonleaf->entries[nonleaf->slot[1]].key;
+						int tmpnonleafpos;
+						while(parent != NULL && (tmpnonleafpos = key_binary_search(parent, key)) < 0)
+						{
+							parent->entries[parent->slot[-tmpnonleafpos]].key = tmpkey;
+							parent = parent->parent;
+						}
+					}
+					parent = nonleaf->parent;	//recovery the parent
+					tmpkey = sibling->entries[sibling->slot[1]].key;
+					delete sibling;	//if nonleaf_delete isn't finished will report error
+					parent->entries[parent->slot[nonleafpos + 1]].other.ch = NULL;
+					nonleaf_delete(parent, nonleafpos + 1, tmpkey);	//Attention: should be care of
+				}
+			}
+			return ;
+		}
+		else	//the nonleaf is the root in the b+ tree
+		{
+			if(childnum == 1)
+			{
+				assert(key == nonleaf->entries[nonleaf->slot[1]].key);
+				//update the root pointer
+				if(1 == pos)	//be care of
+					root = nonleaf->pointer.ch0;
+				else
+					root = nonleaf->entries[nonleaf->slot[pos - 1]].other.ch;	//root is updated to be the left of the delete node
+				root->parent = NULL;	//Attention: be care to update the child's parent to NULL, so that the root's parent is NULL
+				delete nonleaf;
+				//leafpoint = NULL;
+				return ;
+			}
+		}
+	}
+
+	//simple deletion
+	tmppos = nonleaf->slot[pos];
+	nonleaf->bmp -= 1;
+	for(i = pos; i < childnum; ++i)
+	{
+		nonleaf->slot[i] = nonleaf->slot[i + 1];
+	}
+	nonleaf->slot[0] -= 2;
+	nonleaf->bmp += 1;
+	assert(nonleaf->bmp & (1 << (tmppos + 1)));
+	nonleaf->bmp ^= (1 << (tmppos + 1));
+	assert(!(nonleaf->bmp & (1 << (tmppos + 1))));
+	if(pos == 1)
+	{
+		tmpkey = nonleaf->entries[nonleaf->slot[1]].key;
+		while(parent != NULL && (nonleafpos = key_binary_search(parent, key)) < 0)
+		{
+			parent->entries[parent->slot[-nonleafpos]].key = tmpkey;
+			parent = parent->parent;
+		}
+	}
+}
+
+bool BPlusTree::BPlusTree_delete(const keytype & key)
+{
+	struct slotbitmapnode * node = root, childnode;
+	int childnum, pos;
+	
+	while(node != NULL)
+	{
+		childnum = node->slot[0] >> 1;
+		pos = key_binary_search(node, key);
+		if(node->slot[0] & 1)
+		{
+			if(pos < 0)
+			{
+				pos = -pos;	//Attention: exchange to be the positive
+				leaf_delete(node, pos, key);	//delete from the leaf, than go up by the tree
+				return 1;	//so that the program will not delete the point twice
+			}
+			else
+				return 0;
+		}
+		else
+		{
+			if(pos < 0)
+				node = node->entries[node->slot[-pos]].other.ch;
+			else if(pos == 0)
+				node = node->pointer.ch0;
+			else
+				node = node->entries[node->slot[pos]].other.ch;	//should be pos not pos-1
+		}
+	}
+}
+
+int main()
+{
+	TestSystem MyTest;
+
+    return 0;
+}
+

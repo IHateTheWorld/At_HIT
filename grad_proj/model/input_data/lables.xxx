@@ -1,0 +1,4 @@
+DIS-SYM xxx-xxx:1 DIS-SYM:2
+TRE-SYM xxx-xxx:1 TRE-SYM:2
+TRE-DIS xxx-xxx:2 TRE-DIS:1
+MED-DIS xxx-xxx:3 MED-DIS|-:2 MED-DIS|+:1

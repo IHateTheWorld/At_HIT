@@ -1,0 +1,13 @@
+a 1
+b 2
+c 3
+d 4
+SS 100
+S 101
+A 102
+B 103
+### ###
+SS S
+S b@A@S@B|b@A
+A d@S@a|b
+B c@A@a|c

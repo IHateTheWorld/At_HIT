@@ -1,0 +1,63 @@
+5.4.4.1/numeral 利尿剂/<MED> ：/punctuation-mark 利尿剂/<MED> 主要/adverb 用于/verb 轻中度高血压/<DIS> ，/punctuation-mark 尤其/adverb 在/preposition 老年高血压/<DIS> 或/conjunction 并发心力衰竭/<DIS> 者/suffix 。/punctuation-mark
+<利尿剂,MED-DIS|+,轻中度高血压>
+《中国高血压防治指南_.txt_ner》
+5.4.4.2/numeral  /None β-阻滞剂/<MED> ：/punctuation-mark β-阻滞剂/<MED> 主要/adverb 用于/verb 轻中度高血压/<DIS> ，/punctuation-mark 尤其/adverb 在/preposition 静/adjective 息/verb 时/noun 心/noun 率/suffix 较/adverb 快/adjective (/punctuation-mark >/punctuation-mark 80/numeral 次/classifier //punctuation-mark 分/verb )/punctuation-mark 的/particle 中青年/noun 患者/noun 或/conjunction 合并/verb 心绞痛/<SYM><DIS> 时/noun 。/punctuation-mark
+<β-阻滞剂,MED-DIS|+,轻中度高血压>
+《中国高血压防治指南_.txt_ner》
+β-阻滞剂/<MED> 可/verb 用于/verb 心衰/<DIS> ，/punctuation-mark 但/conjunction 用/preposition 法/noun 与/conjunction 降压/verb 完全/adjective 不同/adjective ，/punctuation-mark 应/verb 加/verb 注意/verb 。/punctuation-mark
+<β-阻滞剂,MED-DIS|+,心衰>
+《中国高血压防治指南_.txt_ner》
+5.4.4.3/numeral 钙拮抗剂/<MED> ：/punctuation-mark 钙拮抗剂/<MED> 可/verb 用于/verb 各种/pronoun 程度/noun 的/particle 高血压/<DIS> ，/punctuation-mark 尤其/adverb 在/preposition 老年高血压/<DIS> 或/conjunction 合并/verb 稳定型心绞痛/<DIS> 时/noun 。/punctuation-mark
+<钙拮抗剂,MED-DIS|+,高血压>
+《中国高血压防治指南_.txt_ner》
+不稳定性心绞痛/<SYM><DIS> 和/conjunction 急性心肌梗死/<DIS> 时/noun 禁用/verb 速效二氢吡啶类钙拮抗剂/<MED> 。/punctuation-mark
+<速效二氢吡啶类钙拮抗剂,MED-DIS|-,急性心肌梗死> <速效二氢吡啶类钙拮抗剂,MED-DIS|-,不稳定性心绞痛>
+《中国高血压防治指南_.txt_ner》
+5.4.44/numeral 血管紧张素转换酶抑制剂/<MED> ：/punctuation-mark 血管紧张素转换酶抑制剂/<MED> 主要/adverb 用于/verb 高血压合并糖尿病/<DIS> ，/punctuation-mark 或者/conjunction 并发/verb 心脏/noun 功能/noun 不/adverb 全/adjective 、/punctuation-mark 肾脏损害/<DIS> 有/verb 蛋白尿/<SYM><DIS> 的/particle 患者/noun 。/punctuation-mark
+<血管紧张素转换酶抑制剂,MED-DIS|+,高血压合并糖尿病>
+《中国高血压防治指南_.txt_ner》
+临床/verb 试验/verb 反映/verb ，/punctuation-mark 钙拮抗剂/<MED> 对/preposition 心衰/<DIS> 病人/noun 无益/verb ，/punctuation-mark 如/verb 必需/verb 继续/verb 使用/verb 二氢吡啶类钙通道阻断剂/<MED> ，/punctuation-mark 可/conjunction 选用/verb 氨氯地平/<MED> 或/conjunction 非洛地平/<MED> 。/punctuation-mark
+<钙拮抗剂,MED-DIS|-,心衰>
+《中国高血压防治指南_.txt_ner》
+1983年/time-word Lababidi/noun [12]/string 首/numeral 次/classifier 采用/verb 经皮球囊主动脉瓣成形术/<TRE> (/punctuation-mark percutaneous/noun  /None balloon/noun  /None aortic/noun  /None valvuloplasty/noun ，/punctuation-mark PBAV/noun )/punctuation-mark 治疗/verb 先天性主动脉瓣狭窄/<DIS> (/punctuation-mark valvular/noun  /None aorticstenosis/noun ，/punctuation-mark AS/noun )/punctuation-mark 。/punctuation-mark
+<经皮球囊主动脉瓣成形术,TRE-DIS,先天性主动脉瓣狭窄>
+《儿童常见先天性心脏病介入治疗专家共识.txt_ner》
+采用/verb 房/noun 间隔/verb 穿刺/verb (/punctuation-mark 或/conjunction 开放/verb 卵/noun 圆/verb 孔/noun )/punctuation-mark 经/preposition 左/adjective 心房/noun 、/punctuation-mark 二尖瓣/noun 达/verb 左/adjective 心室/noun 途径/noun 进行/verb 球囊扩张术/<TRE> 时/noun ，/punctuation-mark 有时/adverb 可/verb 引起/verb 二尖瓣撕裂/<SYM> 或/conjunction 腱索断裂/<SYM> ，/punctuation-mark 导致/verb 二尖瓣反流/<DIS> 。/punctuation-mark
+<二尖瓣反流,DIS-SYM,二尖瓣撕裂> <二尖瓣反流,DIS-SYM,腱索断裂>
+《儿童常见先天性心脏病介入治疗专家共识.txt_ner》
+单纯/adjective 的/particle 再/adverb 狭窄/adjective 可以/verb 再次/adverb 进行/verb 球囊扩张术/<TRE> ，/punctuation-mark 但/conjunction 严重/adjective 的/particle 主动脉瓣反流/<DIS> 往往/adverb 需要/verb 外科/noun 手术/verb ，/punctuation-mark 甚至/conjunction 主动脉瓣置换术/<TRE> 。/punctuation-mark
+<主动脉瓣置换术,TRE-DIS,主动脉瓣反流>
+《儿童常见先天性心脏病介入治疗专家共识.txt_ner》
+应/verb 立即/adverb 吸氧/<TRE> ，/punctuation-mark 心/noun 率/suffix 减慢/verb 者/suffix 给予/verb 阿托品/<MED> ，/punctuation-mark 同时/conjunction 给予/verb 硝酸甘油/<MED> 防止/verb 血管痉挛/<DIS> 。/punctuation-mark
+<硝酸甘油,MED-DIS|+,血管痉挛>
+《儿童常见先天性心脏病介入治疗专家共识.txt_ner》
+心室颤动/<SYM><DIS> (/punctuation-mark 室颤/<SYM><DIS> )/punctuation-mark 远/adjective 比/preposition 室/noun 速/adjective 少/adjective 见/verb ，/punctuation-mark 但是/conjunction 致命/verb 性/noun 的/particle 室颤/<SYM><DIS> 多/adjective 见于/verb 心肌梗死/<SYM><DIS> 、/punctuation-mark 心力衰竭/<SYM><DIS> (/punctuation-mark 心衰/<DIS> )/punctuation-mark 、/punctuation-mark 心肌病/<DIS> 或/conjunction 通道/noun 疾病/noun ，/punctuation-mark 心衰/<DIS> 早期/noun-of-locality 死亡/verb 者/suffix 以/preposition 室颤/<SYM><DIS> 多/adjective 见/verb ，/punctuation-mark 心衰/<DIS> 末期/noun-of-locality 死亡/verb 者/suffix 多/adverb 以/preposition 泵/noun 功能/noun 不/adverb 全/adjective 多/adjective 见/verb ，/punctuation-mark 因此/conjunction 心衰/<DIS> 早期/noun-of-locality 就/adverb 应/verb 接受/verb β受体阻滞剂/<MED> 治疗/verb ，/punctuation-mark 以/preposition 降低/verb 交/verb 感/verb 张力/noun 。/punctuation-mark
+<β受体阻滞剂,MED-DIS|+,心衰>
+《室性心律失常药物治疗选择_蒋文平.txt_ner》
+5./numeral 胺碘酮/<MED> ：/punctuation-mark 为/preposition 目前/time-word 广为/adverb 推荐/verb 静脉/noun 应用/verb 终止/verb 室性心律失常/<DIS> 的/particle 药物/noun ，/punctuation-mark 它/pronoun 是/verb III/noun 类/classifier 药物/noun ，/punctuation-mark 属/verb 多/adjective 通道/noun 阻滞/verb 剂/classifier ，/punctuation-mark 口服/verb 起/verb 效/noun 慢/adjective ，/punctuation-mark 静/adjective 注/verb 起/verb 效/noun 快/adjective ，/punctuation-mark 因为/conjunction 静/adjective 注/verb 和/conjunction 口服/verb 的/particle 电/noun 生理/noun 不尽/adverb 相同/adjective ，/punctuation-mark 为/preposition 求/verb 快速/adverb 起/verb 效/noun ，/punctuation-mark 常/adverb 选/verb 静脉/noun 注射/verb 。/punctuation-mark
+<胺碘酮,MED-DIS|+,室性心律失常>
+《室性心律失常药物治疗选择_蒋文平.txt_ner》
+一旦/adverb 出现/verb 上述/distinguishing-word 症状/noun ，/punctuation-mark 应/verb 立即/adverb 吸氧/<TRE> ，/punctuation-mark 心/noun 率/suffix 减慢/verb 者/suffix 给予/verb 阿托品/<MED> 维持/verb 心/noun 率/suffix ，/punctuation-mark 同时/conjunction 给予/verb 硝酸甘油/<MED> 防止/verb 血管痉挛/<DIS> 加重/verb 病情/noun ，/punctuation-mark 必要/adjective 时/noun 立即/adverb 穿/verb 剌/verb 股/classifier 动脉/noun ，/punctuation-mark 将/preposition 导管/noun 置/verb 人/noun 栓塞/noun 发生/verb 处/noun 用/preposition 生理/noun 盐水/noun 冲洗/verb 。/punctuation-mark
+<硝酸甘油,MED-DIS|+,血管痉挛>
+《常见先天性心脏病介入治疗中国专家共识一、房间隔缺损介入治疗.txt_ner》
+因此/conjunction ，/punctuation-mark 洋地黄类药物/<MED> 仅/adverb 在/preposition 伴有心力衰竭的房颤/<DIS> 患者/noun 作为/verb 一/numeral 线/classifier 治疗/verb ，/punctuation-mark 对/preposition 活动/verb 量/noun 很/adverb 小/adjective 的/particle 患者/noun 也/adverb 较为/adverb 适当/adjective ，/punctuation-mark 而/conjunction 对/preposition 其他/pronoun 房颤/<SYM><DIS> 患者/noun 不/adverb 单独/adverb 作为/verb 一/numeral 线/classifier 药物/noun 。/punctuation-mark
+<洋地黄类药物,MED-DIS|+,伴有心力衰竭的房颤>
+《心房颤动 目前认识和治疗建议.txt_ner》
+阿司匹林/<MED> (/punctuation-mark 抗/verb 血小板制剂/<MED> )/punctuation-mark 对/preposition 非风湿性房颤/<DIS> 患者/noun 脑卒中/<DIS> 的/particle 一级/distinguishing-word 预防/verb 也/adverb 有效/adjective ，/punctuation-mark 但/conjunction 其/pronoun 疗效/noun 逊/adjective 于/preposition 华法林/<MED> 。/punctuation-mark
+<阿司匹林,MED-DIS|+,脑卒中> <阿司匹林,MED-DIS|+,非风湿性房颤>
+《心房颤动 目前认识和治疗建议.txt_ner》
+对/preposition 房颤/<SYM><DIS> 患者/noun 的/particle 治疗/verb 中/noun-of-locality ，/punctuation-mark 也许/adverb “/punctuation-mark 保护/verb 大脑/noun ”/punctuation-mark 是/verb 头等/distinguishing-word 重要/adjective 的/particle 治疗/verb 措施/noun ，/punctuation-mark 因此/conjunction 所有/distinguishing-word 具有/verb 脑卒中/<DIS> 高危/distinguishing-word 的/particle 患者/noun 都/adverb 需要/verb 以/preposition 华法林/<MED> 作/verb 长期/adverb 抗/verb 凝/verb 治疗/verb 。/punctuation-mark
+<华法林,MED-DIS|+,脑卒中>
+《心房颤动 目前认识和治疗建议.txt_ner》
+无器质性心脏病的房颤/<DIS> 患者/noun ，/punctuation-mark 静脉/noun 应用/verb 或/conjunction 口服/verb 普罗帕酮/<MED> 是/verb 有效/adjective 和/conjunction 安全/adjective 的/particle ，/punctuation-mark 而/conjunction 对/preposition 有/verb 缺血性心脏病/<DIS> 、/punctuation-mark 左心室EF降低/<DIS> 、/punctuation-mark 心力衰竭/<SYM><DIS> 或/conjunction 严重/adjective 传导/verb 障碍/noun 的/particle 患者/noun ，/punctuation-mark 应该/verb 避免/verb 用/verb I/noun  /None C/noun 类/classifier 药物/noun 来/verb 转/verb 复/verb 心律/noun 。/punctuation-mark
+<普罗帕酮,MED-DIS|+,无器质性心脏病的房颤>
+《心房颤动 目前认识和治疗建议.txt_ner》
+另/pronoun 一个/numeral 方法/noun 是/verb 房颤/<SYM><DIS> 住院/verb 患者/noun 做/verb 经食管超声心动图检查/<TRE> (/punctuation-mark transesophageal/noun  /None echocardiogram/noun ，/punctuation-mark TEE/noun )/punctuation-mark 并/conjunction 静脉/noun 注射/verb 肝素/<MED> (/punctuation-mark heparin/verb )/punctuation-mark 如果/conjunction TEE/noun 没有/adverb 发现/verb 心房/noun 血栓/noun ，/punctuation-mark 就/adverb 可以/verb 进行/verb 心律/noun 转/verb 复/verb ，/punctuation-mark 肝素/<MED> 以及/conjunction 华法林/<MED> 继续/verb 应用/verb 直到/verb ENR/noun ≧/punctuation-mark 2.0/numeral 。/punctuation-mark
+<经食管超声心动图检查,TRE-DIS,房颤>
+《心房颤动 目前认识和治疗建议.txt_ner》
+3./numeral 并发心律失常/<DIS> 的/particle 处理/verb ：/punctuation-mark 急性心肌梗死/<DIS> 由于/conjunction 缺/verb 血性/noun 心/noun 电/noun 不/adverb 稳定/adjective 可/verb 出现/verb 室性早搏/<SYM><DIS> 、/punctuation-mark 室性心动过速/<SYM><DIS> 、/punctuation-mark 心室颤动/<SYM><DIS> 或/conjunction 加速/verb 性/noun 心室/noun 自主/verb 心律/noun ;/punctuation-mark 由于/conjunction 泵/verb 衰竭/verb 或/conjunction 过度/adverb 交/verb 感/verb 兴奋/verb 可/verb 引起/verb 窦性心动过速/<SYM><DIS> 、/punctuation-mark 房性早搏/<SYM><DIS> 、/punctuation-mark 心房颤动/<SYM><DIS> 、/punctuation-mark 心房扑动/<SYM><DIS> 或/conjunction 室上性心动过速/<SYM><DIS> ;/punctuation-mark 由于/conjunction 缺血/verb 或/conjunction 自主神经反射/<SYM> 可/verb 引起/verb 缓慢性心律失常/<DIS> (/punctuation-mark 如/verb 窦性心动过缓/<SYM><DIS> 、/punctuation-mark 房室传导阻滞/<SYM><DIS> )/punctuation-mark 。/punctuation-mark
+<缓慢性心律失常,DIS-SYM,自主神经反射>
+《急性心肌梗死诊断和治疗指南_高润霖.txt_ner》
+急性心肌梗死/<DIS> 由于/conjunction 缺/verb 血性/noun 心/noun 电/noun 不/adverb 稳定/adjective 可/verb 出现/verb 室性期前收缩/<SYM><DIS> 、/punctuation-mark 室速/<DIS> 、/punctuation-mark 室颤/<SYM><DIS> 或/conjunction 出现/verb 加速性室性自主心律/<DIS> ;/punctuation-mark 由于/conjunction 泵/verb 衰竭/verb 或/conjunction 过度/adverb 交/verb 感/verb 兴奋/verb 可/verb 引起/verb 窦/noun 速/noun 、/punctuation-mark 房性期前收缩/<SYM><DIS> 、/punctuation-mark 房颤/<SYM><DIS> 、/punctuation-mark 房扑/<DIS> 或/conjunction 室/noun 上/noun-of-locality 速/adjective ;/punctuation-mark 由于/conjunction 缺血/verb 或/conjunction 自主神经反射/<SYM> 可/verb 引起/verb 缓慢性心律失常/<DIS> (/punctuation-mark 如/verb 窦性心动过缓/<SYM><DIS> )/punctuation-mark 、/punctuation-mark 房室/noun 或/conjunction 室内传导阻滞/<SYM><DIS> 。/punctuation-mark
+<缓慢性心律失常,DIS-SYM,自主神经反射>
+《抗心律失常药物治疗建议_抗心律失常药物治疗专题组.txt_ner》

@@ -1,0 +1,536 @@
+儿童/noun 常见/adjective 先天性心脏病介入治疗/<TRE> 专家/noun 共识/noun
+
+前言/noun
+
+先天性心脏病/<DIS> (/punctuation-mark 简称/verb 先/adjective 心病/noun )/punctuation-mark 是/verb 儿童/noun 时期/noun 最/adverb 常见/adjective 的/particle 心脏病/<DIS> ，/punctuation-mark 占/verb 我国/noun 重大/adjective 出生/verb 缺陷/noun 发病率/noun 和/conjunction 死亡率/noun 的/particle 首/numeral 位/classifier [1]/string 。/punctuation-mark
+
+自/preposition 20/numeral 世纪/noun 80/numeral 年代/noun 以来/noun-of-locality ，/punctuation-mark 先/adverb 心病/noun 的/particle 介入性心导管术/<TRE> 得到/verb 发展/verb 并/conjunction 成为/verb 先/adjective 心病/noun 治疗/verb 的/particle 重要/adjective 手段/noun ，/punctuation-mark 1998年/time-word 美国/noun 心脏/noun 协会/noun (/punctuation-mark AHA/noun )/punctuation-mark 发布/verb 了/particle "/punctuation-mark 小儿/noun 介入性心导管术/<TRE> 的/particle 科学/noun 声明/noun "/punctuation-mark [2]/string 。/punctuation-mark
+
+近/adjective 20/numeral 年/classifier 来/noun-of-locality ，/punctuation-mark 随着/preposition 新/adjective 的/particle 介入/verb 材料/noun 、/punctuation-mark 技术/noun 和/conjunction 治疗/verb 理念/noun 出现/verb ，/punctuation-mark 先/adverb 心病/noun 介入/verb 治疗/verb 的/particle 数量/noun 迅速/adjective 增长/verb ，/punctuation-mark 介入/verb 治疗/verb 的/particle 病/noun 种/classifier 、/punctuation-mark 范围/noun 及/conjunction 操作/verb 技术/noun 也/adverb 有所/verb 突破/verb ，/punctuation-mark 为此/adverb AHA/noun 于/preposition 2011年/time-word 公布/verb 了/particle 更/adverb 新/adjective 后/noun-of-locality 的/particle "/punctuation-mark 小儿/noun 心脏病/<DIS> 心/noun 导管/noun 检查/verb 及/conjunction 介入/verb 治疗/verb 适应/verb 证/noun 的/particle 科学/noun 声明/noun "/punctuation-mark [3]/string 。/punctuation-mark
+
+2004年/time-word 《/punctuation-mark 中华/noun 儿科/noun 杂志/noun 》/punctuation-mark 上/noun-of-locality 发表/verb 了/particle "/punctuation-mark 先天性心脏病/<DIS> 经/preposition 导管/noun 介入/verb 治疗/verb 指南/noun "/punctuation-mark [4]/string ，/punctuation-mark 为/preposition 指导/verb 我国/noun 先/adverb 心病/noun 介入/verb 治疗/verb 工作/verb 的/particle 开展/verb 起/verb 到/verb 了/particle 很/adverb 好/adjective 的/particle 作用/noun 。/punctuation-mark
+
+10/numeral 余/numeral 年/classifier 来/noun-of-locality ，/punctuation-mark 由于/conjunction 新型/distinguishing-word 介入/verb 装置/noun 的/particle 引入/verb 及其/conjunction 国产化/verb 仿制/verb 和/conjunction 改进/verb ，/punctuation-mark 先/adverb 心病/noun 介入/verb 治疗/verb 在/preposition 我国/noun 得到/verb 了/particle 快速/distinguishing-word 发展/verb ，/punctuation-mark 但/conjunction 同时/conjunction 也/adverb 面临/verb 着/particle 一些/numeral 新/adjective 的/particle 问题/noun 。/punctuation-mark
+
+为了/preposition 进一步/adverb 规范/verb 先/adjective 心病/noun 介入/verb 治疗/verb ，/punctuation-mark 促进/verb 我国/noun 先/adverb 心病/noun 介入/verb 治疗/verb 的/particle 健康/adjective 有序/adjective 发展/verb ，/punctuation-mark 在/preposition 国内/locative-word 既/conjunction 往/preposition 工作/verb 的/particle 基础/noun 上/noun-of-locality ，/punctuation-mark 结合/verb AHA/noun 更新/verb 后/noun-of-locality 的/particle 科学/noun 声明/noun ，/punctuation-mark 中国/noun 医师/noun 协会/noun 儿科/noun 医师/noun 分会/noun 先天性心脏病/<DIS> 专家/noun 委员会/noun 、/punctuation-mark 中华/noun 医学会/noun 儿科/noun 学分/noun 会/verb 心血管/noun 学/verb 组/noun 和/conjunction 《/punctuation-mark 中华/noun 儿科/noun 杂志/noun 》/punctuation-mark 编委会/noun 组织/noun 国内/locative-word 相关/verb 专家/noun 对/preposition 儿童/noun 常见/adjective 先/adverb 心病/noun 介入/verb 治疗/verb 的/particle 适应/verb 证/noun 、/punctuation-mark 操作/verb 要点/noun 、/punctuation-mark 并发症/noun 的/particle 防治/verb 及/conjunction 随/verb 访/verb 进行/verb 了/particle 讨论/verb ，/punctuation-mark 并/conjunction 在/preposition 此/pronoun 基础/noun 上/noun-of-locality 对/preposition 我国/noun 现有/verb 的/particle 指南/noun 进行/verb 了/particle 修订/verb 更新/verb 。/punctuation-mark
+
+本/pronoun 共识/noun 对/preposition 先/adverb 心病/noun 介入/verb 治疗/verb 推荐/verb 类别/noun 的/particle 表述/verb 沿用/verb 国际/noun 上/noun-of-locality 通常/adverb 采用/verb 的/particle 方式/noun ：/punctuation-mark
+
+Ⅰ/numeral 类/classifier ：/punctuation-mark 已/adverb 证实/verb 和/conjunction (/punctuation-mark 或/adverb )/punctuation-mark 一致/adjective 公认/verb 某/pronoun 诊疗/verb 措施/noun 有益/adjective 、/punctuation-mark 有/verb 用/verb 和/conjunction 有效/adjective 。/punctuation-mark
+
+Ⅱ/numeral 类/classifier ：/punctuation-mark 某/pronoun 诊疗/verb 措施/noun 的/particle 有用/adjective 性/noun 和/conjunction 有效性/noun 的/particle 证据/noun 尚/adverb 有/verb 矛盾/adjective 或/conjunction 存在/verb 不同/adjective 观点/noun 。/punctuation-mark
+
+Ⅱ/numeral a/pronoun 类/noun ：/punctuation-mark 有关/verb 证据/noun 和/conjunction (/punctuation-mark 或/adverb )/punctuation-mark 观点/noun 倾向/noun 于/preposition 有/verb 用/verb 和/conjunction 有效/adjective 。/punctuation-mark
+
+Ⅱ/numeral b/onomatopoeia 类/noun ：/punctuation-mark 有关/verb 证据/noun 和/conjunction (/punctuation-mark 或/adverb )/punctuation-mark 观点/noun 尚/adverb 不/adverb 能/verb 充分/adjective 说明/verb 有用/adjective 和/conjunction 有效/adjective 。/punctuation-mark
+
+Ⅲ/numeral 类/classifier ：/punctuation-mark 已/adverb 证实/verb 和/conjunction (/punctuation-mark 或/adverb )/punctuation-mark 一致/adjective 公认/verb 某/pronoun 诊疗/verb 措施/noun 无用/verb 和/conjunction 无效/verb ，/punctuation-mark 并/conjunction 可能/verb 有害/adjective 。/punctuation-mark
+
+经皮球囊肺动脉瓣成形术/<TRE>
+
+1982年/time-word Kan/noun 等/particle [5]/string 首先/adverb 报道/verb 经皮球囊肺动脉瓣成形术/<TRE> (/punctuation-mark percutaneous/noun  /None balloon/noun  /None pulmonary/adjective  /None valvuloplasty/noun ，/punctuation-mark PBPV/noun )/punctuation-mark 治疗/verb 先天性肺动脉瓣狭窄/<DIS> (/punctuation-mark valvular/noun  /None pulmonary/adjective  /None stenosis/adjective ，/punctuation-mark PS/noun )/punctuation-mark 。/punctuation-mark
+
+30/numeral 余/numeral 年/classifier 来/noun-of-locality 对/preposition PBPV/noun 的/particle 作用/noun 机制/noun 、/punctuation-mark 适应/verb 证/noun 、/punctuation-mark 方法/noun 学/verb 、/punctuation-mark 术/noun 前/noun-of-locality 术/noun 后/noun-of-locality 血流/noun 动力学/noun 及/conjunction 较/adverb 大/adjective 样本/noun 的/particle 长期/adverb 随/verb 访/verb 研究/verb 表明/verb ，/punctuation-mark PBPV/noun 为/preposition 治疗/verb PS/noun 的/particle 首选/verb 方法/noun ，/punctuation-mark 对于/preposition 大部分/numeral 的/particle 病例/noun 可/verb 替代/verb 外科/noun 开/verb 胸/noun 手术/noun [/punctuation-mark 6/numeral ，/punctuation-mark 7/numeral ，/punctuation-mark 8/numeral ]/punctuation-mark 。/punctuation-mark
+
+一/numeral 、/punctuation-mark 球囊扩张术/<TRE> 的/particle 指/verb 征/verb
+
+Ⅰ/numeral 类/classifier
+
+1．/numeral 经/preposition 导管/noun 或/conjunction 超声/noun 多普勒/noun 测量/verb 的/particle 跨/verb 瓣/noun 收缩/verb 期/classifier 压/verb 差/adjective ≥40mmHg/noun (/punctuation-mark 1mmHg＝0.133kPa/noun )/punctuation-mark 或者/conjunction 合并/verb 右心功能不全/<SYM> 的/particle 典型/noun PS/noun 。/punctuation-mark
+
+2．/numeral 依赖/verb 于/preposition 动脉/noun 导管/noun 开放/verb 的/particle 危重/adjective 性/noun PS/noun [3]/string 。/punctuation-mark
+
+Ⅱ/numeral a/pronoun 类/noun
+
+1．/numeral 符合/verb 上述/distinguishing-word 球囊扩张术/<TRE> 指/verb 征/verb 的/particle 瓣/noun 及/conjunction 瓣膜/noun 发育/verb 不良/adjective 型/noun PS/noun 。/punctuation-mark
+
+2．/numeral 室/noun 间隔/noun 完整/adjective 的/particle 肺动脉瓣闭锁/<DIS> ，/punctuation-mark 如果/conjunction 解剖/verb 条件/noun 合适/adjective ，/punctuation-mark 并且/conjunction 排除/verb 右/noun-of-locality 心室/noun 依赖性/noun 冠状动脉/noun 循环/verb ，/punctuation-mark 可以/verb 进行/verb 瓣膜/noun 打孔/verb 球囊扩张术/<TRE> [3]/string 。/punctuation-mark
+
+Ⅱ/numeral b/onomatopoeia 类/noun
+
+婴幼儿/noun 复杂/adjective 先/adverb 心病/noun 伴/verb PS/noun ，/punctuation-mark 包括/verb 少数/numeral 法洛四联症/<TRE> 患儿/noun ，/punctuation-mark 暂/adverb 不/adverb 能/verb 进行/verb 根治/verb 术/noun 时/noun ，/punctuation-mark 可/conjunction 采用/verb 球囊扩张术/<TRE> 进行/verb 姑息治疗/<TRE> [3]/string 。/punctuation-mark
+
+Ⅲ/numeral 类/classifier
+
+1．/numeral 室/noun 间隔/noun 完整/adjective 的/particle 肺动脉瓣闭锁/<DIS> 或/conjunction 极/adverb 重度/adjective PS/noun ，/punctuation-mark 合并/verb 右/noun-of-locality 心室/noun 依赖性/noun 冠状动脉/noun 循环/verb 。/punctuation-mark
+
+2．PS/noun 伴/verb 有/verb 需要/noun 外科/noun 手术/verb 处理/verb 的/particle 重度三尖瓣反流/<DIS> 。/punctuation-mark
+
+3．/numeral 单纯/adjective 性/noun 肺动脉/noun 瓣/noun 下/noun-of-locality 漏斗/noun 部/classifier 狭窄/adjective ，/punctuation-mark 但/conjunction 瓣膜/noun 正常/adjective 者/suffix 。/punctuation-mark
+
+二/numeral 、/punctuation-mark 操作/verb 要点/noun
+
+1．/numeral 球/noun 囊/noun 导管/noun 的/particle 选择/verb ：/punctuation-mark
+
+通常/adverb 选择/verb 的/particle 球/noun 囊/noun 与/preposition 瓣/noun 环/verb 直径/noun 比值/noun 为/preposition 1.2/numeral ~/punctuation-mark 1.4/numeral [9]/string ，/punctuation-mark 近年来/adverb 也/adverb 有人/pronoun 推荐/verb 球/noun 囊/noun 与/preposition 瓣/noun 环/verb 直径/noun 比值/noun 为/preposition 1.20/numeral ~/punctuation-mark 1.25/numeral ，/punctuation-mark 希望/verb 在/preposition 不/adverb 影响/verb 球/noun 囊/noun 扩张/verb 效果/noun 的/particle 前提/noun 下/noun-of-locality 能/verb 减少/verb 远期/distinguishing-word 肺动脉/noun 瓣/noun 反/verb 流/verb 的/particle 发生率/noun [10]/string 。/punctuation-mark
+
+球/noun 囊/noun 长度/noun 根据/preposition 患儿/noun 的/particle 年龄/noun 来/verb 决定/verb ，/punctuation-mark 新生儿/noun 或/conjunction 小/adjective 婴儿/noun 宜/adjective 选择/verb 长度/noun 为/verb 20mm/noun 的/particle 球/noun 囊/noun ；/punctuation-mark 30mm/noun 长度/noun 球/noun 囊/noun 可/verb 适应/verb 于/preposition 小/adjective 婴儿/noun 外/noun-of-locality 所有/distinguishing-word 儿童/noun 患者/noun 。/punctuation-mark
+
+2．/numeral 年长/verb 儿/noun PBPV/noun 术/noun ：/punctuation-mark
+
+应用/verb 单一/adjective 球/noun 囊/noun 难以/adverb 达到/verb 足够/verb 的/particle 球/noun 囊/noun 与/preposition 瓣/noun 环/verb 直径/noun 比值/noun 时/noun ，/punctuation-mark 可/conjunction 采用/verb 双/numeral 球囊扩张术/<TRE> ，/punctuation-mark 选用/verb 的/particle 两/numeral 根/classifier 球/noun 囊/noun 直径/noun 和/conjunction 长度/noun 应/verb 大致/adverb 相同/adjective ，/punctuation-mark 以/preposition 避免/verb 扩张/verb 时/noun 上/noun-of-locality 下滑/verb 动/verb ；/punctuation-mark 此外/conjunction ，/punctuation-mark 也/adverb 可/verb 选用/verb Inoue/noun 导管/noun 行/noun 球囊扩张术/<TRE> 。/punctuation-mark
+
+3．/numeral 重度/distinguishing-word PS/noun 的/particle PBPV/noun 术/noun ：/punctuation-mark
+
+在/preposition 导/verb 丝/noun 和/conjunction 导管/noun 通过/preposition 瓣/classifier 口/noun 前/noun-of-locality 就/adverb 要/verb 准备/verb 好球/noun 囊/noun 导管/noun ，/punctuation-mark 尽量/adverb 缩短/verb 操作/verb 时间/noun ，/punctuation-mark 以/preposition 避免/verb 肺动脉/noun 前/noun-of-locality 向/preposition 血流/noun 阻断/verb 所/particle 导致/verb 的/particle 严重低氧血症/<DIS> 和/conjunction 血流动力学障碍/<SYM> 。/punctuation-mark
+
+对于/preposition 新生儿/noun 危重/adjective 性/noun PS/noun 患者/noun ，/punctuation-mark 可/conjunction 先/adverb 选用/verb 较/adverb 小/adjective 球/noun 囊/noun 扩张/verb ，/punctuation-mark 然后/conjunction 再/adverb 选用/verb 合适/adjective 大小/noun 的/particle 球/noun 囊/noun 扩张/verb 。/punctuation-mark
+
+三/numeral 、/punctuation-mark 常见/adjective 并发症/noun 及其/conjunction 防治/verb
+
+据/preposition 早期/time-word 统计/verb ，/punctuation-mark PBPV/noun 手术/noun 相关/verb 的/particle 病/noun 死/verb 率/suffix 为/preposition 0.24%/numeral ，/punctuation-mark 严重/adjective 并发症/noun 的/particle 发生率/noun 为/preposition 0.35%/numeral ，/punctuation-mark 多/adjective 见于/verb 新生儿/noun 、/punctuation-mark 小/adjective 婴儿/noun 及/conjunction 重症/noun 患者/noun [6]/string 。/punctuation-mark
+
+1．/numeral 一/numeral 过/verb 性/noun 的/particle 心动过缓/<SYM> 、/punctuation-mark 血压下降/<SYM><DIS> ：/punctuation-mark
+
+多/numeral 由于/preposition 肺动脉/noun 前/noun-of-locality 向/preposition 血流/noun 阻断/verb 所/particle 致/verb ，/punctuation-mark 应/verb 尽量/adverb 缩短/verb 球/noun 囊/noun 扩张/verb 的/particle 时间/noun 。/punctuation-mark
+
+2．/numeral 心脏/noun 穿孔/verb 或/conjunction 心包填塞/<SYM> ：/punctuation-mark
+
+术/noun 中/noun-of-locality 如/verb 发生/verb 血压下降/<SYM><DIS> 、/punctuation-mark 心动过缓/<SYM> 或/conjunction 导管/noun 头/numeral 端/classifier 途径/noun 异常/adjective 时/noun ，/punctuation-mark 应/verb 怀疑/verb 心脏/noun 穿孔/verb ，/punctuation-mark 须/adverb 立即/adverb 行/adjective 心脏/noun 超声/noun 检查/verb ，/punctuation-mark 以便/adverb 早期/noun-of-locality 诊断/verb 和/conjunction 及时/adjective 处理/verb 。/punctuation-mark
+
+3．/numeral 三/numeral 尖/adjective 瓣/classifier 重度/distinguishing-word 反/verb 流/verb ：/punctuation-mark
+
+可能/verb 由于/preposition 球/noun 囊/noun 导管/noun 穿过/verb 三/numeral 尖/adjective 瓣/classifier 腱/punctuation-mark 索/verb 或/conjunction 球/noun 囊/noun 扩张/verb 时/noun 损伤/verb 三/numeral 尖/noun 瓣/noun 所/particle 致/verb ，/punctuation-mark 需/verb 外科/noun 手术/verb 治疗/verb 。/punctuation-mark
+
+4．/numeral 右/noun-of-locality 心室/noun 流出/verb 道/classifier 反应/verb 性/noun 痉挛/<SYM><DIS> ：/punctuation-mark
+
+部分/numeral 患者/noun 在/preposition 球囊扩张术/<TRE> 后/noun-of-locality 瓣/classifier 口/noun 梗阻/verb 虽/conjunction 已/adverb 解除/verb ，/punctuation-mark 但/conjunction 由于/conjunction 发生/verb 反应/verb 性/noun 漏斗/noun 部/classifier 痉挛/<SYM><DIS> ，/punctuation-mark 致使/verb 右/noun-of-locality 心室/noun 压力/noun 下降/verb 不/adverb 满意/verb ，/punctuation-mark 可/verb 给予/verb β受体阻滞剂/<MED> 治疗/verb 1/numeral ~/punctuation-mark 6/numeral 个/classifier 月/noun 。/punctuation-mark
+
+5．/numeral 心律失常/<SYM><DIS> ：/punctuation-mark
+
+术/noun 中/noun-of-locality 可/verb 出现/verb 一/numeral 过/verb 性/noun 房室/noun 阻滞/verb 或/conjunction 快速/distinguishing-word 心律失常/<SYM><DIS> 。/punctuation-mark
+
+6．/numeral 肺动脉/noun 瓣/noun 反/verb 流/verb ：/punctuation-mark
+
+较为/adverb 常见/adjective ，/punctuation-mark 但/conjunction 多/adjective 为/verb 轻/adjective 至/verb 中度/distinguishing-word ，/punctuation-mark 一般/adjective 不/adverb 需要/verb 处理/verb 。/punctuation-mark
+
+四/numeral 、/punctuation-mark 随/adverb 访/verb
+
+PBPV/noun 术/noun 后/noun-of-locality 长期/distinguishing-word 效果/noun 一般/particle 较/adverb 好/adjective ，/punctuation-mark 再/adverb 狭窄/adjective 的/particle 发生率/noun 低/adjective ，/punctuation-mark 部分/noun 再/adverb 狭窄/adjective 的/particle 患者/noun 可以/verb 再次/adverb 进行/verb PBPV/noun 术/noun ；/punctuation-mark 肺动脉/noun 瓣/noun 反/verb 流/verb 在/preposition PBPV/noun 术/noun 后/noun-of-locality 较为/adverb 常见/adjective ，/punctuation-mark 大多/adverb 为/verb 轻/adjective 、/punctuation-mark 中/noun-of-locality 度/classifier ，/punctuation-mark 对/preposition 血流/noun 动力学/noun 影响/verb 不/adverb 大/adjective ，/punctuation-mark 但/conjunction 在/preposition 一/numeral 组/classifier 病例/noun 报道/verb 中/noun-of-locality 有/verb 6%/numeral 的/particle 患者/noun 因为/conjunction 严重/adjective 的/particle 肺动脉/noun 瓣/noun 反/verb 流/verb 需要/verb 进行/verb 肺动脉瓣置换术/<TRE> [11]/string 。/punctuation-mark
+
+PBPV/noun 术/noun 后/noun-of-locality 需要/verb 长期/adverb 随/verb 访/verb ，/punctuation-mark 包括/verb 临床体检/<TRE> 、/punctuation-mark 心电图/<TRE> 和/conjunction 心脏超声检查/<TRE> 等/particle ；/punctuation-mark 推荐/verb 术/noun 后/noun-of-locality 第1/numeral 、/punctuation-mark 3/numeral 、/punctuation-mark 6/numeral 、/punctuation-mark 12/numeral 个/classifier 月/noun 及/conjunction 以后/noun-of-locality 每年/pronoun 常规/noun 随访/verb 。/punctuation-mark
+
+经皮球囊主动脉瓣成形术/<TRE>
+
+1983年/time-word Lababidi/noun [12]/string 首/numeral 次/classifier 采用/verb 经皮球囊主动脉瓣成形术/<TRE> (/punctuation-mark percutaneous/noun  /None balloon/noun  /None aortic/noun  /None valvuloplasty/noun ，/punctuation-mark PBAV/noun )/punctuation-mark 治疗/verb 先天性主动脉瓣狭窄/<DIS> (/punctuation-mark valvular/noun  /None aorticstenosis/noun ，/punctuation-mark AS/noun )/punctuation-mark 。/punctuation-mark
+<经皮球囊主动脉瓣成形术,TRE-DIS,先天性主动脉瓣狭窄>
+30/numeral 余/numeral 年/classifier 来/noun-of-locality 随着/preposition 介入/verb 材料/noun 和/conjunction 方法/noun 学/verb 的/particle 进展/verb 以及/conjunction 临床/verb 经验/noun 的/particle 积累/verb ，/punctuation-mark PBAV/noun 术/noun 的/particle 成功率/noun 较/adverb 早期/noun-of-locality 进一步/adverb 提高/verb ，/punctuation-mark 并发症/noun 的/particle 发生率/noun 也/adverb 较/adverb 前/noun-of-locality 减少/verb ，/punctuation-mark 在/preposition 国外/locative-word 大多数/numeral 心血管/noun 中心/noun 已/adverb 成为/verb 先天性/distinguishing-word AS/noun 的/particle 首选/verb 治疗/verb 方法/noun [/punctuation-mark 13/numeral ，/punctuation-mark 14/numeral ，/punctuation-mark 15/numeral ]/punctuation-mark 。/punctuation-mark
+
+一/numeral 、/punctuation-mark 球囊扩张术/<TRE> 的/particle 指/verb 征/verb
+
+Ⅰ/numeral 类/classifier
+
+1．/numeral 儿童/noun 单纯/adjective 性/noun AS/noun ，/punctuation-mark 如果/conjunction 静/adjective 息/noun 状态/noun 下/noun-of-locality 经/preposition 导管/noun 测量/verb 的/particle 跨/verb 瓣/noun 收缩/verb 期/classifier 压/verb 差/adjective ≥50mmHg/noun ，/punctuation-mark 推荐/verb 进行/verb 球囊扩张术/<TRE> 。/punctuation-mark
+
+2．/numeral 依赖/verb 于/preposition 动脉/noun 导管/noun 开放/verb 的/particle 新生儿/noun 单纯/adjective 性/noun 重症/noun AS/noun 以及/conjunction 合并/verb 左/adjective 心室/noun 收缩/verb 功能/noun 减退/verb 的/particle 儿童/noun 单纯/adjective 性/noun AS/noun ，/punctuation-mark 无论/conjunction 跨/verb 瓣/noun 收缩/verb 期/classifier 压/verb 差/adjective 如何/pronoun ，/punctuation-mark 均/adverb 推荐/verb 进行/verb 球囊扩张术/<TRE> [3，16]/string 。/punctuation-mark
+
+3．/numeral 儿童/noun 单纯/adjective 性/noun AS/noun ，/punctuation-mark 如果/conjunction 静/adjective 息/noun 状态/noun 下/noun-of-locality 经/preposition 导管/noun 测量/verb 的/particle 跨/verb 瓣/noun 收缩/verb 期/classifier 压/verb 差/adjective ≥40mmHg/noun ，/punctuation-mark 并且/conjunction 在/preposition 静/adjective 息/noun 或/conjunction 运动/noun 时/noun 合并/verb 有/verb 心绞痛/<SYM><DIS> 、/punctuation-mark 晕厥/<DIS> 等/particle 症状/noun ，/punctuation-mark 或者/conjunction 心电图/<TRE> 上/noun-of-locality 有/verb 缺/verb 血性/noun ST/noun -/punctuation-mark T/noun 改变/verb ，/punctuation-mark 也/adverb 推荐/verb 进行/verb 球囊扩张术/<TRE> [3]/string 。/punctuation-mark
+
+Ⅱ/numeral b/onomatopoeia 类/noun
+
+1．/numeral 对于/preposition 无/verb 症状/noun 、/punctuation-mark 心电图/<TRE> 上/noun-of-locality 无/verb ST/noun -/punctuation-mark T/noun 变化/verb 的/particle 儿童/noun 或/conjunction 青少年/noun AS/noun 患者/noun ，/punctuation-mark 静/adjective 息/verb 状态/noun 下/noun-of-locality 经/preposition 导管/noun 测量/verb 的/particle 跨/verb 瓣/noun 收缩/verb 期/classifier 压/verb 差/adjective ≥40mmHg/noun ，/punctuation-mark 准备/verb 参加/verb 竞技/noun 体育/noun 运动/verb ，/punctuation-mark 可以/verb 考虑/verb 进行/verb 球囊扩张术/<TRE> [3]/string 。/punctuation-mark
+
+2．/numeral 对于/preposition 无/verb 症状/noun 、/punctuation-mark 心电图/<TRE> 上/noun-of-locality 无/verb ST/noun -/punctuation-mark T/noun 变化/verb 的/particle 儿童/noun 或/conjunction 青少年/noun AS/noun 患者/noun ，/punctuation-mark 在/preposition 深度/noun 镇静/adjective 或/conjunction 麻醉/verb 状态/noun 下/verb 经心/adjective 导管/noun 测量/verb 的/particle 跨/verb 瓣/noun 收缩/verb 期/classifier 压/verb 差/adjective </punctuation-mark 50mmHg/noun ，/punctuation-mark 但/conjunction 在/preposition 非/distinguishing-word 镇静/adjective 状态/noun 下/verb 超声/noun 多普勒/noun 测量/verb 的/particle 跨/verb 瓣/noun 平均/adjective 压/verb 差/adjective >/punctuation-mark 50mmHg/noun ，/punctuation-mark 可以/verb 考虑/verb 进行/verb 球囊扩张术/<TRE> [3]/string 。/punctuation-mark
+
+Ⅲ/numeral 类/classifier
+
+1．/numeral 心/noun 导管/noun 测量/verb 的/particle 跨/verb 瓣/noun 收缩/verb 期/classifier 压/verb 差/adjective </punctuation-mark 40mmHg/noun ，/punctuation-mark 没有/verb 相关/verb 症状/noun 和/conjunction 心电图/<TRE> 改变/verb 。/punctuation-mark
+
+2．/numeral 合并/verb 明显/adjective 主动脉瓣反流/<DIS> ，/punctuation-mark 需要/verb 进行/verb 主动脉瓣置换或整形术/<TRE> 的/particle AS/noun 患者/noun 。/punctuation-mark
+
+二/numeral 、/punctuation-mark 操作/verb 要点/noun
+
+1．/numeral 球/noun 囊/noun 导管/noun 的/particle 选择/verb ：/punctuation-mark
+
+球/noun 囊/noun 与/preposition 瓣/noun 环/verb 直径/noun 比值/noun 小于/verb 0.9/numeral 是/verb PBAV/noun 术/noun 后/noun-of-locality 再/adverb 狭窄/adjective 的/particle 独立/adjective 危险/adjective 因素/noun ；/punctuation-mark 球/noun 囊/noun 与/preposition 瓣/noun 环/verb 直径/noun 比值/noun 大于/verb 1.1/numeral 则/conjunction 会/verb 使/verb 主动脉瓣反流/<DIS> 的/particle 发生率/noun 显著/adjective 增加/verb 。/punctuation-mark
+
+目前/time-word 推荐/verb 的/particle 最佳/status-word 球/noun 囊/noun 与/preposition 瓣/noun 环/verb 直径/noun 比值/noun 为/preposition 0.9/numeral ~/punctuation-mark 1.0/numeral 。/punctuation-mark
+
+对于/preposition 年长/verb 儿/noun ，/punctuation-mark 也/adverb 可/verb 采用/verb 双/numeral 球/noun 囊/noun 进行/verb PBAV/noun 术/noun ，/punctuation-mark 从而/conjunction 避免/verb 使用/verb 过/particle 大/adjective 球/noun 囊/noun 导管/noun 对/preposition 血管/noun 的/particle 损伤/verb ，/punctuation-mark 其/pronoun 效果/noun 与/preposition 单/distinguishing-word 球囊PBAV术/<TRE> 相似/adjective 。/punctuation-mark
+
+2．/numeral 球/noun 囊/noun 的/particle 稳定性/noun ：/punctuation-mark
+
+保持/verb 球/noun 囊/noun 在/preposition 左/adjective 室/noun 流出/verb 道/classifier 的/particle 稳定性/noun 可/verb 提高/verb PBAV/noun 术/noun 的/particle 成功率/noun 并/conjunction 减少/verb 主动脉瓣反流/<DIS> 的/particle 发生/verb 。/punctuation-mark
+
+应用/verb 加/verb 硬/adjective 导/verb 丝/noun 及/conjunction 较/adverb 长/adjective 的/particle 球/noun 囊/noun 有助于/verb 增加/verb 球/noun 囊/noun 的/particle 稳定性/noun ；/punctuation-mark 在/preposition 球/noun 囊/noun 扩张/verb 时/noun 通过/preposition 右/noun-of-locality 心室/noun 临时/adverb 起/verb 搏/verb 加速/verb 心室/noun 率/suffix 可/verb 减少/verb 球/noun 囊/noun 的/particle 快速/distinguishing-word 运动/noun 从而/conjunction 维持/verb 其/pronoun 稳定性/noun [17]/string 。/punctuation-mark
+
+但/conjunction 对于/preposition 心功能不全/<SYM><DIS> 的/particle 婴儿/noun 患者/noun ，/punctuation-mark 一般/adjective 不/adverb 需要/verb 使用/verb 右/noun-of-locality 心室/noun 临时/adverb 起/verb 搏/verb 。/punctuation-mark
+
+3．/numeral 球/noun 囊/noun 扩张/verb ：/punctuation-mark
+
+采用/verb 逆行/verb 性/noun 途径/noun 进行/verb PBAV/noun 术/noun 时/noun ，/punctuation-mark 导/verb 丝/noun 和/conjunction 导管/noun 通过/preposition 狭窄/adjective 的/particle 主动脉/noun 瓣/classifier 口/noun 进入/verb 左/adjective 心室/noun 是/verb 操作/verb 上/noun-of-locality 的/particle 难点/noun ，/punctuation-mark 需要/verb 耐心/adjective 探查/verb ，/punctuation-mark 尽量/adverb 避免/verb 对/preposition 瓣膜/noun 和/conjunction 冠状动脉/noun 的/particle 损伤/verb 。/punctuation-mark
+
+对于/preposition 重度/distinguishing-word AS/noun 患者/noun ，/punctuation-mark 在/preposition 导管/noun 甚至/adverb 导/verb 丝/noun 通过/preposition 狭窄/adjective 的/particle 瓣/classifier 口/noun 前/noun-of-locality 就/adverb 应/verb 准备/verb 好球/noun 囊/noun 导管/noun ，/punctuation-mark 尽量/adverb 缩短/verb 操作/verb 时间/noun ；/punctuation-mark 对于/preposition 新生儿/noun 危重/adjective 性/noun AS/noun 患者/noun ，/punctuation-mark 可/conjunction 先/adverb 选用/verb 较/adverb 小/adjective 球/noun 囊/noun 扩张/verb ，/punctuation-mark 然后/conjunction 再/adverb 选用/verb 合适/adjective 大小/noun 的/particle 球/noun 囊/noun 扩张/verb 。/punctuation-mark
+
+三/numeral 、/punctuation-mark 常见/adjective 并发症/noun 及其/conjunction 防治/verb
+
+2011年/time-word 欧洲/noun 20/numeral 个/classifier 中心/noun 1004/numeral 例/classifier 先天性/distinguishing-word AS/noun 患者/noun 球囊扩张术/<TRE> 的/particle 结果/noun 显示/verb ，/punctuation-mark 并发症/noun 的/particle 发生率/noun 约/adverb 为/verb 10%/numeral ；/punctuation-mark 31/numeral 例/classifier 患者/noun 术/noun 后/noun-of-locality 早期/noun-of-locality 死亡/verb ，/punctuation-mark 其中/pronoun 29/numeral 例/classifier 为/preposition 新生儿/noun 患者/noun [18]/string 。/punctuation-mark
+
+1．/numeral 主动脉瓣反流/<DIS> ：/punctuation-mark
+
+大部分/numeral 为/preposition 轻度/distinguishing-word ，/punctuation-mark 中/noun-of-locality 至/preposition 重度/distinguishing-word 反/verb 流/verb 大约/adverb 占/verb 4%/numeral 左右/numeral 。/punctuation-mark
+
+严重主动脉瓣反流/<DIS> 可/verb 引起/verb 急性左心衰竭/<DIS> ，/punctuation-mark 需/verb 行/noun 外科/noun 手术/verb 。/punctuation-mark
+
+2．/numeral 局部/noun 血管/noun 并发症/noun ：/punctuation-mark
+
+发生率/noun 为/preposition 2.6%/numeral 左右/numeral ，/punctuation-mark 多/adjective 见于/verb 新生儿/noun 和/conjunction 小/adjective 婴儿/noun 。/punctuation-mark
+
+股动脉血栓形成/<DIS> 可/verb 表现/verb 为/verb 足/adverb 背/verb 动脉/noun 搏动/verb 减弱/verb 或/conjunction 消失/verb ，/punctuation-mark 下肢/noun 皮肤/noun 温度/noun 下降/verb 或/conjunction 呈/verb 缺血/verb 状/noun 。/punctuation-mark
+
+可/verb 给予/verb 全身/noun 肝素化治疗/<TRE> 或/conjunction 尿激酶溶栓/<TRE> ；/punctuation-mark 如/conjunction 经/preposition 药物/noun 治疗/verb 无效/verb ，/punctuation-mark 可/conjunction 应用/verb 经/preposition 导管/noun 法/noun 或/conjunction 外科/noun 手术/verb 法/noun 取/verb 栓/noun 。/punctuation-mark
+
+3．/numeral 左/adjective 心室/noun 及/conjunction 升/verb 主动脉/noun 穿孔/verb ：/punctuation-mark
+
+球/noun 囊/noun 扩张/verb 可/verb 引起/verb 主动脉/noun 壁/noun 、/punctuation-mark 主动脉/noun 瓣/classifier 环/noun 及/conjunction 室/noun 间隔/noun 的/particle 撕裂/verb ，/punctuation-mark 从而/conjunction 导致/verb 纵隔/noun 内出血/<SYM> 、/punctuation-mark 心包积血/<DIS> 、/punctuation-mark 心包填塞/<SYM> 、/punctuation-mark 血压下降/<SYM><DIS> 和/conjunction 休克/<SYM><DIS> 。/punctuation-mark
+
+一旦/adverb 发生/verb ，/punctuation-mark 必须/adverb 紧急/adjective 处理/verb ，/punctuation-mark 如/verb 心包/noun 穿刺/verb 减压/verb 或/conjunction 外科/noun 开/verb 胸/noun 手术/verb 。/punctuation-mark
+
+4．/numeral 二尖瓣/noun 损伤/verb ：/punctuation-mark
+
+采用/verb 房/noun 间隔/verb 穿刺/verb (/punctuation-mark 或/conjunction 开放/verb 卵/noun 圆/verb 孔/noun )/punctuation-mark 经/preposition 左/adjective 心房/noun 、/punctuation-mark 二尖瓣/noun 达/verb 左/adjective 心室/noun 途径/noun 进行/verb 球囊扩张术/<TRE> 时/noun ，/punctuation-mark 有时/adverb 可/verb 引起/verb 二尖瓣撕裂/<SYM> 或/conjunction 腱索断裂/<SYM> ，/punctuation-mark 导致/verb 二尖瓣反流/<DIS> 。/punctuation-mark
+<二尖瓣反流,DIS-SYM,二尖瓣撕裂> <二尖瓣反流,DIS-SYM,腱索断裂>
+5．/numeral 心律失常/<SYM><DIS> ：/punctuation-mark
+
+相当/adverb 常见/adjective ，/punctuation-mark 但/conjunction 大部分/numeral 为/preposition 一/numeral 过/verb 性/noun ，/punctuation-mark 对/preposition 严重心律失常/<DIS> 需/verb 紧急/adjective 处理/verb ，/punctuation-mark 包括/verb 球/noun 囊/noun 导管/noun 撤离/verb 出/verb 心脏/noun ，/punctuation-mark 药物/noun 及/conjunction 器械/noun 辅助/verb 治疗/verb (/punctuation-mark 电/noun 复/adverb 律/verb 、/punctuation-mark 起/verb 搏/verb 器/noun )/punctuation-mark 。/punctuation-mark
+
+6．/numeral 出血/<SYM> ：/punctuation-mark
+
+由于/conjunction 在/preposition 左/adjective 心室/noun 及/conjunction 动脉/noun 高压/noun 系统/noun 进行/verb 操作/verb ，/punctuation-mark 尤其/adverb 在/preposition 反复/adverb 操作/verb 导/verb 引/verb 钢丝/noun 进入/verb 左/adjective 心室/noun 或/conjunction 在/preposition 交换/verb 导/verb 引/verb 钢丝/noun 、/punctuation-mark 导管/noun 时/noun ，/punctuation-mark 容易/adjective 引起/verb 局部/noun 穿刺/verb 点/classifier 及/conjunction 导管/noun 接口/noun 处/verb 出血/<SYM> 。/punctuation-mark
+
+四/numeral 、/punctuation-mark 随/adverb 访/verb
+
+儿童/noun 先天性/distinguishing-word AS/noun 在/preposition 成功/adjective 进行/verb PBAV/noun 术/noun 后/noun-of-locality 可/verb 获得/verb 良好/adjective 的/particle 近/adjective 、/punctuation-mark 中期/noun-of-locality 效果/noun ，/punctuation-mark 但/conjunction 绝大多数/numeral 患者/noun 随着/preposition 年龄/noun 的/particle 增长/verb 会/verb 出现/verb 再/adverb 狭窄/adjective 和/conjunction (/punctuation-mark 或/adverb )/punctuation-mark 进行/verb 性/noun 主动脉瓣反流/<DIS> 。/punctuation-mark
+
+单纯/adjective 的/particle 再/adverb 狭窄/adjective 可以/verb 再次/adverb 进行/verb 球囊扩张术/<TRE> ，/punctuation-mark 但/conjunction 严重/adjective 的/particle 主动脉瓣反流/<DIS> 往往/adverb 需要/verb 外科/noun 手术/verb ，/punctuation-mark 甚至/conjunction 主动脉瓣置换术/<TRE> 。/punctuation-mark
+<主动脉瓣置换术,TRE-DIS,主动脉瓣反流>
+PBAV/noun 术/noun 后/noun-of-locality 需要/verb 长期/adverb 随/verb 访/verb ，/punctuation-mark 包括/verb 临床体检/<TRE> 、/punctuation-mark 心电图/<TRE> 和/conjunction 心脏超声检查/<TRE> 等/particle ；/punctuation-mark 推荐/verb 术/noun 后/noun-of-locality 第1/numeral 、/punctuation-mark 3/numeral 、/punctuation-mark 6/numeral 、/punctuation-mark 12/numeral 个/classifier 月/noun 及/conjunction 以后/noun-of-locality 每年/pronoun 常规/noun 随访/verb 。/punctuation-mark
+
+经/preposition 皮/noun 主动脉缩窄/<DIS> 球/noun 囊/noun 血管成形术/<TRE>
+
+1979年/time-word Sos/noun 等/particle [19]/string 首先/adverb 报道/verb 对/preposition 切除/verb 的/particle 主动脉缩窄/<DIS> 段/classifier 行/adjective 球/noun 囊/noun 扩张/verb 获得/verb 成功/adjective ，/punctuation-mark 此后/time-word Lock/noun 等/particle [20]/string 将/preposition 这/pronoun 一/numeral 技术/noun 应用/verb 于/preposition 临床/verb 。/punctuation-mark
+
+30/numeral 余/numeral 年/classifier 的/particle 研究/verb 表明/verb ，/punctuation-mark 球囊扩张术/<TRE> 对/preposition 外科/noun 手术/verb 后/noun-of-locality 的/particle 局限性/noun 主动脉/noun 再/adverb 狭窄/adjective 可/conjunction 获得/verb 良好/adjective 的/particle 效果/noun ，/punctuation-mark 可/verb 部分/noun 替代/verb 再次/adverb 外科/noun 开/verb 胸/noun 手术/noun ；/punctuation-mark 而/conjunction 对于/preposition 未经/adverb 外科/noun 手术/verb 的/particle 主动脉缩窄/<DIS> ，/punctuation-mark 由于/preposition 术/noun 后/noun-of-locality 再/adverb 狭窄/adjective 及/conjunction 动脉瘤/<DIS> 的/particle 发生率/noun 相对/adverb 较/adverb 高/adjective ，/punctuation-mark 目前/time-word 仍/adverb 存在/verb 一定/distinguishing-word 争议/verb [3]/string 。/punctuation-mark
+
+一/numeral 、/punctuation-mark 介入/verb 治疗/verb 指/verb 征/verb
+
+Ⅰ/numeral 类/classifier
+
+1．/numeral 主动脉缩窄/<DIS> 外科/noun 手术/verb 后/noun-of-locality 再/adverb 狭窄/adjective ，/punctuation-mark 经/preposition 导管/noun 测量/verb 的/particle 跨/verb 缩/verb 窄/adjective 段/classifier 收缩/verb 期/classifier 压/verb 差/adjective >/punctuation-mark 20mmHg/noun ，/punctuation-mark 缩/verb 窄/adjective 段/classifier 形态/noun 适宜/verb 介入/verb 治疗/verb 者/suffix 。/punctuation-mark
+
+2．/numeral 主动脉缩窄/<DIS> 外科/noun 手术/verb 后/noun-of-locality 再/adverb 狭窄/adjective ，/punctuation-mark 缩/verb 窄/adjective 段/classifier 形态/noun 适宜/verb 介入/verb 治疗/verb ，/punctuation-mark 经/preposition 导管/noun 测量/verb 的/particle 跨/verb 缩/verb 窄/adjective 段/classifier 收缩/verb 期/classifier 压/verb 差/adjective </punctuation-mark 20mmHg/noun ，/punctuation-mark 但/conjunction 伴/verb 有/verb 下列/distinguishing-word 情况/noun 之一/pronoun 者/suffix ：/punctuation-mark 明显/adjective 的/particle 侧/noun-of-locality 支/classifier 血管/noun 形成/verb ；/punctuation-mark 单心室/<DIS> 循环/verb ；/punctuation-mark 左/adjective 心/noun 收缩/verb 功能/noun 下降/verb [3]/string 。/punctuation-mark
+
+Ⅱ/numeral a/pronoun 类/noun
+
+未经/adverb 外科/noun 手术/verb 的/particle 主动脉缩窄/<DIS> ，/punctuation-mark 如果/conjunction 合并/verb 严重/adjective 的/particle 左心室功能减退/<DIS> 、/punctuation-mark 重度二尖瓣反流/<DIS> 、/punctuation-mark 低心排出量/<DIS> 等/particle 情况/noun 时/noun ，/punctuation-mark 球囊扩张术/<TRE> 可/verb 作为/verb 一/numeral 种/classifier 姑息/verb 减/verb 症/suffix 手术/verb 。/punctuation-mark
+
+Ⅱ/numeral b/onomatopoeia 类/noun
+
+1．/numeral 未经/adverb 外科/noun 手术/verb 的/particle 局限性/noun 、/punctuation-mark 隔膜型主动脉缩窄/<DIS> ，/punctuation-mark 经/preposition 导管/noun 测量/verb 的/particle 跨/verb 缩/verb 窄/adjective 段/classifier 收缩/verb 期/classifier 压/verb 差/adjective >/punctuation-mark 20mmHg/noun ，/punctuation-mark 年龄/noun 大于/verb 4/numeral 个/classifier 月/noun 。/punctuation-mark
+
+2．/numeral 缩/verb 窄/adjective 部/classifier 解剖/verb 复杂/adjective 的/particle 主动脉缩窄/<DIS> 或/conjunction 术/noun 后/noun-of-locality 再/adverb 狭窄/adjective ，/punctuation-mark 或/conjunction 某些/pronoun 系统性/noun 疾病/noun 如/verb 结缔组织病/<DIS> 或/conjunction Turner/noun 综合征/<SYM> 等/particle 合并/verb 的/particle 主动脉缩窄/<DIS> 或/conjunction 术/noun 后/noun-of-locality 再/adverb 狭窄/adjective ，/punctuation-mark 本着/preposition 个体化/verb 的/particle 原则/noun 在/preposition 仔细/adjective 分析/verb 论证/verb 后/noun-of-locality 可以/verb 考虑/verb 行/noun 球囊扩张术/<TRE> [3]/string 。/punctuation-mark
+
+二/numeral 、/punctuation-mark 操作/verb 要点/noun
+
+1．/numeral 球/noun 囊/noun 导管/noun 的/particle 选择/verb ：/punctuation-mark
+
+通常/adverb 采用/verb 的/particle 球/noun 囊/noun 与/preposition 缩/verb 窄/adjective 部/classifier 直径/noun 比值/noun 为/preposition 2.5/numeral ~/punctuation-mark 4.0/numeral ；/punctuation-mark 如/conjunction 无/verb 主/adjective 动脉弓/noun 发育/verb 不良/adjective ，/punctuation-mark 选用/verb 球/noun 囊/noun 直径/noun 不/adverb 大于/verb 缩/verb 窄/adjective 段/classifier 近/adjective 端/verb 主动脉/noun 的/particle 直径/noun ；/punctuation-mark 如/conjunction 伴/verb 有/verb 主/noun 动脉弓/noun 发育/verb 不良/adjective ，/punctuation-mark 球/noun 囊/noun 直径/noun 不宜/verb 超过/verb 降/verb 主动脉/noun 横/adverb 隔/verb 水平/noun 的/particle 直径/noun 。/punctuation-mark
+
+采用/verb 单/distinguishing-word 球/noun 囊/noun 不/adverb 能/verb 满足/verb 需要/verb 时/noun ，/punctuation-mark 可/conjunction 应/verb 用/preposition 双/numeral 球/noun 囊/noun 进行/verb 球/noun 囊/noun 扩张/verb 。/punctuation-mark
+
+选择/verb 的/particle 球/noun 囊/noun 长度/noun 通常/adverb 为/verb 3/numeral ~/punctuation-mark 4cm/noun 。/punctuation-mark
+
+2．/numeral 球/noun 囊/noun 扩张/verb ：/punctuation-mark
+
+若/conjunction 球/noun 囊/noun 扩张/verb 过程/noun 中/distinguishing-word 腰/noun 凹/adjective 特别/adverb 明显/adjective ，/punctuation-mark 切忌/verb 继续/verb 高压/noun 扩张/verb ，/punctuation-mark 可/conjunction 换/verb 小/adjective 型号/noun 球/noun 囊/noun 进行/verb 扩张/verb ，/punctuation-mark 以防/verb 动脉瘤/<DIS> 形成/verb 及/conjunction 动脉破裂/<DIS> ；/punctuation-mark 球/noun 囊/noun 扩张/verb 完毕/verb 后/noun-of-locality 复查/verb 压力/noun 及/conjunction 血管/noun 造影/verb ，/punctuation-mark 观察/verb 跨/verb 缩/verb 窄/adjective 段/classifier 压力/noun 阶/noun 差/verb 有/verb 无/verb 下降/verb 及/conjunction 缩/verb 窄/adjective 部位/noun 形态/noun ，/punctuation-mark 同时/conjunction 需要/verb 观察/verb 有/verb 无/verb 动脉瘤/<DIS> 或/conjunction 主动脉夹层/<DIS> 的/particle 形成/verb 。/punctuation-mark
+
+3．/numeral 注意/verb 事项/noun ：/punctuation-mark
+
+如果/conjunction 主动脉缩窄/<DIS> 较/adverb 严重/adjective ，/punctuation-mark 导管/noun 在/preposition 缩/verb 窄/adjective 部位/noun 放置/verb 时间/noun 不宜/verb 过/particle 长/adjective ，/punctuation-mark 以免/conjunction 引起/verb 升/verb 主动脉/noun 血流/noun 受阻/verb 使/verb 缩/verb 窄/adjective 段/classifier 以上/noun-of-locality 血压/noun 明显/adjective 增高/verb ，/punctuation-mark 通常/adverb 撤/verb 去/verb 导管/noun 后/noun-of-locality 保留/verb 长/adjective 导/verb 引/verb 钢丝/noun 于/preposition 升/verb 主动脉/noun 或/conjunction 左/adjective 心室/noun 内/noun-of-locality 备用/verb ；/punctuation-mark 在/preposition 球囊扩张术/<TRE> 后/noun-of-locality ，/punctuation-mark 避免/verb 使用/verb 导/verb 丝/noun 或/conjunction 导管/noun 在/preposition 缩/verb 窄/adjective 部/noun 进行/verb 探查/verb ，/punctuation-mark 因为/conjunction 导/verb 丝/noun 及/conjunction 导管/noun 容易/adjective 通过/verb 创伤/<SYM> 处/verb 引起/verb 夹层动脉瘤/<DIS> 或/conjunction 血管/noun 壁/noun 穿孔/verb ，/punctuation-mark 重/adverb 则/adverb 可/verb 引起/verb 大量/numeral 出血/<SYM> [1]/string 。/punctuation-mark
+
+三/numeral 、/punctuation-mark 常见/adjective 并发症/noun 及其/conjunction 防治/verb
+
+1．/numeral 股动脉血栓形成/<DIS> ：/punctuation-mark
+
+可/verb 给予/verb 全身/noun 肝素化治疗/<TRE> 或/conjunction 尿激酶溶栓/<TRE> ，/punctuation-mark 如/conjunction 经/preposition 药物/noun 治疗/verb 无效/verb ，/punctuation-mark 可/conjunction 应用/verb 经/preposition 导管/noun 法/noun 或/conjunction 外科/noun 手术/verb 法/noun 取/verb 栓/noun 。/punctuation-mark
+
+2．/numeral 主动脉夹层/<DIS> 及/conjunction 动脉瘤/<DIS> 形成/verb ：/punctuation-mark
+
+其/pronoun 发生率/noun 报道/verb 不一/verb 。/punctuation-mark
+
+球囊扩张术/<TRE> 后/noun-of-locality 即刻/adverb 发生/verb 动脉瘤/<DIS> 者/suffix 较/adverb 少/adjective ，/punctuation-mark 随/adverb 访/verb 时间/noun 愈/adverb 长/adjective ，/punctuation-mark 动脉瘤/<DIS> 发生率/noun 愈/adverb 高/adjective 。/punctuation-mark
+
+3．/numeral 主动脉破裂/<DIS> 或/conjunction 穿孔/verb ：/punctuation-mark
+
+较/adverb 少/adjective 见/verb ，/punctuation-mark 一旦/adverb 发现/verb 导/verb 丝/noun 或/conjunction 导管/noun 已经/adverb 偏离/verb 主动脉/noun 及/conjunction 弓/noun 部/classifier 途径/noun ，/punctuation-mark 应/verb 维持/verb 导管/noun 在/preposition 原/distinguishing-word 位/classifier ，/punctuation-mark 并/conjunction 抽/verb 吸/verb 导管/noun 内/noun-of-locality 回/verb 血/noun ，/punctuation-mark 如/conjunction 确定/verb 主动脉/noun 已/adverb 穿孔/verb ，/punctuation-mark 立即/adverb 配/verb 血/noun ，/punctuation-mark 密切/adjective 监护/verb 呼吸/verb 及/conjunction 循环/verb 状态/noun ，/punctuation-mark 行/noun 急诊/noun 开/verb 胸/noun 手术/verb 。/punctuation-mark
+
+4．/numeral 出血/<SYM> ：/punctuation-mark
+
+由于/conjunction 在/preposition 动脉/noun 高压/noun 系统/noun 进行/verb 操作/verb ，/punctuation-mark 容易/adjective 引起/verb 局部/noun 穿刺/verb 点/classifier 及/conjunction 导管/noun 接口/noun 处/verb 出血/<SYM> 。/punctuation-mark
+
+四/numeral 、/punctuation-mark 随/adverb 访/verb
+
+系列/noun 的/particle 中/distinguishing-word 、/punctuation-mark 远期/noun 随访/verb 报道/verb 尚/adverb 不/adverb 多/adjective 见/verb 。/punctuation-mark
+
+球囊扩张术/<TRE> 后/noun-of-locality 的/particle 再/adverb 狭窄/adjective 发生率/noun 与/conjunction 主动脉缩窄/<DIS> 的/particle 解剖/verb 类型/noun 相关/verb ，/punctuation-mark 局限性/noun 主动脉缩窄/<DIS> 的/particle 再/adverb 狭窄/adjective 发生率/noun 要/verb 少于/verb 伴/verb 发/verb 主/adjective 动脉弓/noun 发育/verb 不良/adjective 者/suffix ；/punctuation-mark 术/noun 后/noun-of-locality 动脉瘤/<DIS> 的/particle 发生/verb 也/adverb 是/verb 一个/numeral 需要/verb 重视/verb 的/particle 问题/noun ，/punctuation-mark 多于/verb 中长期/noun 随访/verb 时/noun 被/preposition 发现/verb 。/punctuation-mark
+
+所有/distinguishing-word 患者/noun 术/noun 后/noun-of-locality 都/adverb 应/verb 长期/adverb 随/verb 访/verb ，/punctuation-mark 定期/adverb 复查/verb 上/verb 下肢/noun 血压/noun 、/punctuation-mark 心电图/<TRE> 、/punctuation-mark X线胸片/<TRE> 及/conjunction 超声心动图/<TRE> ，/punctuation-mark 必要/adjective 时/noun 进行/verb 磁共振/noun 或者/conjunction CT/noun 检查/verb ，/punctuation-mark 从而/conjunction 决定/verb 是否/verb 需要/verb 再次/adverb 行/adjective 球囊扩张术/<TRE> 、/punctuation-mark 安置/verb 支架/noun 或/conjunction 外科/noun 手术/noun ；/punctuation-mark 推荐/verb 术/noun 后/noun-of-locality 第1/numeral 、/punctuation-mark 3/numeral 、/punctuation-mark 6/numeral 、/punctuation-mark 12/numeral 个/classifier 月/noun 及/conjunction 以后/noun-of-locality 每年/pronoun 常规/noun 随访/verb 。/punctuation-mark
+
+动脉导管未闭/<SYM><DIS> 封堵/verb 术/noun
+
+1967年/time-word Porstmann/noun 等/particle [21]/string 首/numeral 次/classifier 采用/verb 泡沫/noun 海绵/noun 封堵/verb 动脉导管未闭/<SYM><DIS> (/punctuation-mark patent/noun  /None ductus/noun  /None arteriosus/noun ，/punctuation-mark PDA/noun )/punctuation-mark 获得/verb 成功/adjective ，/punctuation-mark 此后/time-word 各国/pronoun 学者/noun 相继/adverb 开展/verb 了/particle 多种/numeral 介入/verb 性/noun 方法/noun 治疗/verb PDA/noun ，/punctuation-mark 尤其/adverb 是/verb 1997年/time-word Amplatzer/noun 封堵/verb 器/noun 问世/verb 以来/noun-of-locality ，/punctuation-mark 经皮动脉导管封堵术/<TRE> 得到/verb 广泛/adjective 应用/verb 并/conjunction 成为/verb PDA/noun 的/particle 首选/verb 治疗/verb 方法/noun 。/punctuation-mark
+
+根据/preposition 动脉/noun 导管/noun 的/particle 大小/noun 和/conjunction 形态/noun 可/verb 选用/verb 不同/adjective 的/particle 封堵/verb 装置/noun ，/punctuation-mark 目前/time-word 国内外/locative-word 普遍/adjective 应用/verb 的/particle 是/verb Amplatzer/noun 法/noun 及/conjunction 弹簧圈/noun 法/noun 。/punctuation-mark
+
+一/numeral 、/punctuation-mark 介入/verb 治疗/verb 指/verb 征/verb
+
+Ⅰ/numeral 类/classifier
+
+PDA/noun 伴/verb 有/verb 明显/adjective 左/noun-of-locality 向/preposition 右/noun-of-locality 分流/verb ，/punctuation-mark 并且/conjunction 合并/verb 充血性心力衰竭/<SYM><DIS> 、/punctuation-mark 生长发育迟滞/<DIS> 、/punctuation-mark 肺循环多血/<DIS> 以及/conjunction 左房或左室扩大/<DIS> 等/particle 表现/verb 之一/pronoun 者/suffix ，/punctuation-mark 且/conjunction 患儿/noun 体重/noun 及/conjunction 解剖/verb 条件/noun 适宜/verb ，/punctuation-mark 推荐/verb 行经/verb 导管/noun 介入/verb 封堵/verb 术/noun [3]/string 。/punctuation-mark
+
+Ⅱ/numeral a/pronoun 类/noun
+
+心/noun 腔/classifier 大小/noun 正常/adjective 的/particle 左/noun-of-locality 向/preposition 右/noun-of-locality 分流/verb 的/particle 小型/distinguishing-word PDA/noun ，/punctuation-mark 如果/conjunction 通过/preposition 标准/noun 的/particle 听诊/verb 技术/noun 可/verb 闻/verb 及/conjunction 杂音/noun ，/punctuation-mark 可/conjunction 行经/verb 导管/noun 介入/verb 封堵/verb 术/noun [3]/string 。/punctuation-mark
+
+Ⅱ/numeral b/onomatopoeia 类/noun
+
+1．/numeral 通过/preposition 标准/noun 听诊/verb 技术/noun 不/adverb 能/verb 闻/verb 及/conjunction 杂音/noun 的/particle "/punctuation-mark 沉默/adjective 型/suffix "/punctuation-mark PDA/noun 伴/verb 有/verb 少量/numeral 左/noun-of-locality 向/preposition 右/noun-of-locality 分流/verb (/punctuation-mark 包括/verb 外科/noun 术/noun 后/noun-of-locality 或者/conjunction 介入/verb 术/noun 后/noun-of-locality 残余/noun 分流/verb )/punctuation-mark 。/punctuation-mark
+
+2．PDA/noun 合并/verb 重度肺动脉高压/<DIS> ，/punctuation-mark 动脉/noun 导管/noun 水平/noun 出现/verb 以/preposition 左/noun-of-locality 向/preposition 右/noun-of-locality 分流/verb 为主/verb 的/particle 双向/distinguishing-word 分流/verb ，/punctuation-mark 如果/conjunction 急性肺血管扩张/<DIS> 试验/verb 阳性/noun ，/punctuation-mark 或者/conjunction 试验/verb 性/noun 封堵/verb 后/noun-of-locality 肺动脉/noun 收缩/verb 压/verb 降低/verb 20%/numeral 或/conjunction 30mmHg/noun 以上/noun-of-locality ，/punctuation-mark 且/conjunction 无/verb 主动脉/noun 压力/noun 下降/verb 和/conjunction 全身/noun 不良/adjective 反应/verb ，/punctuation-mark 可以/verb 考虑/verb 介入/verb 封堵/verb [22]/string 。/punctuation-mark
+
+Ⅲ/numeral 类/classifier
+
+1．/numeral 依赖/verb 于/preposition 动脉/noun 导管/noun 的/particle 开放/verb 维持/verb 有效/adjective 肺循环/noun 或/conjunction 体循环/noun 的/particle 心脏畸形/<SYM> 。/punctuation-mark
+
+2．PDA/noun 合并/verb 严重肺动脉高压/<DIS> ，/punctuation-mark 动脉/noun 导管/noun 水平/noun 出现/verb 双向/distinguishing-word 分流/verb 或者/conjunction 右/noun-of-locality 向/preposition 左/noun-of-locality 分流/verb ，/punctuation-mark 并且/conjunction 急性肺血管扩张/<DIS> 试验/verb 阴性/noun 。/punctuation-mark
+
+二/numeral 、/punctuation-mark 操作/verb 要点/noun
+
+1．/numeral 采用/verb Amplatzer/noun 法/noun 封堵/verb PDA/noun 时/noun ，/punctuation-mark 一般/adjective 选择/verb 比/preposition 所/particle 测/verb PDA/noun 最/adverb 窄/adjective 处/noun 直径/noun 大/adjective 3/numeral ~/punctuation-mark 6mm/noun 的/particle 封堵/verb 器/noun 进行/verb 封堵/verb ；/punctuation-mark 婴儿/noun 时期/noun 极其/adverb 粗大/adjective 的/particle PDA/noun ，/punctuation-mark 其/pronoun 形状/noun 多/adjective 为/verb 长/adjective 管状/noun ，/punctuation-mark 具有/verb 很/adverb 大/adjective 的/particle 可/verb 扩展性/noun ，/punctuation-mark 选择/verb 封堵/verb 器/noun 的/particle 直径/noun 应/verb 2/numeral 倍/classifier 于/preposition PDA/noun 的/particle 直径/noun 。/punctuation-mark
+
+2．/numeral 采用/verb 弹簧/noun 栓子/noun 法/noun 封堵/verb PDA/noun 时/noun ，/punctuation-mark 可/verb 根据/preposition 情况/noun 选择/verb 经/preposition 股/noun 静脉/noun 顺/verb 行/noun 法/noun 或/conjunction 经/preposition 股/noun 动脉/noun 逆行/verb 法/noun 。/punctuation-mark
+
+3．/numeral 对于/preposition 儿童/noun 尤其/adverb 是/verb 1/numeral 岁/classifier 以内/noun-of-locality 的/particle 婴儿/noun 患者/noun ，/punctuation-mark 主动脉/noun 峡/noun 部/noun 以及/conjunction 肺动脉/noun 分叉/noun 部位/noun 空间/noun 狭小/adjective ，/punctuation-mark 术/noun 中/noun-of-locality 应当/verb 尤其/adverb 注意/verb 封堵/verb 器/noun 造成/verb 降/verb 主动脉/noun 或者/conjunction 左/adjective 肺动脉/noun 起始/verb 部/classifier 狭窄/adjective 可能/noun ，/punctuation-mark 需/verb 评估/verb 左/noun-of-locality 肺动脉/noun -/punctuation-mark 主/adjective 肺动脉/noun 和/conjunction 升/verb 主动脉/noun -/punctuation-mark 降/verb 主动脉/noun 的/particle 压力/noun 阶/noun 差/adjective 。/punctuation-mark
+
+三/numeral 、/punctuation-mark 常见/adjective 并发症/noun 及其/conjunction 防治/verb
+
+1．/numeral 残余/noun 分流/verb 与/preposition 溶/verb 血/noun ：/punctuation-mark
+
+术/noun 后/noun-of-locality 早期/noun-of-locality 少量/numeral 残余/noun 分流/verb 可/verb 随访/verb 观察/verb ，/punctuation-mark 部分/noun 可/conjunction 自行/adverb 消失/verb ；/punctuation-mark 残余/noun 分/classifier 流量/noun 较/adverb 大/adjective 者/suffix ，/punctuation-mark 可/conjunction 再/adverb 植入/verb 弹簧圈/noun 或者/conjunction 封堵/verb 器/noun 进行/verb 封堵/verb 。/punctuation-mark
+
+溶/verb 血/noun 一般/particle 与/preposition 残余/noun 分流/verb 有关/verb ，/punctuation-mark 多/adjective 发生/verb 于/preposition 术/noun 后/noun-of-locality 早期/noun-of-locality ，/punctuation-mark 可/conjunction 使用/verb 糖皮质激素/<MED> 、/punctuation-mark 碳酸氢钠/<MED> 等/particle 药物/noun 治疗/verb ，/punctuation-mark 保护/verb 肾/noun 功能/noun ，/punctuation-mark 必要/adjective 时/noun 输血/<TRE> 治疗/verb ，/punctuation-mark 多数/numeral 患儿/noun 可/verb 自/pronoun 愈/adverb ；/punctuation-mark 若/conjunction 经/preposition 上述/distinguishing-word 治疗/verb 后/noun-of-locality 病情/noun 不/adverb 缓解/verb ，/punctuation-mark 可/verb 对/preposition 残余/noun 分流/verb 进行/verb 再次/adverb 封堵/verb 或/conjunction 外科/noun 手术/verb 治疗/verb 。/punctuation-mark
+
+2．/numeral 血栓/noun 栓塞/noun ：/punctuation-mark
+
+若/conjunction 发现/verb 有/verb 肢体末梢发绀/<DIS> 、/punctuation-mark 苍白/<DIS> 、/punctuation-mark 发凉/<DIS> 、/punctuation-mark 肿胀/verb 等/particle 栓塞/noun 征象/noun 时/noun ，/punctuation-mark 可/verb 给予/verb 全身/noun 肝素化治疗/<TRE> 或/conjunction 尿激酶溶栓/<TRE> ，/punctuation-mark 药物/noun 治疗/verb 无效/verb 可/verb 应用/verb 经/preposition 导管/noun 法/noun 或/conjunction 外科/noun 手术/verb 法/noun 取/verb 栓/noun 。/punctuation-mark
+
+3．/numeral 血小板减少/<SYM> ：/punctuation-mark
+
+多/numeral 见/verb 于/preposition 大型/distinguishing-word PDA/noun 封堵/verb 术/noun 后/noun-of-locality ，/punctuation-mark 原因/noun 尚/adverb 不/adverb 完全/adjective 清楚/verb ，/punctuation-mark 有/verb 学者/noun 认为/verb 与/preposition 血小板/<MED> 消耗/verb 过/particle 多/numeral 或者/conjunction 破坏/verb 有关/verb 。/punctuation-mark
+
+可/verb 短期/distinguishing-word 大/adjective 剂量/noun 糖皮质激素/<MED> 冲击/verb 治疗/verb ，/punctuation-mark 若/conjunction 发生/verb 明显/adjective 出血倾向/<SYM><DIS> ，/punctuation-mark 可/verb 静脉/noun 输/verb 注/verb 血小板/<MED> 悬/adjective 液/noun 。/punctuation-mark
+
+4．/numeral 封堵/verb 器/noun 移位/verb 导致/verb 肺动脉/noun 或者/conjunction 外周动脉栓塞/<DIS> ：/punctuation-mark
+
+一旦/adverb 封堵/verb 器/noun 脱落/verb 可/verb 通过/preposition 圈套/noun 器/noun 或/conjunction 异物/noun 钳/noun 将/preposition 其/pronoun 取出/verb ，/punctuation-mark 难以/adverb 取出/verb 时/noun 应/verb 行/noun 急诊/noun 外科/noun 手术/verb 。/punctuation-mark
+
+5．/numeral 封堵/verb 器/noun 致/verb 左/adjective 肺动脉/noun 或/conjunction 降/verb 主动脉狭窄/<DIS> ：/punctuation-mark
+
+轻度/adverb 狭窄/adjective 可/conjunction 随访/verb 观察/verb ，/punctuation-mark 如/verb 狭窄/adjective 程度/noun 较/adverb 重/adverb 应/verb 行/noun 外科手术治疗/<TRE> 。/punctuation-mark
+
+6．/numeral 一过性高血压/<DIS> ：/punctuation-mark
+
+多/numeral 见/verb 于/preposition 大型/distinguishing-word PDA/noun 封堵/verb 术/noun 后/noun-of-locality ，/punctuation-mark 可能/verb 与/preposition 术/noun 后/noun-of-locality 动脉/noun 系统/noun 血/noun 容量/noun 突然/adjective 增加/verb 、/punctuation-mark 反射/verb 性/noun 动脉血/noun 管/verb 收缩/verb 有关/verb 。/punctuation-mark
+
+可用/verb 硝酸甘油/<MED> 或/conjunction 硝普钠静脉滴注/<TRE> 治疗/verb 。/punctuation-mark
+
+四/numeral 、/punctuation-mark 随/adverb 访/verb
+
+术/noun 后/noun-of-locality 第1/numeral 、/punctuation-mark 3/numeral 、/punctuation-mark 6/numeral 、/punctuation-mark 12/numeral 个/classifier 月/noun 及/conjunction 以后/noun-of-locality 每年/pronoun 常规/noun 随访/verb 心电图/<TRE> 及/conjunction 心脏超声/<TRE> 。/punctuation-mark
+
+中长期/noun 随访/verb 表明/verb PDA/noun 介入/verb 术/noun 后/noun-of-locality 可/verb 获得/verb 良好/adjective 预后/noun ，/punctuation-mark 尚/adverb 无/verb 远期/distinguishing-word 严重/adjective 并发症/noun 的/particle 报道/noun 。/punctuation-mark
+
+继/verb 发/verb 孔型/noun 房间隔缺损封堵术/<TRE>
+
+1974年/time-word King/noun 和/conjunction Mills/noun [23]/string 首/numeral 次/classifier 完成/verb 了/particle 经/preposition 导管/noun 介入/verb 治疗/verb 继发孔型房间隔缺损/<DIS> (/punctuation-mark atrial/noun  /None septal/noun  /None defect/noun ，/punctuation-mark ASD/noun )/punctuation-mark ，/punctuation-mark 此后/time-word 随着/preposition 封堵/verb 装置/noun 的/particle 不断/adverb 改进/verb ，/punctuation-mark 特别/adverb 是/verb 1997年/time-word Amplatzer/noun 装置/noun 问世/verb 以来/noun-of-locality [24]/string ，/punctuation-mark 该/pronoun 项/classifier 技术/noun 日臻成熟/verb 并/conjunction 得到/verb 广泛/adjective 应用/verb 。/punctuation-mark
+
+ASD/noun 介入/verb 治疗/verb 的/particle 成功率/noun 高/adjective 、/punctuation-mark 并发症/noun 低/adjective ，/punctuation-mark 对于/preposition 解剖/verb 条件/noun 合适/adjective 的/particle 病例/noun 可/verb 替代/verb 外科/noun 手术/verb 。/punctuation-mark
+
+一/numeral 、/punctuation-mark 介入/verb 治疗/verb 指/verb 征/verb
+
+Ⅰ/numeral 类/classifier
+
+年龄/noun ≥2/numeral 岁/classifier ，/punctuation-mark 有/verb 血流/noun 动力学/noun 意义/noun (/punctuation-mark 缺损/verb 直径/noun ≥5mm/noun )/punctuation-mark 的/particle 继/adverb 发/verb 孔型/noun ASD/noun ；/punctuation-mark 缺损/verb 至/preposition 冠状/<SYM> 静脉/noun 窦/noun ，/punctuation-mark 上/noun-of-locality 、/punctuation-mark 下/noun-of-locality 腔/classifier 静脉/noun 及/conjunction 肺静脉/noun 的/particle 距离/noun ≥5mm/noun ，/punctuation-mark 至/preposition 房室/noun 瓣/noun 的/particle 距离/noun ≥7mm/noun ；/punctuation-mark 房间/noun 隔/verb 直径/noun >/punctuation-mark 所/particle 选用/verb 封堵/verb 器/noun 左/noun-of-locality 房/noun 侧/noun-of-locality 的/particle 直径/noun ；/punctuation-mark 不/adverb 合并/verb 必须/adverb 外科/noun 手术/verb 的/particle 其他/pronoun 心血管畸形/<DIS> 。/punctuation-mark
+
+Ⅱ/numeral a/pronoun 类/noun
+
+1．/numeral 年龄/noun </punctuation-mark 2/numeral 岁/classifier ，/punctuation-mark 有/verb 血流/noun 动力学/noun 意义/noun 且/conjunction 解剖/verb 条件/noun 合适/adjective 的/particle 继/adverb 发/verb 孔型/noun ASD/noun 。/punctuation-mark
+
+2．/numeral 前缘/noun 残/verb 端/noun 缺/verb 如/verb 或/conjunction 不足/verb ，/punctuation-mark 但/conjunction 其他/pronoun 边缘/noun 良好/adjective 的/particle 具有/verb 血流/noun 动力学/noun 意义/noun 的/particle 继/adverb 发/verb 孔型/noun ASD/noun 。/punctuation-mark
+
+3．/numeral 具有/verb 血流/noun 动力学/noun 意义/noun 的/particle 多/adjective 孔型/noun 或/conjunction 筛/verb 孔型/noun ASD/noun 。/punctuation-mark
+
+Ⅱ/numeral b/onomatopoeia 类/noun
+
+1．/numeral 心房/noun 水平/noun 出现/verb 短暂/adjective 性/noun 右/noun-of-locality 向/preposition 左/noun-of-locality 分流/verb 且/conjunction 疑/verb 似/verb 出现/verb 栓塞/noun 后遗症/noun (/punctuation-mark 卒/noun 中/noun-of-locality 或/conjunction 复发/verb 性/noun 短暂/adjective 脑缺血/<SYM> 发作/verb )/punctuation-mark 的/particle 患儿/noun 。/punctuation-mark
+
+2．/numeral 缺损/verb 较/adverb 小/adjective ，/punctuation-mark 但/conjunction 有/verb 血栓/noun 栓塞/noun 风险/noun 。/punctuation-mark
+
+Ⅲ/numeral 类/classifier
+
+1．/numeral 原/adverb 发/verb 孔型/noun 、/punctuation-mark 静脉/noun 窦/noun 型/noun 及/conjunction 无/verb 顶/verb 冠状/<SYM> 窦/noun 型/noun ASD/noun 。/punctuation-mark
+
+2．/numeral 伴/verb 有/verb 与/preposition ASD/noun 无关/verb 的/particle 严重/adjective 心肌/noun 疾患/noun 或/conjunction 瓣膜/noun 疾病/noun 。/punctuation-mark
+
+3．/numeral 合并/verb 梗阻性肺动脉高压/<DIS> 。/punctuation-mark
+
+二/numeral 、/punctuation-mark 操作/verb 要点/noun
+
+1．/numeral 封堵/verb 器/noun 选择/verb ：/punctuation-mark
+
+若/conjunction 采用/verb 球/noun 囊/noun 导管/noun 测量/verb ASD/noun 的/particle 大小/noun ，/punctuation-mark 选择/verb 的/particle 封堵/verb 器/noun 直径/noun 应/verb 比/preposition 球/noun 囊/noun 测量/verb 的/particle 伸展/verb 径/noun 大/adjective 1/numeral ~/punctuation-mark 2mm/noun ；/punctuation-mark 若/conjunction 根据/preposition 经胸超声心动图/<TRE> 测量/verb 的/particle ASD/noun 最/adverb 大/adjective 直径/noun ，/punctuation-mark 边缘/noun 良好/adjective 者/suffix 加/verb 2/numeral ~/punctuation-mark 4mm/noun 选择/verb 封堵/verb 器/noun ，/punctuation-mark 边缘/noun 欠佳/adjective 者/suffix 加/verb 4/numeral ~/punctuation-mark 6mm/noun 。/punctuation-mark
+
+2．/numeral 长/adjective 鞘/punctuation-mark 排气/verb ：/punctuation-mark
+
+操作/verb 过程/noun 中/distinguishing-word 导管/noun 及/conjunction 输送/verb 鞘/punctuation-mark 内/noun-of-locality 的/particle 气体/noun 要/verb 完全/adjective 排除/verb 干净/adjective ，/punctuation-mark 封堵/verb 器/noun 在/preposition 送入/verb 体内/locative-word 前/noun-of-locality 应/verb 将/preposition 其/pronoun 置于/verb 含/verb 肝素/<MED> 的/particle 盐水/noun 内/noun-of-locality 充分/adjective 浸泡/verb 排气/verb ，/punctuation-mark 以/preposition 防止/verb 空气栓塞/<SYM> 。/punctuation-mark
+
+3．/numeral 封堵/verb 器/noun 的/particle 释放/verb ：/punctuation-mark 在/preposition 封堵/verb 器/noun 植入/verb 后/noun-of-locality ，/punctuation-mark 经/preposition 透视/verb 及/conjunction 超/verb
+
+声/noun 心动/verb 图/noun 监测/verb 封堵/verb 器/noun 位置/noun 及/conjunction 形态/noun 满意/verb ，/punctuation-mark 反复/adverb 推/verb 拉/verb 输送/verb 钢缆/noun ，/punctuation-mark 封堵/verb 器/noun 位置/noun 固定/adjective ，/punctuation-mark 方可/adverb 释放/verb 封堵/verb 器/noun 。/punctuation-mark
+
+4．/numeral 几/numeral 种/classifier 特殊/adjective 情况/noun ：/punctuation-mark
+
+(/punctuation-mark 1/numeral )/punctuation-mark 多发性房间隔缺损/<DIS> 的/particle 介入/verb 治疗/verb ：/punctuation-mark 两/numeral 孔/classifier ASD/noun ，/punctuation-mark 若/conjunction 缺损/verb 的/particle 间距/noun ≤7mm/noun ，/punctuation-mark 多/adjective 选择/verb 1/numeral 个/classifier 封堵/verb 器/noun 闭合/verb ；/punctuation-mark 多/numeral 个/classifier 缺损/verb 的/particle 间距/noun >/punctuation-mark 7mm/noun 且/conjunction 不/adverb 在/preposition 同一/distinguishing-word 平面/noun 上/noun-of-locality ，/punctuation-mark 需/verb 选择/verb 多/numeral 个/classifier 封堵/verb 器/noun 分别/adverb 闭合/verb ；/punctuation-mark 如果/conjunction 房间/noun 隔/verb 总/distinguishing-word 长度/noun 不够/adjective ，/punctuation-mark 不足以/verb 放置/verb 封堵/verb 器/noun ，/punctuation-mark 可/conjunction 考虑/verb 外科/noun 手术/verb 。/punctuation-mark
+
+(/punctuation-mark 2/numeral )/punctuation-mark 合并/verb 房/noun 间隔/noun 膨/punctuation-mark 出/verb 瘤/noun 的/particle 介入/verb 治疗/verb ：/punctuation-mark 封堵/verb 器/noun 的/particle 选择/verb 可/verb 参考/verb 球/noun 囊/noun 测量/verb 的/particle 缺损/verb 伸展/verb 径/noun 。/punctuation-mark
+
+(/punctuation-mark 3/numeral )/punctuation-mark 肺静脉/noun 释放/verb 法/distinguishing-word 的/particle 应用/verb ：/punctuation-mark 部分/numeral ASD/noun 患儿/noun 由于/conjunction 缺损/verb 较/adverb 大/adjective 和/conjunction (/punctuation-mark 或/adverb )/punctuation-mark 房间/noun 隔/verb 边缘/distinguishing-word 条件/noun 不好/adjective 采用/verb 常规/noun 方法/noun 不/adverb 能/verb 顺利/adjective 放置/verb 封堵/verb 器/noun ，/punctuation-mark 可/conjunction 试用/verb 肺静脉/noun 释放/verb 法/noun [25]/string 。/punctuation-mark
+
+先/adverb 将/adverb 左/adjective 房/noun 盘/classifier 在/preposition 左上/noun-of-locality 肺静脉/noun 靠近/verb 左/adjective 房/noun 侧/noun-of-locality 稍微/adverb 伸出/verb ，/punctuation-mark 此时/pronoun 左/adjective 房/noun 盘/classifier 受/verb 肺静脉/noun 的/particle 限制/verb 尚未/adverb 完全/adjective 张开/verb ，/punctuation-mark 然后/conjunction 迅速/adjective 将/adverb 长/adjective 鞘/punctuation-mark 后退/verb 使/verb 右/noun-of-locality 房/noun 盘/classifier 在/preposition 右/noun-of-locality 心房/noun 侧/verb 打开/verb ，/punctuation-mark 此时/pronoun 左/adjective 房/noun 盘/classifier 因为/preposition 重力/noun 和/conjunction 牵/verb 拉/verb 作用/noun 自动/adverb 滑/verb 落/verb 在/preposition 左/adjective 心房/noun 张开/verb ，/punctuation-mark 两/numeral 个/classifier 伞/noun 盘/classifier 可/verb 同时/conjunction 或/conjunction 先后/adverb 夹/verb 住房/noun 间隔/noun ，/punctuation-mark 整个/distinguishing-word 封堵/verb 器/noun 可/verb 在/preposition 房间/noun 隔/verb 两侧/noun-of-locality 迅速/adjective 成/verb 形/noun 放/verb 稳妥/adjective 。/punctuation-mark
+
+三/numeral 、/punctuation-mark 常见/adjective 并发症/noun 及其/conjunction 防治/verb
+
+据/preposition 统计/verb ，/punctuation-mark ASD/noun 介入/verb 治疗/verb 成功率/noun 为/preposition 98%/numeral ，/punctuation-mark 严重/adjective 并发症/noun 的/particle 发生率/noun 为/preposition 1.6%/numeral ~/punctuation-mark 1.8%/numeral [26]/string 。/punctuation-mark
+
+1．/numeral 封堵/verb 器/noun 脱落/verb 、/punctuation-mark 移位/verb ：/punctuation-mark
+
+术/noun 前/noun-of-locality 多/numeral 切面/noun 测量/verb ASD/noun 大小/noun 对于/preposition 适应/verb 证/noun 及/conjunction 封堵/verb 器/noun 选择/verb 很/adverb 有/verb 帮助/verb [27]/string ，/punctuation-mark 封堵/verb 器/noun 选择/verb 不当/adjective 易/adjective 造成/verb 脱落/verb ，/punctuation-mark 一旦/adverb 封堵/verb 器/noun 脱落/verb 可/verb 经/preposition 导管/noun 取出/verb ，/punctuation-mark 若/conjunction 封堵/verb 器/noun 较/adverb 大/adjective 或者/conjunction 难以/adverb 取出/verb 时/noun 应/verb 紧急/adjective 行/verb 外科/noun 手术/verb 。/punctuation-mark
+
+2．/numeral 心律失常/<SYM><DIS> ：/punctuation-mark
+
+术/noun 中/noun-of-locality 多/adjective 为/verb 一/numeral 过/verb 性/noun ，/punctuation-mark 无需/verb 特殊/adjective 处理/verb ；/punctuation-mark 若术中/noun 出现/verb Ⅲ度房室阻滞/<DIS> ，/punctuation-mark 停止/verb 操作/verb 较/adverb 长/adjective 时间/noun 仍/adverb 未/adverb 恢复/verb 者/suffix ，/punctuation-mark 应/verb 放弃/verb 介入/verb 治疗/verb 。/punctuation-mark
+
+若/verb 术/noun 后/noun-of-locality 出现/verb Ⅲ度房室阻滞/<DIS> ，/punctuation-mark 应/verb 及时/adjective 给予/verb 药物治疗/<TRE> ，/punctuation-mark 药物治疗/<TRE> 无效/verb 应/verb 尽早/adverb 外科/noun 手术/verb 取出/verb 封堵/verb 器/noun 并/conjunction 修补/verb ASD/noun [28]/string 。/punctuation-mark
+
+3．/numeral 心包填塞/<SYM> ：/punctuation-mark
+
+心/noun 壁/noun 穿孔/verb 多/adjective 发生/verb 于/preposition 左/adjective 心/noun 耳/noun 或/conjunction 肺静脉/noun 处/noun ；/punctuation-mark 若/conjunction 出现/verb 心包填塞/<SYM> ，/punctuation-mark 应/verb 立即/adverb 行/adjective 心包/noun 穿刺/verb 引流/verb 减轻/verb 心包填塞/<SYM> ，/punctuation-mark 并/conjunction 尽快/adverb 行/adjective 外科手术治疗/<TRE> 。/punctuation-mark
+
+4．/numeral 气体/noun 栓塞/noun ：/punctuation-mark
+
+应/verb 立即/adverb 吸氧/<TRE> ，/punctuation-mark 心/noun 率/suffix 减慢/verb 者/suffix 给予/verb 阿托品/<MED> ，/punctuation-mark 同时/conjunction 给予/verb 硝酸甘油/<MED> 防止/verb 血管痉挛/<DIS> 。/punctuation-mark
+<硝酸甘油,MED-DIS|+,血管痉挛>
+5．/numeral 残余/noun 分流/verb ：/punctuation-mark
+
+少量/numeral 残余/noun 分流/verb 一般/particle 不/adverb 需要/verb 处理/verb ，/punctuation-mark 部分/noun 可/conjunction 自行/adverb 闭合/verb 。/punctuation-mark
+
+如/verb 残余/noun 分流/verb 束/classifier 直径/noun 大于/verb 5mm/noun 、/punctuation-mark 有/verb 血流/noun 动力学/noun 意义/noun ，/punctuation-mark 建议/noun 再次/adverb 封堵/verb 残余/noun 分流/verb 。/punctuation-mark
+
+6．/numeral 头痛/<SYM><DIS> 或/conjunction 偏头痛/<DIS> ：/punctuation-mark
+
+术/noun 后/noun-of-locality 阿司匹林/<MED> 最少/adverb 服用/verb 半/numeral 年/classifier ，/punctuation-mark 必要/adjective 时/noun 可/verb 联合/verb 抗/verb 凝/verb 治疗/verb 。/punctuation-mark
+
+7．/numeral 脑栓塞/<DIS> ：/punctuation-mark
+
+术中/noun 及/conjunction 术/noun 后/noun-of-locality 严格/adjective 的/particle 抗/verb 凝/verb 治疗/verb 是/verb 预防/verb 栓塞/noun 事件/noun 发生/verb 的/particle 关键/noun 。/punctuation-mark
+
+四/numeral 、/punctuation-mark 随/adverb 访/verb
+
+术/noun 后/noun-of-locality 口服/verb 阿司匹林/<MED> 3/numeral ~/punctuation-mark 5mg//string (/punctuation-mark kg·d/noun )/punctuation-mark ，/punctuation-mark 共/adverb 6/numeral 个/classifier 月/noun 。/punctuation-mark
+
+因为/preposition 少数/numeral 病例/noun 有/verb 远期/noun 发生/verb 主动脉/noun -/punctuation-mark 心房/noun 瘘/<SYM> 的/particle 可能/noun ，/punctuation-mark 所有/distinguishing-word 进行/verb ASD介入治疗/<TRE> 的/particle 病例/noun 均/adverb 应/verb 坚持/verb 长期/adverb 随/verb 访/verb ；/punctuation-mark 推荐/verb 术/noun 后/noun-of-locality 第1/numeral 、/punctuation-mark 3/numeral 、/punctuation-mark 6/numeral 、/punctuation-mark 12/numeral 个/classifier 月/noun 及/conjunction 以后/noun-of-locality 每年/pronoun 常规/noun 随访/verb 心电图/<TRE> 及/conjunction 心脏超声/<TRE> 。/punctuation-mark
+
+室间隔缺损封堵术/<TRE>
+
+1988年/time-word Lock/noun 等/particle [29]/string 首/numeral 次/classifier 应用/verb 双面/distinguishing-word 伞/noun 关闭/verb 室间隔缺损/<SYM><DIS> (/punctuation-mark ventricular/noun  /None septal/noun  /None defect/noun ，/punctuation-mark VSD/noun )/punctuation-mark ，/punctuation-mark 1994年/time-word Sideris/noun 等/particle [30]/string 报道/verb 纽扣/noun 式/suffix 补/verb 片/classifier 法/noun 封堵/verb VSD/noun ，/punctuation-mark 但/conjunction 上述/distinguishing-word 方法/noun 由于/conjunction 操作/verb 复杂/adjective 、/punctuation-mark 并发症/noun 多/adverb 均/adverb 未/adverb 获/verb 推广/verb 应用/verb 。/punctuation-mark
+
+1998年/time-word 后/noun-of-locality Amplatzer/noun 肌/noun 部/noun 和/conjunction 膜/noun 周/noun 部/noun VSD/noun 封堵/verb 装置/noun 相继/adverb 研制/verb 成功/adjective 并/conjunction 应用/verb 于/preposition 临床/verb [31，32]/string ，/punctuation-mark 尤其/adverb 是/verb 2002年/time-word 以来/noun-of-locality 国内/locative-word 在/preposition Amplatzer/noun  /None VSD/noun 封堵/verb 器/noun 的/particle 基础/noun 上/noun-of-locality 对/preposition 封堵/verb 器/noun 进行/verb 了/particle 改进/verb 和/conjunction 完善/verb ，/punctuation-mark VSD/noun 介入/verb 治疗/verb 在/preposition 我国/noun 得以/verb 迅速/adjective 发展/verb 。/punctuation-mark
+
+一/numeral 、/punctuation-mark 介入/verb 治疗/verb 指/verb 征/verb
+
+Ⅰ/numeral 类/classifier
+
+1．/numeral 膜/noun 周/noun 型/noun VSD/noun ：/punctuation-mark 年龄/noun ≥3/numeral 岁/classifier ；/punctuation-mark 有/verb 临床/verb 症状/noun 或/conjunction 有/verb 左/adjective 心/noun 超负荷/adverb 表现/verb ；/punctuation-mark VSD/noun 上/noun-of-locality 缘/noun 距/preposition 主动脉/noun 右/noun-of-locality 冠/verb 瓣/noun ≥2mm/noun ，/punctuation-mark 无/verb 主动脉/noun 瓣/noun 脱/verb 垂/verb 及/conjunction 主动脉瓣反流/<DIS> ；/punctuation-mark 缺损/verb 直径/noun </punctuation-mark 12mm/noun [33]/string 。/punctuation-mark
+
+2．/numeral 肌/noun 部/noun VSD/noun ：/punctuation-mark 年龄/noun ≥3/numeral 岁/classifier ，/punctuation-mark 有/verb 临床/verb 症状/noun 或/conjunction 有/verb 左/adjective 心/noun 超负荷/distinguishing-word 表现/verb ，/punctuation-mark 肺/noun 体循环/noun 血流/noun 量/noun 比/preposition (/punctuation-mark Qp/Qs/string )/punctuation-mark >/punctuation-mark 1.5/numeral 。/punctuation-mark
+
+3．/numeral 年龄/noun ≥3/numeral 岁/classifier 、/punctuation-mark 解剖/verb 条件/noun 合适/adjective 的/particle 外科/noun 手术/verb 后/noun-of-locality 残余/noun 分流/verb 或/conjunction 外伤/noun 后/noun-of-locality VSD/noun ，/punctuation-mark 有/verb 临床/verb 症状/noun 或/conjunction 有/verb 左/adjective 心/noun 超负荷/distinguishing-word 表现/verb 。/punctuation-mark
+
+Ⅱ/numeral a/pronoun 类/noun
+
+1．/numeral 膜/noun 周/noun 型/noun VSD/noun ：/punctuation-mark 有/verb 临床/verb 症状/noun 或/conjunction 左/adjective 心/noun 超负荷/distinguishing-word 表现/verb ，/punctuation-mark 年龄/noun 2/numeral ~/punctuation-mark </punctuation-mark 3/numeral 岁/classifier 。/punctuation-mark
+
+2．VSD/noun 上/noun-of-locality 缘/preposition 距离/noun 主动脉/noun 右/noun-of-locality 冠/verb 瓣/noun ≤2mm/noun ，/punctuation-mark 虽/conjunction 有/verb 轻度/distinguishing-word 主动脉/noun 瓣/noun 脱/verb 垂/verb 但/conjunction 无/verb 明显/adjective 主动脉瓣反流/<DIS> [33]/string 。/punctuation-mark
+
+3．/numeral 肌/noun 部/noun VSD/noun ：/punctuation-mark 体重/noun ≥5kg/noun ，/punctuation-mark 有/verb 临床/verb 症状/noun 或/conjunction 有/verb 左/adjective 心/noun 超负荷/distinguishing-word 表现/verb ，/punctuation-mark Qp/Qs/string >/punctuation-mark 2.0/numeral [3]/string 。/punctuation-mark
+
+Ⅲ/numeral 类/classifier
+
+1．/numeral 双/classifier 动脉/noun 下/noun-of-locality 型/suffix VSD/noun 。/punctuation-mark
+
+2．/numeral 伴/verb 轻度/distinguishing-word 以上/noun-of-locality 主动脉瓣反流/<DIS> 。/punctuation-mark
+
+3．/numeral 合并/verb 梗阻性肺动脉高压/<DIS> 。/punctuation-mark
+
+4．/numeral 既/conjunction 往/preposition 无/verb 感染性心内膜炎/<DIS> 病史/noun 且/conjunction 无/verb 血流/noun 动力学/noun 意义/noun 的/particle 膜/noun 周/noun 和/conjunction 肌/noun 部/noun VSD/noun 。/punctuation-mark
+
+二/numeral 、/punctuation-mark 操作/verb 要点/noun
+
+1．/numeral 建立/verb 动/verb 、/punctuation-mark 静脉/noun 轨道/noun ：/punctuation-mark
+
+在/preposition 建立/verb 轨道/noun 过程/noun 中/noun-of-locality 应/verb 注意/verb 避免/verb 导/verb 丝/noun 或/conjunction 导管/noun 缠绕/verb 三/numeral 尖/adjective 瓣/classifier 腱/punctuation-mark 索/verb [34，35]/string 。/punctuation-mark
+
+2．/numeral 封堵/verb 器/noun 选择/verb ：/punctuation-mark
+
+缺损/verb 距/preposition 主动脉/noun 瓣/classifier 2mm/noun 以上者/noun 选用/verb 对称/adjective 型/suffix 封堵/verb 器/noun ，/punctuation-mark 不足/verb 2mm/noun 者/suffix 选用/verb 偏心/adjective 型/suffix 封堵/verb 器/noun 。/punctuation-mark
+
+对于/preposition 膜/noun 周/noun 及/conjunction 肌/noun 部/noun VSD/noun ，/punctuation-mark 所/particle 选择/verb 的/particle 封堵/verb 器/noun 直径/noun 通常/adverb 较/adverb 造影/verb 测量/verb 直径/noun 大/adjective 1/numeral ~/punctuation-mark 3mm/noun [33]/string ，/punctuation-mark 但/conjunction 对于/preposition 合并/verb 主动脉/noun 瓣/noun 脱/verb 垂/verb 的/particle VSD/noun 或/conjunction 肌/noun 部/noun 流出/verb 道/classifier 型/noun VSD/noun (/punctuation-mark 即/verb 所谓/verb 嵴/punctuation-mark 内/noun-of-locality 型/suffix )/punctuation-mark ，/punctuation-mark 左心室造影/<TRE> 有时/adverb 不/adverb 能/verb 显示/verb 缺损/verb 的/particle 全部/numeral ，/punctuation-mark 可/verb 在/preposition 输送/verb 鞘/punctuation-mark 通过/preposition VSD/noun 后/noun-of-locality 采用/verb 超声/noun 或/conjunction 造影/verb 观察/verb 穿/verb 隔/verb 血/noun 流/verb 的/particle 多少/pronoun ，/punctuation-mark 有助于/verb 判断/verb 缺损/verb 的/particle 大小/noun 和/conjunction 选择/verb 适当/adjective 的/particle 封堵/verb 器/noun 。/punctuation-mark
+
+3．/numeral 心尖/noun 部/classifier 肌/noun 部/noun VSD/noun 封堵/verb 技术/noun 要点/noun ：/punctuation-mark
+
+在/preposition 操作/verb 上/noun-of-locality 与/preposition 膜/noun 部/classifier VSD/noun 封堵/verb 术/noun 不尽/adverb 相同/adjective ，/punctuation-mark 通常/adverb 建立/verb 股/classifier 动脉/noun -/punctuation-mark 主动脉/noun -/punctuation-mark 左/adjective 室/noun -/punctuation-mark 右/noun-of-locality 室/noun -/punctuation-mark 右/noun-of-locality 房/noun -/punctuation-mark 右/noun-of-locality 颈内/locative-word 静脉/noun 的/particle 轨道/noun ，/punctuation-mark 输送/verb 长/adjective 鞘/punctuation-mark 从/preposition 右/noun-of-locality 颈内/locative-word 静脉/noun 送入/verb 。/punctuation-mark
+
+三/numeral 、/punctuation-mark 常见/adjective 并发症/noun 及其/conjunction 防治/verb
+
+1．/numeral 心律失常/<SYM><DIS> ：/punctuation-mark
+
+术中/noun 可/verb 有/verb 室性早搏/<SYM><DIS> 、/punctuation-mark 室性心动过速/<SYM><DIS> 、/punctuation-mark 束支传导阻滞/<SYM><DIS> 及/conjunction 房室阻滞/<DIS> 等/particle ，/punctuation-mark 多/adjective 为/verb 一/numeral 过/verb 性/noun ，/punctuation-mark 不/adverb 需要/verb 特殊/adjective 处理/verb 。/punctuation-mark
+
+若/conjunction 在/preposition 术中/noun 出现/verb Ⅲ度房室阻滞/<DIS> 或/conjunction 完全性左束支传导阻滞/<DIS> ，/punctuation-mark 停止/verb 操作/verb 较/adverb 长/adjective 时间/noun 仍/adverb 未/adverb 恢复/verb 者/suffix ，/punctuation-mark 应/verb 放弃/verb 介入/verb 治疗/verb 。/punctuation-mark
+
+术/noun 后/noun-of-locality 早期/noun-of-locality 发生/verb Ⅲ度房室阻滞/<DIS> 或/conjunction 完全性左束支传导阻滞/<DIS> ，/punctuation-mark 推荐/verb 予/verb 糖皮质激素/<MED> 、/punctuation-mark 白蛋白/<MED> 及/conjunction 果糖/<MED> 二/numeral 磷酸钠/<MED> 等/particle 营养/noun 心肌/noun 治疗/verb ，/punctuation-mark 必要/adjective 时/noun 安装/verb 临时/distinguishing-word 起/noun-of-locality 搏/verb 器/noun ，/punctuation-mark 治疗/verb 3/numeral ~/punctuation-mark 7d/noun 不/adverb 恢复/verb ，/punctuation-mark 应/verb 开/verb 胸/noun 取出/verb 封堵/verb 器/noun 并/conjunction 修补/verb VSD/noun ；/punctuation-mark 或者/conjunction 也/adverb 可/verb 直接/adjective 心/noun 外科/noun 手术/verb 取出/verb 封堵/verb 器/noun 并/conjunction 修补/verb VSD/noun 。/punctuation-mark
+
+术/noun 后/noun-of-locality 迟/adjective 发型/noun 的/particle Ⅲ度房室阻滞/<DIS> ，/punctuation-mark 药物/noun 治疗/verb 效果/noun 通常/adverb 欠佳/adjective ，/punctuation-mark 应/verb 予以/verb 永久起搏器植入治疗/<TRE> [36]/string ；/punctuation-mark 对于/preposition 晚期/time-word 发生/verb 完全性左束支传导阻滞/<DIS> 的/particle 病例/noun ，/punctuation-mark 外科/noun 手术/verb 取出/verb 封堵/verb 器/noun 后/noun-of-locality 能否/verb 恢复/verb 以及/conjunction 在/preposition 左/adjective 室/noun 扩大/verb 前/noun-of-locality 是否/verb 需要/verb 心室/noun 同步/verb 化/verb 治疗/verb ，/punctuation-mark 仍/adverb 需要/verb 进一步/adverb 研究/verb [37]/string 。/punctuation-mark
+
+2．/numeral 封堵/verb 器/noun 移位/verb 或/conjunction 脱落/verb ：/punctuation-mark
+
+可用/verb 圈套/noun 器/noun 捕获/verb 后/noun-of-locality 取出/verb ，/punctuation-mark 否则/conjunction 应/verb 外科/noun 手术/verb 取出/verb 。/punctuation-mark
+
+3．/numeral 对/classifier 瓣膜/noun 的/particle 影响/verb 或/conjunction 损伤/verb ：/punctuation-mark
+
+术中/noun 如果/conjunction 发现/verb 封堵/verb 器/noun 植入/verb 后/noun-of-locality 出现/verb 明显/adjective 主动脉瓣反流/<DIS> ，/punctuation-mark 应/verb 撤出/verb 封堵/verb 器/noun ；/punctuation-mark 术/noun 后/noun-of-locality 出现/verb 主动脉瓣反流/<DIS> 应/verb 予以/verb 加强/verb 随/adverb 访/verb ，/punctuation-mark 必要/adjective 时/noun 行/noun 外科手术治疗/<TRE> 。/punctuation-mark
+
+术中/noun 如果/conjunction 发现/verb 封堵/verb 器/noun 植入/verb 后/noun-of-locality 影响/verb 三/numeral 尖/noun 瓣/noun 的/particle 功能/noun ，/punctuation-mark 则/conjunction 应/verb 回收/verb 封堵/verb 器/noun ，/punctuation-mark 重新/adverb 建立/verb 轨道/noun 后/noun-of-locality 再/adverb 进行/verb 封堵/verb ；/punctuation-mark 术/noun 后/noun-of-locality 出现/verb 严重三尖瓣反流/<DIS> 或/conjunction 狭窄/adjective ，/punctuation-mark 需/verb 及时/adjective 外科/noun 手术/verb 治疗/verb [34]/string 。/punctuation-mark
+
+4．/numeral 残余/noun 分流/verb 和/conjunction 溶/verb 血/noun ：/punctuation-mark
+
+少量/numeral 残余/noun 分流/verb 可/verb 随访/verb 观察/verb ，/punctuation-mark 残余/noun 分/classifier 流量/noun 较/adverb 多/adjective 时/noun 应/verb 尽早/adverb 行/adjective 外科手术治疗/<TRE> 。/punctuation-mark
+
+溶/verb 血/noun 多/adjective 与/conjunction 残余/noun 分流/verb 有关/verb ，/punctuation-mark 应/verb 使用/verb 糖皮质激素/<MED> 、/punctuation-mark 碳酸氢钠/<MED> 等/particle 药物/noun 治疗/verb ，/punctuation-mark 保护/verb 肾/noun 功能/noun ；/punctuation-mark 若/conjunction 经/preposition 药物/noun 治疗/verb 后/noun-of-locality 病情/noun 不/adverb 缓解/verb ，/punctuation-mark 应/verb 及时/adjective 外科/noun 手术/verb 治疗/verb 。/punctuation-mark
+
+四/numeral 、/punctuation-mark 随/adverb 访/verb
+
+术/noun 后/noun-of-locality 口服/verb 阿司匹林/<MED> 3/numeral ~/punctuation-mark 5mg//string (/punctuation-mark kg·d/noun )/punctuation-mark ，/punctuation-mark 共/adverb 6/numeral 个/classifier 月/noun 。/punctuation-mark
+
+因/preposition 少数/numeral VSD介入治疗/<TRE> 病例/noun 有/verb 远期/noun 发生/verb 主动脉瓣穿孔/<DIS> 、/punctuation-mark 迟发房室阻滞/<DIS> 及/conjunction 左束支传导阻滞/<SYM><DIS> 的/particle 可能/noun ，/punctuation-mark 所有/distinguishing-word 进行/verb VSD介入治疗/<TRE> 的/particle 病例/noun 均/adverb 应/verb 坚持/verb 长期/adverb 随/verb 访/verb ；/punctuation-mark 推荐/verb 术/noun 后/noun-of-locality 第1/numeral 、/punctuation-mark 3/numeral 、/punctuation-mark 6/numeral 、/punctuation-mark 12/numeral 个/classifier 月/noun 及/conjunction 以后/noun-of-locality 每年/pronoun 常规/noun 随访/verb 心电图/<TRE> 及/conjunction 心脏超声/<TRE> 。/punctuation-mark
+

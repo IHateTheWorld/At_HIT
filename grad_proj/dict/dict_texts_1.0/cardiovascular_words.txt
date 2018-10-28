@@ -1,0 +1,3174 @@
+A
+AAI pacemaker 心房按需抑制起搏器
+AAT pacemaker 心房按需触发脉冲起搏器
+abatement of fever 退热
+abdominal aneurysm 腹主动脉瘤
+abdominal aorta 腹主动脉
+abdominal aortic aneurysm 腹主动脉瘤
+abdominal aortic pulsation 腹主动脉搏动
+abdominal aortography 腹主动脉造影术
+abdominal breathing 腹式呼吸
+abdominal bruit 腹部杂音
+abdominal cavity 腹腔
+abdominal discomfort
+
+腹部不适
+
+abdominal distension 腹胀
+abdominal dropsy 腹水
+abdominal fullness
+
+腹部饱胀感
+
+abdominal mass 腹部肿块
+abdominal pain 腹痛
+abdominal palpation 腹部触诊
+abdominal paracentesis 腹腔穿刺术
+abdominal part 腹部
+abdominal plain film 腹部平片
+abdominal pressure 腹压
+abdominal pulse 腹主动脉搏动
+abdominal swelling 腹胀
+abdominal tenderness 腹部压痛
+Abdominal ultrasonography 腹部超声波检查法
+abdominal vascular murmur 腹部血管杂音
+abdominal wall 腹壁
+abdominojugular reflux
+
+腹－颈静脉回流
+
+aberrant conduction 差异性传导
+aberrant ventricular conduction 心室差异传导
+ablation catheter 消融导管
+abnormal breathing sound 异常呼吸音
+abnormal gait 步态异常
+abnormal percussion sound 异常叩诊音
+abnormal pulsation of carotid artery 颈动脉异常搏动
+abnormal water-sodium metabolism 水、钠代谢异常
+abnormalities of cardiac conduction system 心脏传导系统异常
+abnormality of cardiac automaticity 心脏自律性异常
+abrupt pulse 促脉
+abscess of heart 心脏脓肿
+abscess of joint 关节脓肿
+absence of P wave P 波消失
+
+absence of the interventricular septum 室间隔阙如
+absolute cardiac dullness 绝对心浊音界
+absolute dullness 绝对浊音
+absolute refractory period 绝对不应期
+absorption fever 吸收热
+accelerated idioventricular rhythm 加速性心室自主节律
+accelerated junctional rhythm 加速性交接区心律
+accelerated-malignant hypertension 急进型恶性高血压
+accelerating angina
+
+恶化型心绞痛
+
+acceleration-dependent aberrancy 加速依赖性心电脉冲传导偏差
+accentuation of second heart sound 第二心音亢进
+accessory atrioventricular pathway 房室旁道
+accessory examination 辅助检查
+accessory pathway 旁道
+α1-acid glycoprotein α1-酸糖蛋白
+acid mucopolysaccharide
+
+酸性粘多糖
+
+acid-base balance 酸碱平衡
+acid-base balance disturbances
+
+酸碱平衡紊乱
+
+acid-fast stain 抗酸染色
+acquired cardiovascular disease 后天性心血管病
+acquired immunodeficiency syndrome 爱滋病
+actin filament 肌动蛋白丝
+action potential 动作电位
+action potential amplitude 动作电位振幅
+action potential duration 动作电位时间
+activated protein C
+
+活化的蛋白 C
+
+activation mapping 激动波标测
+activating agent 激活剂
+active bleeding 活动性出血
+active catalytic site
+
+活性催化部位
+
+active peptic ulcer disease
+
+活动性消化性溃疡病
+
+active position 自动体位
+active rheumatism 风湿活动
+actived partial thromboplastin time
+acute anterior myocardial infarction
+
+激活的部分凝血活酶时间
+急性前壁心肌梗塞
+
+acute aortic dissection 急性主动脉夹层
+acute bacterial endocarditis 急性细菌性心内膜炎
+acute bacterial myocarditis 急性细菌性心肌炎
+acute cardiac dysfunction 急性心功能不全
+acute compression triad 急性心脏受压三联征
+acute congestive heart failure 急性充血性心力衰竭
+acute cor pulmonale
+
+急性肺心病
+
+acute coronary insufficiency
+acute coronary syndromes
+
+急性冠状动脉机能不全
+急性冠状动脉综合症
+
+acute endocarditis 急性心内膜炎
+acute glomerulonephritis
+
+急性肾小球肾炎
+
+acute heart failure 急性心力衰竭
+acute infarct scintigraphy 急性梗塞闪烁法
+acute myocardial infarction
+
+急性心肌梗塞
+
+acute myopericarditis 急性心肌心包炎
+acute nonspecific pericarditis 急性非特异性心包炎
+acute oliguric renal failure 急性少尿性肾功能衰竭
+acute pancreatitis
+
+急性胰腺炎
+
+acute pericarditis
+
+急性心包炎
+
+acute pulmonary edema 急性肺水肿
+acute pulmonary embolism
+acute renal failure
+
+急性肺栓塞
+
+急性肾功能衰竭
+
+acute rheumatic arthritis 急性风湿性关节炎
+acute rheumatic fever 急性风湿热
+acute stress ulcer 急性应激性溃疡
+acute transmural infarction
+
+急性透壁梗塞
+
+acyl CoA:cholesterol acyltransferase 胆固醇酰基转移酶
+Adams_Stokes attack 阿-斯二氏发作
+Addison disease 阿狄森氏病
+adenosine deaminase 腺苷脱氨酶
+adenosine diphosphate
+
+二磷酸腺苷
+
+adenosine monophosphate AMP ,腺苷酸
+adenosine-sensitive VT 腺苷敏感性室速
+adenosine triphosphate 三磷酸腺苷
+adenylate cyclase
+
+腺苷酸环化酶
+
+adherent pericardium 粘连性心包
+adhesive pericarditis 粘连性心包炎
+adipose tissue 脂肪组织
+adrenal cortex
+
+肾上腺皮质
+
+adrenal gland 肾上腺
+adrenal medulla
+
+肾上腺髓质
+
+adrenal medulla hyperplasia 肾上腺髓质增生
+adrenal scanning 肾上腺扫描
+adrenocortical hypofunction 肾上腺皮质功能减退症
+adrenocorticotropic hormone 促肾上腺皮质激素
+adult respiratory distress syndrome
+
+成人呼吸窘迫综合症
+
+advanced A-V block 高度房室传导阻滞
+advanced heart block 高度心脏传导阻滞
+adverse effect 副作用
+adverse drug reactions 药物不良反应
+aerosol inhalation 雾化吸入 (法)
+aerosol therapy 喷雾疗法,气溶胶吸入疗法
+afferent arteriole of glomerulus 肾小球输入动脉
+
+after depolarization 后除极
+A-H interval A-H 间期
+AII receptor blockers 血管紧张素 II 受体阻滞剂
+air embolism in heart 心脏空气栓塞
+airway resistance 气道阻力
+alanine aminotransferase 丙氨酸氨基转移酶
+alarm reaction 应激反应
+alcohol bath 酒精擦浴
+alcoholic cardiomyopathy 酒精性心肌病
+aldosterone antagonist 醛固酮拮抗剂
+aldosterone escape 醛固酮脱逸
+alkaline phosphatase 碱性磷酸酶
+alimentary system 消化系统
+allergic purpura 过敏性紫癜
+allergic reaction 过敏反应
+allergic shock 过敏性休克
+allorhythmic pulse 不整脉
+alpha1 -adrenergic blocking agent α-肾上腺素能阻滞剂
+alpha1 -adrenergic receptor α1-肾上腺素受体
+alpha-adrenergic receptor antagonist α-肾上腺素受体拮抗剂
+alpha1-antitrypsin α1-抗胰蛋白酶
+alpha2 globulin fibrinogen
+
+α2-球蛋白纤维蛋白原
+
+alternans of heart 心脏交替现象
+alternate-day therapy
+alternating-current
+
+间日疗法
+
+交流电
+
+alternating pulse 交替脉
+alternation of heart 心脏交替现象
+alveolar-arterial oxygen tension difference 肺泡-动脉氧分压差
+alveolar capillaries 肺泡毛细血管
+alveolar gas exchange 肺泡气体交换
+alveolar pulmonary edema
+
+肺泡性肺水肿
+
+alveolar surfactant 肺泡表面活性物质
+alveolar ventilation
+
+肺泡通气
+
+ambulatory blood pressure monitoring 动态血压监测
+ambulatory ECG monitor 可移动心电图监护仪
+ambulatory electrocardiogram 动态心电图
+ambulatory electrocardiography
+
+动态心电描记法
+
+amino acid 氨基酸
+amino acid sequence
+
+氨基酸顺序
+
+aminoglycoside antibiotics
+amniotic fluid
+
+氨基甙类抗生素
+
+羊水
+
+amniotic fluid embolism 羊水栓塞
+Amplatz coronary catheter 安普莱茨冠状动脉导管(冠脉造影时用)
+amplified expression vector
+
+扩增表达载体
+
+amyl nitrite
+
+亚硝酸异戊酯
+
+amyloid heart disease
+amyloid-A protein
+
+心脏淀粉样病
+
+淀粉样 A 蛋白
+
+amyotrophic lateral sclerosis
+anabolic steroids
+
+肌萎缩性（脊髓）侧索硬化
+
+同化类固醇激素
+
+anaerobic metabolism 无氧代谢
+analysis of variance 方差分析
+anastomosis between aorta and pulmonary artery 主动脉-肺动脉吻合术
+anastomotic branch of atrium 心房吻合支
+anaphylactic shock 过敏性休克
+anemic murmur 贫血性杂音
+aneurysm from hypertension 高血压动脉瘤
+aneurysm of aortic sinus 主动脉窦瘤
+aneurysm of interventricular septum 心室间隔动脉瘤
+aneurysm of pulmonary artery 肺动脉动脉瘤
+aneurysm of the sinus Valsalva
+
+Valsalva 窦瘤
+
+aneurysm rupture 动脉瘤破裂
+aneurysm with coarctation of the aorta 主动脉狭窄伴动脉瘤
+aneurysmal dilatation
+
+瘤样扩张
+
+aneurysmal murmur 动脉瘤杂音
+aneurysmal thrill 动脉瘤震颤
+angina cordis 心绞痛
+angina decubitus 卧位型心绞痛
+angina pectoris
+
+心绞痛
+
+angina sine dolore 无痛性心绞痛
+anginal equivalent 心绞痛等同症状
+anginal warning system
+
+心绞痛报警系统
+
+angiodyn guide wire 心血管专用导丝
+angiodyn Judkins catheter for right coronary artery
+
+右冠状动脉造影导管
+
+angiographic catheter 血管造影导管
+angioneurotic edema 血管神经性水肿
+angiopathic vertigo 动脉硬化性眩晕
+angiosclerotic myasthenia 血管硬化性肌无力，间歇性跛行
+angiotensin converting enzyme
+
+血管紧张素转化酶
+
+angiotensin converting enzyme inhibitors 血管紧张素转化酶抑制剂
+angiotensin II
+
+血管紧张素 II
+
+angiotensin Ⅱ receptor 血管紧张素Ⅱ受体
+angiotensin receptor antagonist
+
+血管紧张素受体拮抗剂
+
+angiotensinogen gene 血管紧张素原基因
+anisolysated plasminogen streptokinase activated complex
+合物
+ankle-brachial blood pressure index
+ankylosing spondylitis
+annuloaortic ectasia
+
+强直性脊椎炎
+主动脉环扩张
+
+踝－臂血压指数
+
+苯甲氧酰纤溶酶原链激酶活化复
+
+anomalous pulmonary venous drainage 肺静脉畸形引流
+anomalous origin of coronary artery 冠状动脉异常起端
+anorexia nervosa 神经性厌食
+anoxic encephalopathy 缺氧性脑病
+anteroposterior and lateral film 正侧位片
+anterior hemiblock
+
+左前分支阻滞
+
+anterior interventricular groove 前室间沟
+anterior mitral valve leaflet 二尖瓣前叶
+anterior myocardial infarction
+
+前壁心肌梗塞
+
+anterior papillary muscle of right ventricle 右心室前乳头肌
+anterior pituitary hyperfunction 垂体前叶功能亢进症
+anterior-posterior diameter of heart 心脏前后径
+anteroinferior myocardial infarction
+
+前下壁心肌梗塞
+
+anterolateral myocardial infarction
+
+前侧壁心肌梗塞
+
+antero-lateral peri-infarction block
+
+前侧壁梗塞周围阻滞
+
+anteroseptal myocardial infarction
+
+前间壁心肌梗塞
+
+atherectomy catheter 粥样硬化切除导管
+anthracycline compounds
+
+蒽环类制剂
+
+anti-anginal drug 抗心绞痛药
+antiarrhythmic drugs
+antibiotic resistance
+
+抗心律失常药物
+抗生素耐药
+
+antibiotic sensitivity test 抗生素敏感试验
+anticardiolipin antibody 抗心磷脂抗体
+antidigoxin Fab fragments
+
+抗地高辛 Fab 片段
+
+antidigoxin immunotherapy
+
+抗地高辛免疫疗法
+
+antidiuretic hormone 抗利尿激素
+antidromic atrioventricular reciprocating tachycardia 逆向房室交互性心动过速
+antidromic tachycardia 逆传型心动过速
+antifibrin antibody
+
+抗纤维蛋白抗体
+
+antihypertensive therapy
+antimicrobial agent
+
+抗高血压治疗
+
+抗菌剂
+
+antimyocardial antibody 抗心肌抗体
+antimyolemmal antibody 抗肌纤维膜抗体
+antineoplastic alkylating agent
+
+抗肿瘤烷基化物制剂
+
+antineutrophilic cytoplasmic antibodies 抗中性粒细胞胞浆抗体
+antinuclear antibody
+
+抗核抗体
+
+antiphospholipid antibody
+
+抗磷脂抗体
+
+α2-antiplasmin α2-抗纤溶酶
+alpha1-antitrypsin α1-抗胰蛋白酶
+antiplatelet therapy
+
+抗血小板治疗
+
+anti-Rho negative antibodies
+antisense oligonucleotide
+
+抗 Rho 阴性抗体
+
+反义寡核苷酸
+
+anti-streptolysin "O" 抗链球菌溶血素 O
+antitachycardia pacing 抗心动过速起搏
+
+antitachycardia pacemaker 抗心动过速起搏器
+antithrombin Ⅲ 抗凝血酶Ⅲ
+antithrombin Ⅲ activity 抗凝血酶Ⅲ活性
+antituberculosis therapy 抗结核治疗
+anti-Xa:anti-Ⅱa ratio
+
+抗 Xa：抗Ⅱa 的比率
+
+AOO pacemaker 心房非同步起搏器
+aorta rupture 主动脉破裂
+aortic aneurysm
+
+主动脉瘤
+
+aortic angioplasty 主动脉成形术
+aortic arch 主动脉弓
+aortic arch syndrome 主动脉弓综合征
+aortic area 主动脉瓣区
+aortic atresia 主动脉闭锁,主动脉瓣闭锁
+aortic balloon valvuloplasty
+
+主动脉球囊瓣膜成形术
+
+aortic body 主动脉体
+aortic bulb 主动脉球
+aortic closure 动脉闭锁
+aortic cusp 二尖瓣大瓣
+aortic cusp resuspension
+
+主动脉瓣膜再悬术
+
+aortic depressor reflex 主动脉减压反射
+aortic dissecting 主动脉分裂
+aortic dissecting aneurysm 主动脉夹层动脉瘤
+aortic dissection
+
+主动脉夹层分离
+
+aortic ejection click 主动脉喷射喀喇音
+aortic ejection sound
+
+主动脉喷射音
+
+aortic impedance 主动脉阻抗
+aortic incompetence 主动脉瓣关闭不全
+aortic insufficiency 主动脉瓣闭锁不全
+aortic knob
+
+主动脉结
+
+aortic murmur 主动脉瓣杂音
+aortic occlusion forceps 主动脉闭合钳
+aortic orifice 主动脉口
+aortic pressure
+
+主动脉压力
+
+aortic receptor 主动脉感受器
+aortic regurgitation 主动脉瓣反流
+aortic ring 主动脉瓣环
+aortic root
+
+主动脉根部
+
+aortic root dilatation
+
+主动脉根部扩张
+
+aortic second sound
+
+主动脉区第二音
+
+aortic septal defect 主动脉隔缺损
+aortic sinus 主动脉窦
+aortic sinusal aneurysm 主动脉窦动脉瘤
+aortic stenosis
+
+主动脉瓣狭窄
+
+aortic thrill 主动脉瓣震颤
+
+aortic type of heart 主动脉型心脏
+aortic valve 主动脉瓣
+aortic valve calcification 主动脉瓣钙化
+aortic valve dilator 主动脉瓣扩张器
+aortic valve orifice area 主动脉瓣口面积
+aortic valve replacement 主动脉瓣置换术
+aortic valve ring 主动脉瓣环
+aortic valvular disease 主动脉瓣膜疾病
+aortic valvular insufficiency 主动脉瓣闭锁不全
+aortic window 主动脉窗
+aorticopulmonary septum 主动脉肺动脉隔
+aorticopulmonary window
+
+主动脉肺窗
+
+aorticovenous anastomosis
+
+主动脉静脉吻合术
+
+aortocoronary bypass 主动脉冠状动脉旁路
+aortocoronary bypass grafting 主动脉冠状动脉旁路移植术
+aortopulmonary window
+
+主、肺动脉窗
+
+aortopulmonary septal defect 主肺动脉间隔缺损
+apex area of heart 心尖区
+apex beat
+
+心尖搏动
+
+apex cardiogram
+
+心尖心动图
+
+apex of heart 心尖
+apex of lung 肺尖
+apical diastolic murmur 心尖舒张期杂音
+apical four-chamber view 心尖四腔观
+apical hypertrophic nonobstructive cardiomyopathy
+
+非梗阻性心尖肥厚型心肌病
+
+apical hypertrophy 心尖部肥厚
+apical impulse 心尖搏动
+apical murmur 心尖部杂音
+apical myocardial infarction 心尖部心肌梗塞
+apical region of heart 心尖区
+apolipoprotein A 载脂蛋白 A
+apolipoprotein B 载脂蛋白 B
+arachidonic acid 花生四烯酸
+arch of aorta 主动脉弓
+area under curve 曲线下面积
+arginine vasopressin 精氨酸加压素
+arrhythmia analyzer 心律失常分析仪
+arrhythmia detector 心律失常检出器
+arrhythmogenic right ventricular dysplasia
+arterial aneurysm 动脉瘤
+arterial blood 动脉血
+arterial blood gas analysis 动脉血气分析
+arterial canal 动脉导管
+arterial embolism 动脉栓塞
+
+致心律失常性右心室发育不良
+
+arterial hemorrhage 动脉出血
+arterial murmur 动脉杂音
+arterial oxygen saturation
+
+动脉血氧饱和度
+
+arterial pressure 动脉压
+arterial pressure curve 动脉压力曲线
+arterial sclerosis 动脉硬化
+arterial switch procedure 动脉移位手术
+arterial thrombosis 动脉血栓形成
+arteriolar necrosis 小动脉坏死
+arteriolar sclerosis 小动脉硬化
+arteriosclerosis obliterans 闭塞性动脉硬化
+arteriosclerosis vertigo 动脉硬化性眩晕
+arteriosclerotic cardiovascular disease 动脉粥样硬化性心血管病
+arteriosclerotic coronary artery disease 动脉硬化性冠心病
+arteriosclerotic heart disease 动脉粥样硬化性心脏病
+arteriovenous anastomosis 动静脉吻合术
+arteriovenous fistula
+
+动静脉瘘
+
+arteriovenous nicking 动静脉压迹
+arteriovenous oxygen difference 动静脉氧差
+arteriovenous shunt 动静脉短路
+artificial cardiac pacing 人工心脏起搏
+artificial cardiac valve 人造瓣膜
+artificial circulation 人工循环
+artificial heart 人工心脏
+artificial kidney 人工肾
+artificial pacemaker 人工起搏器
+artificial respiration 人工呼吸
+artificial respirator 人工呼吸器
+ascending aorta 升主动脉
+ascending limb （脉波）升支
+Aschoff's bodids 阿孝夫氏小体
+aseptic necrosis 无菌性坏死
+aseptic manipulation 无菌操作(法)
+aseptic techniques
+
+无菌技术
+
+aspartate aminotransferase
+
+天门冬氨酸氨基转移酶
+
+aspiration biopsy 穿刺活检,针吸活检
+aspiration pneumonia 吸入性肺炎
+assistant examination 辅助检查
+asthenic habitus
+
+无力体型
+
+asymmetric septal hypertrophy
+
+非对称性心室间隔肥厚
+
+asynchronous pacemaker 非同步起搏器
+asynchronous atrial pacemaker 心房非同步起搏器
+asynchronous ventricular pacemaker 心室非同步起搏器
+asynchronous pacing 非同步起搏
+
+atheromatous plaque
+
+动脉粥样硬化斑块
+
+atherosclerosis of aorta 主动脉粥样硬化
+atherosclerosis of retina 视网膜动脉粥样硬化
+athletic heart syndrome 运动员心脏综合征
+atherothrombotic brain infarction 动脉血栓形成性脑梗死
+ATP-dependent potassium channel opener
+atrial and ventricular septal defects
+atrial appendage
+
+ATP 依赖的钾通道开放剂
+
+房、室间隔缺损
+
+心耳
+
+atrial arrest 心房停顿
+atrial arrhythmia 心房紊乱心律
+atrial asynchronous pacemaker 心房非同步起搏器
+atrial asynchronous pacing 心房非同步起搏
+atrial block 房性传导阻滞
+atrial booster pump function
+atrial capture
+
+心房辅助泵功能
+
+心房夺获
+
+atrial compartment operation
+
+心房隔室手术
+
+atrial complex 心房复合波
+atrial contraction 心房收缩
+atrial defect 房缺损
+atrial defibrillators 心房除颤器
+atrial demand inhibited pacemaker 心房按需抑制起搏器
+atrial demand triggered pacemaker 心房按需触发起搏器
+atrial echobeat
+
+心房回波
+
+atrial electrogram 心房电描记图
+atrial enlargement 心房增大，心房肥大
+atrial escape 心房逸搏
+atrial escape rhythm 心房逸律
+atrial inhibited pacemaker 心房抑制型起搏器
+atrial inhibited pacing 心房抑制型起搏
+atrial fibrillation 房颤
+atrial filling phase
+atrial flutter
+
+心房充盈期
+
+心房扑动
+
+atrial fusion beats 房性融合搏动
+atrial gallop rhythm (s4)
+
+房性奔马律
+
+atrial hypertrophy 心房肥大
+atrial infarction
+
+心房梗塞
+
+atrial lead 心房(起搏)电极
+atrial myofibrous damage 心房肌纤维性损害
+atrial myxoma 心房粘液瘤
+atrial natriuretic factor
+
+心房利钠因子
+
+atrial natriuretic hormone 心房利钠激素
+atrial natriuretic peptide
+
+心房利钠肽
+
+atrial natriuretic polypeptide
+atrial pacemaker 心房起搏器
+
+心房利钠多肽
+
+atrial pacemaking 心房起搏
+atrial pacing 心房起搏
+atrial pacing stress test 心房起搏负荷试验
+atrial parasystolic rhythm 房性并行心律
+atrial premature complexes 心房期前复合波
+atrial premature contraction
+
+房性期前收缩
+
+atrial premature beat 房性早搏
+atrial pressure 心房压
+atrial reciprocal rhythm 房性反复心律
+atrial refractory period
+atrial repolarization
+
+心房不应期
+
+心房复极
+
+atrial septal aneurysm 房间隔瘤
+atrial septal defect 房间隔缺损
+atrial septal defect with cleft mitral valve 房间隔缺损合并二尖瓣裂
+atrial septectomy 房间隔膜缺损再造
+atrial septostomy 房间隔造口术
+atrial septum 房间隔
+atrial sound
+
+心房音,第四心音
+
+atrial standstill 心房停顿
+atrial stretch receptors 心房牵张受体
+atrial stunning 心房顿抑
+atrial synchronous ventricular inhibited pacemaker 心房同步心室抑制性起搏器
+atrial synchronous ventricular pacemaker 房室同步起搏器
+atrial synchronous ventricular pacing mode 心房同步心室起搏方式
+atrial systole 心房收缩
+atrial systole period 心房收缩期
+atrial tachycardia 房性心动过速
+atrial tachyarrhythmia
+
+房性快速性心律失常
+
+atrial thromboembolism 心房血栓栓塞
+atrial thrombus 心房血栓
+atrial triggered pacing 心房触发型起搏
+atrial triggered pacemaker 心房触发型起搏器
+atrial wave 心房波
+atriofascicular tract 房束旁道
+atriohisian tracts 心房希氏束通路
+atrionatriuretic factor 心房利钠因子
+atrioventricular accessory pathway 房室旁道
+atrioventricular block
+
+房室传导阻滞
+
+atrioventricular bundle 房室束
+atrioventricular canal
+
+房室管
+
+atrioventricular conduction 房室传导
+atrioventricular dissociation 房室分离
+atrioventricular escape 房室结性逸搏
+atrioventricular extrasystole 房室结性期外收缩
+
+atrioventricular groove 房室沟
+atrioventricular interval P-R 间期
+atrioventricular junction 房室交界
+atrioventricular junctional escape beat 房室交界性逸搏
+atrioventricular junctional escape rhythm 房室交界性逸搏心律
+atrioventricular junctional pacemaker 房室交界起搏点
+atrioventricular junctional premature beat 房室交界性早搏
+atrioventricular junctional rhythm 房室交界性心律
+atrioventricular junctional tachycardia 房室交界性心动过速
+atrioventricular nodal reentrant tachycardia 房室结折返性心动过速
+atrioventricular nodal tachycardia 房室交界性心动过速
+atrioventricular node 房室结
+atrioventricular node artery 房室结动脉
+atrioventricular node reentry 房室结折返
+atrioventricular orifice 房室口
+atrioventricular reciprocating tachycardia 房室交互性心动过速
+atrioventricular rhythm 房室(结性)心律
+atrioventricular ring 心脏房室环
+atrioventricular sequential pacemaker 房室顺序型心脏起搏器
+atrioventricular sequential pacing 房室顺序型起搏
+atrioventricular septal defect 房室隔缺损
+atrioventricular septum of heart 心脏房室中隔
+atrioventricular sulcus 房室沟
+atrioventricular synchrony 房室同步
+atrioventricular tachycardia 房室结性心搏过速
+atrioventricular valve
+
+房室瓣
+
+atrioventricularis communis 房室共通
+atrium punch 心房打洞器
+attack rate 发病率
+augmented unipolar limb lead 加压单极肢体导联
+auricle deflection 心房波
+auricle retractor 心房拉钩
+auricular appendage 心耳
+auricular appendix 心耳
+auricular appendectomy 心耳切除术
+auricular arrest 心房停搏
+auricular arrhythmia 心房紊乱心律
+auricular ball valve thrombus 心房球瓣样血栓
+auricular block 心房性传导阻滞
+auricular complex 心房复合波
+auricular contraction 心房收缩
+auricular diastole 心房舒张
+auricular fibrillation 心房颤动
+auricular flutter 心房扑动
+
+auricular heart sounds 心房心音
+auricular myocardial infarction 心房心肌梗死
+auricular pacemaking 心房起搏
+auricular paracentesis 心房穿刺术
+auricular septal defect 房间隔缺损
+auricular standstill 心房停搏
+auricular synchronous pacemaker 心房同步型起搏器
+auricular systole 心房收缩
+auricular systole period 心房收缩期
+auricular tachycardia 房性心动过速
+auricular thrombosis 心房血栓形成
+auscultation area 听诊部位
+auscultation of heart sounds 心音听诊
+auscultatory area of tricuspid valve 三尖瓣听诊区
+auscultatory mitral area 二尖瓣听诊区
+auscultatory valve areas 瓣膜听诊区
+Austin Flint murmur
+
+奥-弗二氏杂音
+
+automatic atrial tachycardia 自律性房性心动过速
+automatic external defibrillators 自动体外除颤器
+automatic implantable cardioverter-defibrillators 埋藏式自动心脏复律除颤器
+automatic implanted cardioverter-defibrillators 埋藏式自动心脏复律除颤器
+automatic pacemaker 自动起搏器
+automatic interval
+
+自动间期
+
+automatic pacing interval
+autonomic neuropathy
+
+自动起搏间期
+
+自主神经病变
+
+autonomic nervous system
+
+自主神经系统
+
+autonomous cardiac rhythm 自主心律
+autonomous respiration 自主呼吸
+autoperfusion catheter
+
+自动灌注的导管
+
+auxiliary ventricle 辅助心室
+avascular necrosis 缺血性坏死
+A-V bundle detecter 房室束检查器
+A-V bundle electrogram
+AV dissociation
+
+希氏束电图
+
+房室分离
+
+AV escape beats 房室交界性逸搏
+A-V fistula 动静脉瘘
+AV junction
+
+房室交界
+
+A-V junctional escape beats 房室交界性逸搏
+AV nodal conduction time 房室结传导时间
+AV nodal effective refractory period 房室结有效不应期
+AV node 房室结
+AV node modification 房室结改良
+AV reciprocating tachycardia 房室折返性心动过速
+AV reentry tachycardia 房室折返性心动过速
+
+AV sequential pacing
+azygos vein
+
+房室顺序起搏
+
+奇静脉
+
+B
+Bachmann's bundle 巴克曼氏束，心耳间横肌束
+backward heart failure
+bacterial cell wall
+
+后向性心力衰竭
+
+细菌细胞壁
+
+bacterial culture 细菌培养
+bacterial embolus 细菌栓子
+bacterial infection 细菌感染
+bacterial pericarditis 细菌性心包炎
+bactericidal antibiotic
+bactericidal effect
+
+杀菌性抗生素
+
+杀菌作用
+
+bacteriostatic agent
+
+抑菌剂
+
+balanced diet 均衡饮食,平衡膳食
+balanced salt solution 平衡盐溶液
+ball_valve thrombus
+
+球瓣样血栓
+
+balloon angioplasty 气囊血管成形术
+balloon atrial septostomy 气囊房间隔造口术
+balloon catheter 气囊导管
+balloon counterpulsation 气囊反搏
+balloon-expandable stents
+
+球囊扩张支架
+
+balloon mitral valvuloplasty
+
+球囊二尖瓣瓣膜成形术
+
+balloon tipped flow-directed catheter 血流导向气囊导管
+balloon valvuloplasty 球囊瓣膜成形术
+ballooning mitral valve syndrome 二尖瓣膨出综合征
+barium meal 钡餐
+barometric pressure 大气压
+baroreceptor reflex 压力感受器反射
+barrel-shaped chest
+
+桶状胸
+
+basal body temperature 基础体温
+basic life support 基础生命支持
+basal metabolic rate 基础代谢率
+basal metabolism 基础代谢
+basal lung capacity 基础肺容量
+basal lung volume 基础肺容积
+basement membrane of blood vessel 血管基底膜
+base of heart 心底
+base of lung 肺底
+base of ventricular septum 室间隔底部
+base pairs
+
+碱基对
+
+base substitutions
+
+碱基替代
+
+basilar artery 基底动脉
+bedside monitor 床边监护器
+
+beer heart 啤酒心
+bell type chest piece 钟型胸件
+benign hypertension 良性高血压,缓进型高血压
+benzathine penicillin 苄星青霉素
+benzylsuccinic acid derivatives
+beriberi heart disease
+Bernheim effect
+
+苯甲基琥珀酸提取物
+
+脚气病性心脏病
+
+Bernheim 效应
+
+Bernoulli equation
+
+Bernoulli 公式
+
+Bernstein test Bernstein 试验
+beta-adrenergic receptor blocker
+
+β-肾上腺素能受体阻滞剂
+
+beta-adrenoceptor β 肾上腺能受体
+beta-adrenoceptor blocking agent
+
+β－受体阻滞剂
+
+beta-adrenoceptor blocking drug β-受体阻滞剂
+beta-carotene
+
+β－胡萝卜素
+
+beta-hemolytic streptococcal infection
+
+β－溶血性链球菌感染
+
+beta hemolytic streptococcus 乙型溶血性链球菌
+beta-lactamase β－内酰胺酶
+beta2-microglobulin β2-微球蛋白
+beta-thromboglobulin
+
+β－血小板球蛋白
+
+Bezold-Jarisch reflex 贝-杰二氏反射
+biatrial enlargement
+
+两侧心房增大
+
+bicarbonate buffer system 碳酸氢盐缓冲系统
+bicuspid pulmonary valve 肺动脉瓣二叶瓣
+bicuspid valve 二尖瓣
+bicycle ergometry test 踏车运动试验
+bidirectional ventricular tachycardia 双向性室性心动过速
+bidivisional block=bifascicular block
+bifid T wave
+
+双分支阻滞
+
+双峰 T 波
+
+bifurcation of pulmonary trunk 肺动脉(干)杈
+bigeminal pulse 二联脉
+bigeminal rhythm 二联律
+bilateral bundle branch block
+
+双侧束支传导阻滞
+
+bilateral cardiac enlargement 双侧心界扩大
+bilateral ventricular hypertrophy 双侧心室肥大
+bile-acid sequestrant
+bile duct
+
+胆汁酸螯合剂
+
+胆管
+
+bileaflet valve 双叶瓣
+biliary-cardiac reflex 胆心反射
+biliary colic
+
+胆绞痛
+
+biliary tract disease
+
+胆道疾病
+
+billowing mitral valve syndrome 波涛样二尖瓣综合征
+binary and ternary structure
+
+二级和三级结构
+
+biodegradable stents 生物可降解支架
+biological clock 生物钟
+
+biological death 生物学死亡
+biological half-life 生物半衰期
+biological rhythm 生物节律
+bioprosthetic valve
+
+生物修补瓣
+
+biphasic P wave 双相 P 波
+bipolar leads of electrocardiogram 心电图双极导联
+bipolar limb lead
+
+双极肢体导联
+
+bipolar precordial lead
+
+双极心前导联
+
+bipolar pacemaker 双极起搏器
+bipolar pacing 双极起搏
+bipolar precordial lead 双极心前导联
+bisferious pulse
+
+双重脉
+
+bisferiens pulse 双峰脉
+Biot's respiration 比奥氏呼吸
+biventricular assist device 两心室辅助装置
+biventricular failure
+
+双室衰竭
+
+biventricular hypertrophy
+bicuspid aortic valve
+blanking period
+
+双室肥大
+
+二叶式主动脉瓣
+
+空白期
+
+bleeding tendency 出血倾向
+bleeding time 出血时间
+blood analysis 血液分析
+blood bank 血库
+blood-brain barrier 血脑屏障
+blood cast 血细胞管型
+blood circulation 血液循环
+blood coagulation 血液凝固
+blood coagulum 血液凝块
+blood culture
+
+血培养
+
+blood flow 血流
+blood flow rate 血流速度
+blood gase 血气
+blood gase analysis 血气分析
+blood glucose 血糖
+blood glucose concentration 血糖浓度
+blood glucose content 血糖含量
+blood glucose meter 血糖计
+blood group 血型
+blood-lipid 血脂
+blood oxygen content 血氧含量
+blood perfusion 血液灌注
+blood picture 血象
+blood plasma 血浆
+blood platelet thrombus 血小板血栓
+
+blood preparation 血液标本
+blood pressure
+
+血压
+
+blood pressure determination 血压测定
+blood pressure gauge 血压计
+blood pressure variability 血压波动性
+blood pump 血液泵
+blood rheology 血液流变学
+blood routine test 血液常规检测
+blood serum 血清
+blood stagnation 血液淤积
+blood-stained sputum
+
+痰中带血
+
+blood stream 血流
+blood sugar
+
+血糖
+
+blood type 血型
+blood urea nitrogen 血尿素氮
+blood viscosity 血黏度
+blood volume 血量,血容量
+blowing murmur
+
+吹风样杂音
+
+blurred vision 视物模糊
+body mass index 体质指数
+body position 体位
+body surface area
+
+体表面积
+
+body surface potential mapping
+
+体表电位标测
+
+body temperature 体温
+body weight 体重
+bone marrow depression 骨髓抑制
+boot-shaped heart 靴形心
+borderline case 疑似病例
+borderline hypertension 临界高血压
+border of cardiac dullness 心浊音界
+buttonhole mitral stenosis
+
+二尖瓣口钮孔状狭窄
+
+bradycardia dependent aberrancy 心动过缓依赖性心电脉冲传导偏差
+bradycardia dependent bundle branch block
+
+[4]相传导阻滞
+
+bradycardia-tachycardia syndrome 慢-快综合症
+brady-tachy syndrome 慢-快综合症
+brain abscess
+
+脑脓肿
+
+brain aneurysm 脑动脉瘤
+brain death 脑死亡
+brain hemorrhage 脑出血
+brain hernia 脑疝
+brain stem 脑干
+brain natriuretic peptide 脑利钠肽
+branch of atrioventricular node 房室结支
+branches of interventricular septum 室间隔支
+
+breath sounds 呼吸音
+bretylium tosylate
+
+溴苄胺
+
+broad spectrum antibiotic 广谱抗生素
+Brockenbrough transseptal catheter 布罗肯伯勒穿通间隔导管
+broken heart syndrome 心碎综合征
+bronchial adenoma
+
+支气管腺瘤
+
+bronchial asthma 支气管哮喘
+bronchial respiration 支气管呼吸音
+bronchial tree 支气管树
+bronchopulmonary dysplasia 支气管肺发育不良
+bronchopulmonary tree
+
+肺支气管树
+
+bronchovesicular breathing sound 支气管肺泡呼吸音
+bronze diabetes 青铜色糖尿病
+Bruce protocol Bruce 方案
+Brugada syndrome Brugada 综合征
+bruit de moulin
+
+击水音,水车音
+
+bruit de canon 大炮音
+bubble sound 水泡音
+Budd-Chiari syndrome 布加综合征
+buffer pair 缓冲偶
+buffer salt 缓冲盐
+buffer system 缓冲系统
+bulb of aorta 主动脉球
+bulbus cordis 心球
+bundle branch 束支
+bundle branch block
+
+束支传导阻滞
+
+bundle branch block alternans
+
+束支传导阻滞交替
+
+bundle branch reentrant ventricular tachycardia 束支折返型室性心动过速
+bundle of His
+
+希氏束
+
+Brugada syndrome Brugada 综合征
+burst pacing 短脉冲心律调节
+buttonhole mitral stenosis 二尖瓣口纽扣状狭窄
+bypass bilirubin 旁路胆红素
+bypass tract 旁道
+C
+caged-ball valve
+
+笼球瓣
+
+calcific aortic stenosis 钙化性主动脉瓣狭窄
+calcific nodules
+
+钙化结节
+
+calcific senile aortic stenosis
+
+老年性钙化主动脉瓣狭窄
+
+calcification of pericardium 心包钙化
+calcified pericardium 钙化性心包
+calcified thrombus 钙化血栓
+calcitonin gene-related peptide
+
+降钙素基因相关肽
+
+calcium antagonist 钙拮抗剂
+calcium channel 钙离子通道
+calcium channel blocker
+
+钙通道阻滞剂
+
+calcium channel antagonist
+
+钙离子通道拮抗剂
+
+calcium entry blocker 钙通道阻滞剂
+calcium gluconate
+
+葡萄糖酸钙
+
+calcium overload
+
+钙离子超载
+
+calcium paradox 钙反常
+CAMP-dependent protein kinase 环腺苷酸依赖型蛋白激酶
+CAMP phosphodiesterase inhibitor
+candida species
+
+CAMP 磷酸二酯酶抑制剂
+
+念珠菌属
+
+cannabiniod CB1 receptor blockade 大麻素 CB1 受体阻滞剂
+canon sound 大炮音
+canon wave 巨大 α 波
+capillary bed 毛细血管床
+capillary pressure 毛细血管压
+capillary permeability 毛细血管通透性
+capillary pulsation
+
+毛细血管搏动
+
+capsular hemiplegia 内囊性偏瘫
+capture beat's 夺获搏动
+carbohydrate intolerance
+
+糖耐量降低
+
+Carbomedics prosthesis
+
+Carbomedics 人造瓣膜
+
+carbon dioxide
+
+二氧化碳
+
+carbon dioxide combining power 二氧化碳结合力
+carbon dioxide partial pressure 二氧化碳分压力
+carbon dioxide partial tension 二氧化碳分张力
+carbonic anhydrase Ⅲ
+
+碳酸酐酶Ⅲ
+
+carbonic anhydrase inhibitor
+carboxyl group
+
+碳酸酐酶抑制剂
+
+羧基
+
+carboxyl peptidase A
+
+羧基肽酶 A
+
+carcinoembryonic antigen
+carcinoid heart disease
+
+癌胚抗原
+类癌性心脏病
+
+carcinomatous pericarditis 癌性心包炎
+cardiac accident 心脏意外
+cardiac alternans 心脏交替
+cardiac anencephalohemia 心原性脑缺血
+cardiac apex 心尖
+cardiac apnea 心性呼吸暂停
+cardiac area 心区
+cardiac arrest 心脏骤停
+cardiac arrhythmia 心律失常
+cardiac asthma 心性哮喘
+cardiac atrium 心房
+cardiac blood-pool scanning 心血池扫描
+
+cardiac cachexia 心脏性恶病质
+cardiac camera 心脏照相机
+cardiac care 心脏护理
+cardiac catheter 心导管
+cardiac catheter probe 心导管探头
+cardiac catheterization 心导管插入法(术),心导管检查(术)
+cardiac catheterization laboratory
+
+心导管室
+
+cardiac catheterization system 心导管检查系统
+cardiac chamber contrast echocardiography 心腔造影超声心动描记术
+cardiac chambers 心腔
+cardiac cirrhosis of liver 心源性肝硬化
+cardiac compensation 心代偿功能
+cardiac compression 心脏按压
+cardiac concussion 心脏震荡
+cardiac conducting tissue 心脏传导组织
+cardiac contractility 心肌收缩力
+cardiac cycle 心搏周期
+cardiac death 心脏死亡
+cardiac decompensation 心脏代偿失调
+cardiac defibrillator 心脏除颤器
+cardiac defibrillating pacemaker 心脏除颤起搏器
+cardiac depressant 心抑制剂
+cardiac depression 心脏抑制
+cardiac diastole 心舒张期
+cardiac diastolic arrest 心舒张期停跳
+cardiac diet 心脏病饮食
+cardiac dilatation 心脏扩大
+cardiac disease 心脏病
+cardiac distress 心区不适
+cardiac dullness 心浊音
+cardiac dynamic scintigram 心动态闪烁图
+cardiac dyspnea 心源性呼吸困难
+cardiac edema 心病性水肿
+cardiac efficiency 心效率
+cardiac effort index 心脏负荷指数
+cardiac effusion 心包积液
+cardiac ejection 心脏射血
+cardiac electric axis 心电轴
+cardiac electric defibrillation 心脏电除颤
+cardiac electric defibrillator 心脏电除颤器
+cardiac electrophysiologic study 心电生理研究
+cardiac enlargement
+
+心脏扩大
+
+cardiac facies 心脏病性面容
+cardiac failure 心力衰竭
+
+cardiac function 心脏功能
+cardiac functional compensation 心功能代偿
+cardiac functional compensatory period 心功能代偿期
+cardiac functional decompensatory period 心功能失代偿期
+cardiac functional insufficiency 心功能不全
+cardiac ganglions 心神经节
+cardiac ganglionitis 心脏神经节炎
+cardiac glycosides
+
+强心甙
+
+cardiac growth factor
+
+心肌生长因子
+
+cardiac hemodynamics 心脏血流动力学
+cardiac hemolytic anemia 心原性溶血性贫血
+cardiac hypertrophy 心脏肥大
+cardiac impression 心脏压迹
+cardiac impulse 心脏搏动
+cardiac inadequacy 心功能不全
+cardiac index 心脏（输出）指数
+cardiac infarction 心肌梗塞
+cardiac insufficiency 心功能不全
+cardiac mapping 心脏标测
+cardiac massage 心脏按摩
+cardiac murmur 心脏杂音
+cardiac muscle 心肌
+cardiac muscle biopsy 心肌活检
+cardiac muscle cell 心肌细胞
+cardiac muscular tension 心肌张力
+cardiac myosin light chains
+
+心脏肌凝蛋白轻链
+
+cardiac neurosis 心脏神经(官能)症
+cardiac operation under direct vision with hypothermia 低温心脏直视手术
+cardiac output 心输出量
+cardiac output computer 心输出量计算机
+cardiac output curve 心输出量曲线
+cardiac output monitor 心输出量监护器
+cardiac output recorder 心输出量记录器
+cardiac pacemaker 心脏起搏点,人工心脏起搏器
+cardiac pacing 心脏起搏
+cardiac perforation
+
+心脏穿孔
+
+cardiac perfusion 心脏灌注法
+cardiac pericardium 心包脏层
+cardiac premature complexes 心脏早搏复合波
+cardiac probe 心脏探针
+cardiac proteinuria 心脏性蛋白尿
+cardiac rate dependent conduction 心率依赖性传导
+cardiac receptor 心脏感受器
+cardiac reserve 心力储备
+
+cardiac resuscitation 心脏复苏
+cardiac resuscitator 心脏复苏器
+cardiac resynchronization therapy 心脏再同步治疗
+cardiac rheumatism 心风湿病
+cardiac rhythm 心律
+cardiac rupture 心脏破裂
+cardiac sarcoidosis 心脏结节病
+cardiac sedative 心抑制剂
+cardiac skeleton
+
+心脏骨架
+
+cardiac shock 心原性休克
+cardiac silhouette
+
+心影
+
+cardiac skeleton 心骨骼,心脏架
+cardiac sodium gene 心脏钠基因
+cardiac souffle 心脏杂音
+cardiac sounds 心音
+cardiac standstill 心脏停顿
+cardiac stenosis 心腔狭窄
+cardiac stimulant 强心剂
+cardiac surgery 心脏手术
+cardiac surgical procedures 心脏手术
+cardiac symathectomy
+
+心脏交感神经切除术
+
+cardiac sympathetic nerve 心交感神经
+cardiac syncope 心脏性晕厥
+cardiac tamponade 心脏压塞
+cardiac telemetry system 心电遥测仪
+cardiac thrombosis 心内血栓形成
+cardiac tomography 心脏断层摄片
+cardiac transplantation
+
+心脏移植
+
+cardiac trauma 心脏创伤
+cardiac troponin I 心肌肌钙蛋白 I
+cardiac troponin T 心肌肌钙蛋白 T
+cardiac tumor 心脏肿瘤
+cardiac urticaria 心脏荨麻疹
+cardiac vagus nerve 心迷走神经
+cardiac valve replacement 心脏瓣膜置换术
+cardiac valve replacement with mechanical prosthesis 心脏瓣膜用机械瓣置换术
+cardiac valve replacement with bovine meninges 心脏瓣膜用牛脑膜置换术
+cardiac valve replacement with bovine pericardium 心脏瓣膜用牛心包置换术
+cardiac valve replacement with porcine aortic valve 心脏瓣膜用猪主动脉置换术
+cardiac valves 心瓣膜
+cardiac vein 心静脉
+cardiac ventricle 心室
+cardiac vertigo 心病性眩晕
+cardiac waist 心腰
+
+cardiac work 心脏作功
+cardiac work index 心脏作功指数
+cardial balloon pump 心脏气囊泵
+cardioaccelerating center 心加速中枢
+cardioactive drug 心血管活性药物
+cardio-cerebral apoplexy 心脑卒中
+cardio-cerebral syndrome 心脑综合征
+cardio-encephalopathy 心性脑病
+cardio-respiratory arrest 心跳呼吸停止
+cardiodiaphragmatic angle 心膈角
+cardioelectric field 心电场
+cardiogenic pain 心源性疼痛
+cardiogenic pulmonary edema 心源性肺水肿
+cardiogenic shock
+
+心源性休克
+
+cardiogenic syncope 心源性晕厥
+cardiohepatic triangle 心肝三角
+cardioinhibitory area 心抑制区
+cardioinhibitory center 心抑制中枢
+cardioinhibitory syncope 心脏抑制型晕厥
+cardiopericardial silhouette 心心包廓影
+cardiophrenic angle 心膈角
+cardiopulmonary arrest 心跳呼吸骤停
+cardiopulmonary bypass
+
+心肺动脉分流手术
+
+cardiopulmonary-cerebral resuscitation 心肺脑复苏
+cardiopulmonary exercise testing 心肺运动试验
+cardiopulmonary function 心肺功能
+cardiopulmonary insufficiency 心肺功能不全
+cardiopulmonary murmur 心肺杂音
+cardiopulmonary receptor 心肺感受器
+cardiopulmonary receptor reflex 心肺感受器反射
+cardiopulmonary resuscitation
+
+心肺复苏
+
+cardiopulmonary resuscitator 心肺复苏器
+cardio-thoracic proportion 心胸比
+cardiothoracic ratio 心胸比率
+cardio-vagal center 心迷走中枢
+cardiovascular control centers 心血管运动中枢
+cardiovascular deconditioning 心血管功能失调
+cardiovascular diagnostic techniques 心血管诊断技术
+cardiovascular disease 心血管疾病
+cardiovascular drug 心血管药
+cardiovascular function 心血管功能
+cardiovascular neurosis
+
+心血管神经官能症
+
+cardiovascular operating instruments set 心脏血管手术器械包
+cardiovascular pharmacology 心血管药理学
+
+cardiovascular regulation 心血管调节
+cardiovascular reflex 心血管反射
+cardiovascular surgical procedures 心血管手术
+cardiovascular syphilis 心血管梅毒
+cardiovascular system 心血管系统
+Carey-Coombs murmur
+
+Carey-Coombs 杂音
+
+carotid pulsation 颈动脉搏动
+carotid shudder
+
+颈动脉震颤
+
+carotid sinus massage 颈动脉窦按摩
+carotid sinus reflex 颈动脉窦反射
+carotid sinus syncope
+
+颈动脉窦晕厥
+
+Carpentier-Edwards valve
+Carvallo’s sign
+
+Carpentier-Edwards 瓣膜
+
+Carvallo 氏征
+
+case-control study
+
+病例对照研究,回顾性研究
+
+case fatality rate 病死率
+case history 病历
+case rate 患病率
+caseous material
+
+干酪性坏死物质
+
+caseous necrosis 干酪性坏死
+Castillo catheter 卡斯蒂略导管(通过肱动脉导入)
+catacrotic limb （脉波）降支
+catecholamine cardiomyopathy 儿茶酚胺心肌病
+cath lab bypass 导管室搭桥
+cathepsin G
+
+组织蛋白酶 G
+
+catheter ablation 导管消融
+cathode-ray oscilloscope
+
+阴极射线荧光管
+
+caudate nucleus 尾状核
+cavitary pulmonary tuberculosis
+
+空洞性肺结核
+
+cell cultue 细胞培养
+cell membrane
+
+细胞膜
+
+Cell Saver 血液回输装置
+cellular cast 细胞管型
+central fibrous body
+
+中央纤维体
+
+central nervous system
+
+中枢神经系统
+
+central obesity 向心性肥胖
+central terminal
+
+中心电端
+
+central venous pressure
+
+中心静脉压
+
+cerebral apoplexy 脑中风
+cerebral arteries 脑动脉
+cerebral arteriosclerosis 脑动脉硬化
+cerebral blood flow 脑血流量
+cerebral circulation 脑循环
+cerebral cortex 大脑皮质
+cerebral death 脑死亡
+
+cerebral edema
+
+脑水肿
+
+cerebral embolism
+
+脑栓塞
+
+cerebral hemorrhage 脑出血
+cerebral hernia 脑疝
+cerebral infarction 脑梗塞
+cerebral ischemia 脑缺血
+cerebral thrombosis 脑血栓形成
+cerebrocardiac syndrome 脑心综合征
+cerebrospinal fluid
+
+脑脊液
+
+cerebrovascular accident
+
+脑血管意外
+
+cerebrovascular disturbance
+
+脑血管机能障碍
+
+cervical cardiac syndrome 颈心综合征
+cervical disc 颈椎间盘
+cervical rib 颈肋
+cervical vertigo 颈椎性眩晕
+cervicodorsal spine 颈椎
+Chagas’ disease 美洲锥虫病
+chalk stone 痛风石
+chamber stiffness
+
+心腔僵硬
+
+chambers of heart 心腔
+chaotic atrial tachycardia 紊乱性房性心动过速
+chemical ablation
+
+化学消融
+
+chemical cross-linking
+
+化学交联
+
+chemical-shift magnetic resonance imagine
+
+化学平移磁共振成像技术
+
+chemoreceptor of aortic body 主动脉体化学感受器
+chest CT scan 胸部 CT 扫描
+chest deformity 胸廓畸形
+chest discomfort
+
+胸部不适
+
+chest distress 胸闷
+chest leads 胸导联
+chest pain
+
+胸痛
+
+chest radiograph 胸片
+chest roentgenogram
+
+胸部 X 线摄片
+
+chest wall syndrome
+
+胸壁综合征
+
+chest X -ray 胸部 X 线检查
+Cheyne-Stokes respiration
+
+潮式呼吸，周期性呼吸
+
+chief complaint 主诉
+Chinese hamster ovary (cell) 中国仓鼠卵巢细胞
+Chinese hamster ovary expression system
+
+中国仓鼠卵细胞表达系统
+
+cholesterol pericarditis 胆固醇性心包炎
+cholesteryl ester 胆固醇酯
+cholesteryl ester transfer protein
+cholinergic receptor 胆碱能受体
+chordae leaflets 腱索
+
+胆固醇酯转移蛋白
+
+chordae tendineae 腱索
+chromaffin cell
+
+嗜铬细胞
+
+chronic bronchitis 慢性支气管炎
+chronic cardiac dysfunction 慢性心功能不全
+chronic constrictive pericarditis
+
+慢性缩窄性心包炎
+
+chronic nephritis 慢性肾炎
+chronic obstructive lung disease 慢性阻塞性肺病
+chronic obstructive pulmonary disease
+
+慢性阻塞性肺病
+
+chronic pyelonephritis 慢性肾盂肾炎
+chronic rheumatic activity
+chronic stable angina
+
+慢性风湿活动
+
+慢性稳定性心绞痛
+
+chronic total occlusion 慢性闭塞病变
+Churg-Strauss syndrome 变应性肉芽肿性脉管炎
+chylous ascites
+
+乳糜腹水
+
+chymotrypsin-like protease
+
+糜蛋白酶样蛋白酶
+
+cine magnetic resonance imaging of heart 心脏电影磁共振成像
+circadian periodicity
+circadian rhythm
+
+昼夜周期性
+
+24 小时节律,昼夜节律
+
+circulating blood volume 循环血量
+circulating immune complex
+
+循环免疫复合物
+
+circulation time 循环时间
+circulation volume 循环血量
+circulatory arrest 循环骤停
+circulatory failure 循环衰竭
+circulatory function 循环功能
+circulatory insufficiency 循环功能不全
+circulatory system 循环系统
+circumflex branch of left coronary artery 左冠状动脉旋支
+circumflex coronary artery
+
+左回旋支冠状动脉
+
+circus movement 环行运动
+circus movement tachycardia
+
+环形运动性心动过速
+
+circus pathway 环形途径
+cleft anterior leaflet
+
+二尖瓣前瓣裂
+
+clinical analysis 临床分析
+clinical application 临床应用
+clinical aspirin resistance
+
+临床阿斯匹林抵抗
+
+clinical data 临床资料
+clinical death 临床死亡
+clinical diagnosis 临床诊断
+clinical features 临床特征
+clinical manifestation
+
+临床表现
+
+clinical observation 临床观察
+clinical recovery 临床痊愈
+clinical sign 临床征象
+
+clinical symptoms 临床症状
+clinical thermometer 体温表
+clinical trial 临床试验
+clinicopathological conference 临床病历讨论会
+clockwise and counterclockwise rotation
+
+顺钟向和逆钟向转位
+
+closed atrial septectomy 闭式房间隔切除术
+closed cardiac massage 胸外心脏按摩
+closed commissurotomy of cardiac valve 闭式心瓣膜分离术
+closed mitral commissurotomy 闭式二尖瓣分离术
+closed mitral valvotomy
+closed-angle glaucoma
+
+闭式二尖瓣瓣膜切开术
+闭角型青光眼
+
+closed-chest massage 胸外按摩
+closure of the semilunar valves 半月瓣关闭
+clot retraction time 血块退缩时间
+clotting time 凝血时间
+clubbing of the finger and toes 杵状指、趾
+CO2 tension CO2 分压
+coagulase-negative staphylococci
+
+凝固酶阴性葡萄球菌
+
+coagulation necrosis 凝固性坏死
+coarctation of aorta
+
+主动脉缩窄
+
+cohort study 前瞻性研究
+cold agglutinins
+
+冷凝集素
+
+cold pressor stimulation 冷加压刺激
+cold pressor test
+
+冷加压试验
+
+collapsing pulse 陷落脉
+collateral circulation 侧支循环
+collecting duct
+
+集合管
+
+colliquative necrosis 液化性坏死
+colloid osmotic pressure
+
+胶体渗透压
+
+colony-stimulating factor 集落刺激因子
+color flow Doppler imaging
+
+彩色血流多普勒显像
+
+columnae carneae 肉柱
+combined bi-side cardiac dysfunction 全心功能不全
+combined mitral and aortic valvular disease 二尖瓣与主动脉瓣联合病变
+combined valvular disease 联合瓣膜病变
+commissural incision
+
+交界处切开术
+
+commissural leaflets of mitral valve 二尖瓣瓣叶交界
+commotio cordis 心震荡
+compensated acidosis 代偿性酸中毒
+compensated alkalosis 代偿性碱中毒
+compensatory circulation
+
+侧支循环
+
+compensatory hypertrophy 代偿性肥大
+compensatory hypertrophy of heart 代偿性心脏肥大
+compensatory pause 代偿间歇
+
+competitive inhibition
+
+竞争性抑制
+
+competitive pacing 竞争调节
+complement activation
+complement fixation
+
+补体的激活
+
+补体固定
+
+Complete blood cell count 全血细胞计数
+complete (third degree) AV block
+
+完全性（Ⅲ度）房室传导阻滞
+
+complete heart block 完全性心传导阻滞
+complete right bundle branch block 右束支传导阻滞
+component transfusion 成分输血
+compulsive position 强迫体位
+computed tomography
+
+计算机体层Ｘ线摄影
+
+computer modeling 计算机模拟技术
+concealed accessory pathway
+concealed conduction
+
+隐匿性旁道
+
+隐匿性传导
+
+concentrating ability 浓缩功能
+concentration dilution test 浓缩稀释试验
+concentric hypertrophy
+
+向心性肥大
+
+concentric left ventricular hypertrophy
+concertina phenomenon
+
+向心性左心室肥大
+
+手风琴现象
+
+conditioned reflex 条件反射
+conduction system of heart 心脏传导系统
+conducting system of heart 心脏传导系统
+conduction block 传导阻滞
+confirmed diagnosis 确诊
+congenital adrenal hyperplasia 先天性肾上腺增生
+congenital aneurysm of ventricular septum 先天性室间隔瘤
+congenital aortic sinus aneurysm 先天性主动脉窦动脉瘤
+congenital bicuspid aortic valve 先天性二叶主动脉瓣
+congenital cardiac malformations
+
+先天性心脏畸形
+
+congenital cardiovascular diseases 先天性心血管病
+congenital coarctation of the aorta 先天性主动脉缩窄
+congenital dextrocardia 先天性右位心
+congenital heart disease 先天性心脏病
+congenitally bicuspid aortic valve
+congestive heart failure
+
+先天性两叶型主动脉瓣
+
+充血性心力衰竭
+
+congestive hepatomegaly 充血性肝肿大
+conjugated bilirubin 结合胆红素
+connective peptide C-肽
+connective tissue
+
+结缔组织
+
+connective tissue disease
+
+结缔组织疾病
+
+conservative medical management
+constrictive pericarditis
+
+内科保守治疗
+
+缩窄性心包炎
+
+continuous low-flow oxygen therapy 持续低流量氧疗
+continuous murmur 连续性杂音
+
+continuous positive airway pressure
+
+持续的正气道压力
+
+continuous wave Doppler echocardiography 连续波多谱勒超声心动描记术
+contraceptive pill
+
+避孕药
+
+contractile reserve
+
+收缩贮备
+
+contraction band necrosis
+
+收缩带坏死
+
+contrast echocardiography 心脏声学造影
+contrast medium
+
+(核子）造影剂
+
+contrast material
+
+造影剂
+
+control group 对照组
+controlled-release preparation
+
+控释制剂
+
+contour of precordial region 心前区外形
+conus branch 圆锥支
+convalescence serum 恢复期血清
+convalescent serum 恢复期血清
+conventional medical treatment 常规药物治疗
+cooling dove murmur 鸽叫样杂音
+covalent bond 共价键
+converting enzyme inhibitor
+
+转化酶抑制剂
+
+cor adiposum 脂肪心
+cor biloculare 二腔心
+cor bovinum 巨心
+cor dextrum 右心
+cor pulmonale
+
+肺心病
+
+cor sinistrum 左心
+cor triatriatum
+
+三房心
+
+cor triloculare 三腔心
+cor triloculare biatriatum 三腔二房心
+cor triloculare biventriculare 三腔二室心
+cor villosum 绒毛心
+corneal arcus
+
+角膜环
+
+corneal microdeposit
+corneal opacities
+
+角膜微沉积
+
+角膜混浊
+
+coronary angiography 冠状动脉造影术
+coronary arterial fistula 冠状动脉瘘
+coronary arterial microthrombosis 冠状动脉微血栓形成
+coronary arteriography 冠状动脉造影
+coronary arteriography system 冠状动脉造影系统
+coronary arterio-pulmonary artery fistula 冠状动脉肺动脉瘘
+coronary arteriosclerosis 冠状动脉硬化
+coronary arterioveno-oxygen difference 冠状动静脉血氧差
+coronary arteriovenous fistula
+
+冠状动静脉瘘
+
+coronary arteritis 冠状动脉炎
+coronary artery 冠状动脉
+coronary artery aneurysm
+
+冠状动脉瘤
+
+coronary artery bypass grafting
+
+冠状动脉旁路移植术,冠状动脉搭桥
+
+coronary artery bypass surgery 冠状动脉分流术
+coronary artery-cardiac chamber fistula 冠状动脉-心腔瘘
+coronary artery damage 冠状动脉损伤
+coronary artery disease 冠状动脉病
+coronary artery dominance 冠状动脉优势型
+coronary atherosclerotic cardiopathy 冠状动脉粥样硬化性心脏病
+coronary atherosclerotic heart disease 冠状动脉粥样硬化性心脏病
+coronary blood flow 冠脉血流
+coronary bypass surgery
+
+冠状动脉旁路手术
+
+coronary cardiopathy 冠状动脉性心脏病
+coronary care unit
+coronary circulation
+
+冠心病监护病房
+冠状循环
+
+coronary circulatory failure 冠状循环衰竭
+coronary collateral vessels
+
+冠状动脉侧支循环血管
+
+coronary dissection 冠状动脉夹层
+coronary embolism
+
+冠状动脉栓塞
+
+coronary endarterectomy 冠状动脉内膜剥脱术,冠状动脉内膜切除术
+coronary flow reserve 冠状动脉血流储备
+coronary heart disease 冠心病
+coronary ischemia 冠状动脉缺血
+coronary nodal rhythm 冠状窦结性心律
+coronary occlusion 冠状动脉闭塞
+coronary perfusion pressure
+
+冠状动脉灌注压
+
+coronary plaque rapture 冠状动脉斑块破裂
+coronary sclerosis 冠状动脉硬化
+coronary sinus 冠状窦
+coronary sinus cannula 冠状窦插管
+coronary sinus electrogram 冠状窦电描记图
+coronary sinus ostium
+
+冠状窦口
+
+coronary sinus rhythm 冠状窦心律
+coronary steal syndrome 冠状动脉窃血综合征
+coronary stent 冠状动脉支架
+coronary thrombosis 冠状动脉血栓形成
+coronary T wave 冠状 T 波
+coronary valve 冠状窦瓣
+coronary vascular resistance 冠状血管阻力
+coronary vasculitis
+
+冠状动脉血管炎
+
+corrected QT interval 校正的 QT 间期
+coronary vessel 冠状血管
+corrected sinus node recovery time 校正的窦房结恢复时间
+correction of anomalous pulmonary venous drainage 肺静脉畸形引流矫正术
+correction of double outlet of left ventricle 左室双流出道矫正术
+correction of double outlet of right ventricle 右室双流出道矫正术
+
+corridor procedure 走廊术
+carrier protein 载体蛋白，结合蛋白
+Corrigan’s pulses 水冲脉
+corticotropin-releasing hormone
+
+促肾上腺皮质激素释放激素
+
+costalspinal angle 肋脊角
+costophrenic angles
+
+肋膈角
+
+costosternal syndrome
+
+胸肋综合症
+
+cough syncope 剧咳后晕厥
+coupled pulses 二联脉
+coupled rhythm 二联律
+coupling interval
+
+联律间期
+
+Cournand catheter 库尔兰德导管(常用于右心测压)
+course of treatment 疗程
+coxsackie virus 柯萨奇
+C-reactive protein
+creatine kinase
+
+C－反应蛋白
+
+肌酸激酶
+
+creatine kinase with brain subunits 肌酸激酶 BB 亚单位
+creatine kinase-MB 肌酸激酶 MB 亚单位
+creatine kinase with muscle subunits 肌酸激酶 MM 亚单位
+creatine phosphokinase
+creatinine clearance rate
+
+磷酸肌酸激酶
+肌酐清除率
+
+crescendo murmur 递增型杂音
+crescendo-decrescendo murmur 递增递减型杂音
+crista terminalis 界嵴
+crista supraventricularis 室上嵴
+critical care 特级护理
+critical condition 病危
+cross hemiplegia 交叉性偏瘫
+cross matching 交叉配血
+cross talk sensing window 交叉感知窗
+CT angiography CT 血管造影
+crossed embolism
+
+交叉性栓塞
+
+cuff sphygmomanometry
+
+袖带式血压测量法
+
+culprit lesion “罪犯”病变
+curative dose 有效量,治疗量
+Cushing’s syndrome 库欣综合症
+cuspal tear
+
+瓣尖撕裂
+
+cuspis medialis 三尖瓣隔侧瓣
+cutaneous dropsy 皮下水肿
+cycle ergometer test 蹬车运动试验
+cyclic adenosine monophosphate
+
+环磷酸腺苷
+
+cyclic AMP 环腺苷酸
+cyclic-AMP-dependent protein kinase 环腺苷酸依赖性蛋白激酶
+cyclic guanosine monophosphate 环-磷酸鸟苷
+
+cystic medial necrosis
+
+囊性动脉中层坏死
+
+cytological examination
+
+细胞学检查
+
+D
+Da Costa syndrome＝neurocirculatory asthenia 神经循环衰弱症
+D-dimer D-二聚体
+Dahl salt-sensitive rat
+DC countershock
+
+Dahl 盐敏感大鼠
+
+直流电击复律
+
+DDD pacemaker 双腔起搏器,双腔感知的全自动型起搏器
+DDI pacemaker 房室顺序起搏器,双腔感知,但心房感知仅能抑制心房,不能触发心室
+dead space ventilation 生理无效腔
+death rate 死亡率
+de Musset’s sign de Musset 征
+decapeptide angiotensin I
+
+十肽血管紧张素 I
+
+deceleration dependent aberrancy 减速依赖性心电脉冲传导偏差
+decompression of pericardium 心包减压术
+decompression of heart 心减压术
+decrease of hilus of lung 肺门缩小
+decremental conduction
+
+递减传导
+
+decrescendo murmur 递减型杂音
+decubitus position 卧位
+decubitus ulcers 褥疮
+deep venous thrombosis
+
+深静脉血栓形成
+
+defect of membranous septum 室间隔膜部缺损
+defibrillation monitor 心脏除颤监护器
+defibrillation of ventricle 心室颤动除颤法
+defibrillation threshold
+
+除颤阈值
+
+deflexion on P wave P 波错折
+degenerative valvular disease
+dehydroepiandrosterone sulfate
+delayed afterdepolarization
+
+退行性瓣膜病
+硫酸脱氢异雄酮
+
+延迟后除极
+
+delayed conduction (心）传导减慢
+delta wave delta 波
+demand pacemaker 按需起搏器
+demand pacing 按需起搏
+denatured proteins 变性蛋白质
+dental extraction 拔牙
+deoxyribonucleic acid 脱氧核糖核酸
+depressed T wave T 波压低
+depressor reflex of heart 心脏减压反射
+descending anterior branch 前降支
+descending aorta 降主动脉
+descending limb （脉波）降支
+Devega annuloplasty
+
+Devega 瓣环成形术
+
+dexamethasone suppression test
+
+地塞米松抑制试验
+
+dextro-aortic arch 右侧主动脉弓
+dextropositioned aorta 主动脉骑跨
+diabetic cardiomyopathy 糖尿病性心肌病
+diabetic hypertension 糖尿病高血压
+diabetes mellitus
+
+糖尿病
+
+diabetic nephropathy 糖尿病肾病
+diagonal branch 对角支
+dialyzable current of injury 可透析的损伤电流
+diamond-shaped murmur 钻形杂音，菱形杂音
+diaphragmatic wall
+
+膈面
+
+diaphragmatic myocardial infarction 下壁心肌梗塞
+diastolic blood pressure 舒张压
+diastolic cardiac dysfunction 舒张性心功能不全
+diastolic current of injury 舒张期损伤电流
+diastolic fluttering of the anterior leaflet of the mitral valve
+
+二尖瓣前叶舒张期扑动
+
+diastolic gallop rhythm 舒张期奔马律
+diastolic heart failure 舒张性心力衰竭
+diastolic murmurs 舒张期杂音
+diastolic overload
+
+舒张期负荷过重
+
+diastolic pericardial knock
+
+舒张期心包叩击音
+
+diastolic period 心舒张期
+diastolic pressure
+
+舒张压
+
+diastolic rumbling murmur 舒张期隆隆样杂音
+diastolic shock
+
+舒张期震荡
+
+diastolic thrill 舒张期震颤
+dicrotic pulse 重搏脉
+diethylene triaminepentaacetic acid 二乙烯三胺五乙酸
+differential diagnosis 鉴别诊断
+diffusion capacity 弥散量
+digestive system 消化系统
+digital clubbing 杵状指
+digital subtraction angiography 数字减影血管造影术
+digitalis effect 洋地黄效应
+digitalis excess
+
+洋地黄过量
+
+digitalis glycosides
+
+强心甙
+
+digitalis intoxication 洋地黄中毒
+digitalis toxicity
+
+洋地黄毒性
+
+digoxin immune Fab 地高辛免疫抗原结合片断
+dihydrofolate reductase
+
+二氢叶酸还原酶
+
+dihydropyridin type of calcium antagonists
+
+二氢吡啶类钙拮抗剂
+
+dilatation of heart 心腔扩张
+dilation of aortic valvular stenosis 主动脉瓣狭窄扩张术
+dilation of pulmonary artery 肺动脉扩张
+
+dilated cardiomyopathy 扩张性心脏病
+dim vision 黑朦
+diminution of apical impulse 心尖搏动减弱
+dipeptidyl carboxypeptidase
+2,3-diphosphoglycerate
+
+二肽酰羧肽酶（血管紧张素转换酶）
+
+2,3-二磷酸甘油酸
+
+direct bilirubin 直接胆红素
+direct-current 直流电
+direct-current cardioversion
+
+直流电转复术
+
+directional coronary atherectomy
+direct-vision or open valvotomy
+
+定向冠状动脉内膜旋切术
+直视瓣膜切开术
+
+disordered action of heart 心功能失调
+displacement of hilus of lung 肺门移位
+dissecting aortic aneurysm
+
+夹层主动脉瘤
+
+dissection of aorta 主动脉夹层
+disseminated intravascular coagulation
+
+弥漫性血管内凝血
+
+dissymmetric interventricular septum pachynsis 非对称性室间隔肥厚
+distal convoluted tubule 远曲小管
+distant heart sounds
+
+心音遥远
+
+distention of aorta 主动脉扩张
+distention of the neck veins 颈静脉扩张
+disturbance of consciousness 意识障碍
+disturbance of coronary microcirculation 冠脉微循环障碍
+disulphide bond
+
+二硫键
+
+divisional(fascicular) block 分支(束支)阻滞
+diastolic murmur 舒张期杂音
+dobutamine stress echocardiogram 多巴酚丁胺负荷超声心动图
+docosahexaenoic acid 二十一碳六烯酸
+dopaminergic drug
+
+多巴胺能药物
+
+doppler angiosonovisualization 多谱勒血管显像
+doppler blood flow monitor 多谱勒血流监示器
+doppler echocardiograph 多谱勒超声心动图仪
+doppler echocardiography 多谱勒超声心动图描记术
+doppler phenomenon 多谱勒现象
+doppler ultrasonic angiograph 多谱勒超声血管显像仪
+doppler ultrasound echocardiograph 多谱勒超声心动描记仪
+doppler velocimeter 多谱勒流速计
+doppler velocimeter telemeter 多谱勒血流遥测仪
+dorsal artery of foot 足背动脉
+dorsalis pedis 足背动脉
+double aortic murmur 主动脉区双杂音
+double-balloon mitral valvuloplasty
+
+双球囊二尖瓣瓣膜成形术
+
+double-inlet ventricle 心室双入口
+double-outlet of left ventricle 左心室双出口
+double-outlet of right ventricle 右心室双出口
+
+double-stranded DNA 双链脱氧核糖核酸
+double tachycardia 双重心动过速
+downward displacement of tricuspid valve 三尖瓣低位
+Dressler syndrome＝post-myocardial infarction syndrome
+
+心肌梗塞后综合症
+
+dropped beat 脱漏搏动，脉搏短绌
+dropsy of belly 腹水
+dropsy of chest 胸水
+dropsy of pericardium 心包积液
+drug abuse 药物滥用
+drug allergy 药物过敏
+drug-coated stents 药物涂层支架
+drug dependence 药物依赖
+drug distribution 药物分布
+drug eluting stent 药物洗脱支架
+drug eruption 药物疹
+drug fever
+
+药物热
+
+drug-induced cardiomyopathy 药物性心肌病
+drug interaction 药物相互作用
+drug intoxication 药物中毒
+drug metabolic enzyme 药物代谢酶
+drug metabolism 药物代谢
+drug reaction 药物反应
+drug resistance 抗药性
+drug-resistant strain 耐药菌株
+drug sensitive test 药敏试验
+drumstick finger 杵状指
+dry gangrene 干性坏疽
+dry necrosis 干性坏死
+dry pericarditis 干性心包炎
+dry pleurisy 干性胸膜炎
+dry rale 干性罗音
+dual chamber pacing 双腔起搏
+dual chamber pacemaker 双腔起搏器
+dual A-V nodal pathways 房室结双径路
+dual A-V pathways or multi pathways
+
+房室双径及多径
+
+duchenne muscular dystrophy 假肥大性肌营养不良
+ductus arteriosus 动脉导管
+dull area over the base of heart 心底部浊音区
+Duroziez’s sign
+
+Duroziez 征
+
+dv/dt rate of rise of action potential 动作电位上升速率
+DVI pacemaker 房室顺序起搏器
+dynamic auscultation
+
+动态听诊
+
+dynamic electrocardiogram 动态心电图
+dynamic left ventricular outflow tract obstruction 动力性左室流出道梗塞
+
+dysfunction of papillary muscle 乳头肌功能不全
+dyspnea on exertion
+
+劳力性呼吸困难
+
+E
+earlobe crease 耳垂折痕
+early afterdepolarization 早期后除极
+early diastolic knock
+
+舒张早期叩击
+
+early diastolic murmur 舒张早期杂音
+early repolarization syndrome
+
+早期复极综合征
+
+early systolic click 收缩早期喀喇音
+early systolic murmur 收缩早期杂音
+early systolic ejection sound 收缩早期喷射音
+Ebstein’s anomaly 三尖瓣畸形
+echo beat 交互搏动
+echo-free space
+
+无回声区
+
+ECG and PCG data automatic analyser 心电心音数据自动分析装置
+ECG data analyser 心电图分析器
+ECG magnetic tape recorder 磁带记录式心电图机
+ECG preamplifier 心电前置放大器
+ECG signal 心电图信号
+ectopic beat
+
+异位博动
+
+ectopic cardiac rhythm 异位心律
+ectopic pacemaker 异位起搏点
+ectopic reflux of pulmonary vein 肺静脉异位回流
+ectopic rhythm 异位节律
+ectopic rhythm with exit block 异位心律伴外出阻滞
+ectopic tachycardia 异位性心动过速
+E-F slope
+
+EF 斜率
+
+effective cardiac muscular contraction 心肌有效收缩
+effective blood volume 有效血容量
+effective circulating volume 有效循环量
+effective dose 有效剂量
+effective renal blood flow 有效肾血流量
+effective refractory period 有效不应期
+efferent arteriole of glomerulus 肾小球输出动脉
+effort angina
+
+劳累性心绞痛
+
+effusive-constrictive pericarditis
+
+渗出－缩窄性心包炎
+
+Ehlers-Danlos syndrome Ehlers-Danlos 综合症
+eicosapentaenoic acid
+
+二十碳五烯酸
+
+Einthoven postulates Einthoven 原理
+Eisenmenger reaction
+Eisenmenger syndrome
+ejection fraction
+
+艾森曼格反应
+艾森曼格综合症
+
+射血分数
+
+ejection murmur 喷射性杂音
+
+ejection period 射血期
+ejection phase 射血期
+ejection sound 喷射音
+elastic recoil 弹性回缩(力)
+electric cardioversion 心脏电复律
+electric defibrillation 电除颤
+electric field 电场
+electrical alternans
+
+电交替
+
+electrical asystole
+
+心电静止
+
+electrical cardioversion 心脏电复律
+electrical conversion 电复律
+electrical countershock 电击复律
+electrical defibrillation 电除颤
+electrical defibrillator 电除颤器
+electrical field 电场
+electrical instability 心电不稳定性
+electrical pacing 电起搏
+electrical resistance 电阻
+electrocardial potential 心电位
+electrocardial vector 心电向量
+electrocardiogram lead 心电图导联
+electrocardiogram stress test 心电图负荷试验
+electrocardiogram telephone 心电电话传送器
+electrocardiograph insulation 心电图绝缘体
+electrocardiograph paper 心电图纸
+electrocardiographic abnormality 心电图异常
+electrocardiographic examination 心电图检查
+electrocardiographic lead 心电图导联
+electrocardiographic monitoring 心电图监护
+electrocardiographic oscillogram 心电示波
+electrocardiographic oscilloscope 心电图示波器
+electrocardiographic wave 心电图波
+electrocerebral silence 脑电静止
+electrochemical gradient
+
+电化学梯度
+
+electromagnetic field 电磁场
+electrolyte balance 电解质平衡
+electrolyte disturbance 电解质紊乱
+electrolyte imbalance 电解质失衡
+electromechanical dissociation
+
+电机械分离
+
+electromechanical systole 电机械收缩
+electron-beam computed tomography 电子束 CT
+electronic digital hematomanometer 电子数字式血压计
+electron microscopy
+
+电子显微镜
+
+electronic sphygmomanometer 电子血压计
+
+electronic stethoscope 电子听诊器
+electrophysiologic instability 电生理不稳定性
+electrophysiology study
+
+电生理检查
+
+electrosurgical cutting 电灼切割
+elevation of blood pressure 血压升高
+elevation of pulmonary venous pressure 肺静脉压增高
+emboli in heart 心脏栓子
+embryonic stem cells
+
+胚胎干细胞
+
+emergency department 急诊室
+emotional stress
+
+精神紧张
+
+encircling endocardial ventriculotomy 心内膜面心室环切术
+encircling suture of the aorta
+
+主动脉绕缝术
+
+endemic cardiomyopathy 地方性心肌病
+endless loop tachycardia 永久性环形心动过速
+endocannabinoid system 内分泌大麻系统
+endocardial cushion
+
+心内膜垫
+
+endocardial cushion defects
+
+心内膜垫缺损
+
+endocardial electrode 心内膜电极
+endocardial fibroelastosis
+
+心内膜弹性纤维组织增生
+
+endocardial fibrosis 心内膜心肌纤维化
+endocardial mapping 心内膜标测
+endocardial pressure
+
+心内压
+
+endocardial resection procedure 心内膜切除术
+endocardial sclerosis 心内膜硬化
+endocardial thrombus 心内膜血栓
+endocarditis in intravenous drug abusers 静脉药瘾者心内膜炎
+endocrine system 内分泌系统
+end-diastolic pressure 舒张期末压
+end-diastolic volume
+
+舒张末期容积
+
+endogenous creatinine clearance rate 内生肌酐清除率
+endogenous pyrogen 内源性致热原
+endomyocardial biopsy
+
+心内膜心肌活检
+
+endomyocardial fibroelastosis 心内膜弹力纤维增生症
+endomyocardial fibrosis 心内膜心肌纤维化症
+endonuclease-generated fragment
+
+内核酶生成片断
+
+endoplasmic reticulum 内质网
+endothelial cell
+
+内皮细胞
+
+endothelial cell dysfunction
+endothelial injury
+
+内皮细胞功能不全
+
+内皮损伤
+
+endothelial system 内皮系统
+endothelin receptor antagonist 内皮素受体阻滞剂
+endothelium -derived constricting factors 内皮衍生的收缩因子
+endothelium -derived hyperpolarizing factor 内皮衍生的超极化因子
+endothelium -derived relaxing factor 内皮衍生的松弛因子
+
+endotoxic shock
+
+内毒素性休克
+
+endotoxin shock
+
+内毒素性休克
+
+endotracheal intubation 气管内插管
+endovascular stent 血管内支撑架
+end plate potential 终板电位
+end-stage heart failure 终末期心力衰竭
+end-stage renal disease 终末期肾脏疾病
+end-systolic diameter
+end-systolic volume
+
+收缩末期直径
+收缩末期容积
+
+engorgement of the neck veins
+
+颈静脉充盈
+
+enhanced A-V nodal conduction 房室结加速传导
+Enhanced spiral CT scanning 增强螺旋 CT 扫描
+enterohepatic recirculation 肠肝循环
+endotracheal intubation 气管内插管
+enzyme-linked immunosorbent assay 酶联免疫吸附试验
+eosinophilia endocarditis 嗜酸性细胞增多性心内膜炎
+eosinophilic granuloma
+
+嗜酸性肉芽肿
+
+epicardial electrode 心外膜电极
+epicardial fat
+
+心外膜脂肪垫
+
+epicardial injury
+
+心外膜损伤
+
+epicardial mapping
+
+心外膜标测
+
+epicardial pacing 心外膜起搏
+epsilon wave ε 波
+epsilon-aminocarproic acid
+Epstein-Barr virus
+
+６－氨基己酸
+
+EB 病毒
+
+equilibrium radionuclide angiocardiography 平衡放射性核素心血管造影术
+equipotential grounding
+
+等电势接地装置
+
+equivalent weight 当量
+erythema annulare 环形红斑
+erythrocyte sedimentation rate
+escape beat
+
+血细胞沉降率
+
+逸搏
+
+escape-capture rhythm 逸搏夺获心律
+escape pacemaker 脱逸起搏器
+escape rhythm 逸搏心律
+Escherichia coli
+
+大肠埃希杆菌
+
+esophageal electrocardiogram 食管心电图
+transesophageal electrode 食管电极
+esophageal pacing 经食管心律调节
+esophageal lead
+
+食管导联
+
+essential hypertension 原发性高血压
+essential hypotension 原发性低血压
+estrin hypertension 雌激素高血压
+estrogen replacement therapy 雌激素替代疗法
+ethacrynic acid 利尿酸
+
+event recorder
+
+事件记录器
+
+evidence-based medicine
+
+循证医学
+
+Ewart’s sign Ewart 征
+examination of heart and lung function 心肺功能检查
+excision of LV aneurysms 左室室壁瘤切除
+excitability threshold 兴奋性阈值
+excitation-contraction coupling 兴奋－收缩偶联
+excitatory postsynaptic potential 兴奋性突触后电位
+exercise capacity 运动耐量
+exercise electrocardiogram 运动心电图
+Exercise nuclear scintigraphy 运动核素闪烁法
+exercise stress echocardiography
+
+运动负荷超声心动图检查
+
+exercise stress testing 运动负荷试验
+exercise thallium scintigraphy 运动铊闪烁法
+exercise tolerance test
+
+运动耐量试验
+
+exercise-induced ST-segment depression 运动诱发的 ST 段压低
+exertional dyspnea
+
+劳力性呼吸困难
+
+exogenous pyrogen 外源性致热原
+expanding trinucleotide repeats
+
+扩张的三核苷酸重复
+
+expansion of aortic circle 主动脉环扩张
+expiratory dyspnea
+
+呼气性呼吸困难
+
+expiratory reserve volume 补呼气容积
+exploratory pericardiotomy 心包切开探查术
+exploring electrode 探查电极
+expression vector
+
+表达载体
+
+extended endocardial resection procedure 心内膜伸展切除法
+extensive anterior myocardial infarction 广泛前壁心肌梗塞
+external artificial cardiac pacing 体外人工心脏起搏
+external cardiac massager 体外心脏按摩机
+external cardioversion 体外心脏电复律
+external fixed rate pacemaker 体外心房固定频率起搏器
+external pacemaker 体外起搏器
+external pacing 体外起搏术
+extra cardiac sound 额外心音
+extra systole 期外收缩,期前收缩
+extracardiac murmur 心外杂音
+extracorporeal circulation 体外循环
+extracorporeal circulation cannula 体外循环插管
+extracorporeal circulation machine 体外循环机
+extracorporeal heart 体外人工心
+extracorporeal membrane oxygenation 体外循环膜氧合
+extracorporeal shock wave lithotripsy 体外震波碎石
+extracorporeal ultrafiltration 体外超滤法
+extracranial atherosclerosis 颅外动脉粥样硬化
+
+exudative pericarditis 渗出性心包炎
+F
+facial features 面容
+fall of blood pressure 血压下降
+Fallot's pentalogy 法洛氏五联症
+false ventricular aneurysm
+familial dysautonomia
+
+假性室壁瘤
+
+家族性自主神经功能障碍
+
+familial hypercholesterolemia
+
+家族性高胆固醇血症
+
+familial hypertrophic cardiomyopathy
+fascicular tachycardia
+
+家族性肥厚型心肌病
+
+分支型心动过速
+
+fascicular ventricular tachycardia
+
+分支型室性心动过速
+
+fasciculo-ventricular bypass tract
+
+束－旁道
+
+fasciculoventricular fibers
+
+分支室纤维
+
+fasciculus atrioventricularis 房室束
+fast pathway
+
+快径
+
+fast-pathway ablation
+
+快径消融
+
+fasting blood glucose 空腹血糖
+fast reactive autorhythmic cell 快反应自律细胞
+fat embolism in heart 心脏脂肪栓塞
+fat pad of pericardium 心包脂肪垫
+fatty acid 脂肪酸
+fatty acid binding protein 脂肪酸结合蛋白
+fatty degeneration of myocardium 心肌脂肪变性
+fatty heart 脂肪心
+fatty infiltration in heart 心脏脂肪浸润
+fatty streaks
+
+脂质条纹
+
+fever of undetermined origin 不明原因发热
+fiberoptic bronchoscopy 纤维支气管镜
+fibric_acid derivative
+
+纤维酸衍生物
+
+fibrin monomer 纤维蛋白单体
+fibrin thrombus 纤维蛋白血栓
+fibrinogen degradation products 纤维蛋白原降解产物
+fibrinolytic system 纤溶系统
+fibrinopeptide A 纤维蛋白肽 A
+fibrinous pericarditis
+
+纤维素性心包炎
+
+fibrin-related antigen 纤维蛋白相关性抗原
+fibroblast growth factor 成纤维细胞生长因子
+fibrocalcific degeneration 纤维钙化变性
+fibrofatty tissue 纤维脂肪组织
+fibrointimal hyperplasia 血管内膜纤维增生
+fibromuscular disease
+
+纤维肌型发育不良
+
+fiberoptic bronchoscopy 纤维支气管镜
+fibrous cap 纤维帽
+
+fibrous pericardium 心包纤维层（壁层）
+fibrous ring of heart 心纤维环
+fibrous skeleton 纤维骨架
+fibrous tissue 纤维组织
+fibrous trigones of heart 心纤维三角
+Fiedler's myocarditis 菲德勒心肌炎
+filling defect 充盈缺损
+filling out of waist 心腰部膨出
+filtration barrier 滤过屏障
+filtration fraction
+
+滤过分数
+
+filtration membrane 滤过膜
+final common pathway 最后共同通道
+fine bubbling rale 小水泡音
+fine moist rale 细湿罗音
+first aid 急救
+first aid monitor for cardiac 心脏急救监护仪
+first degree atrioventricular block I 度房室传导阻滞
+first degree heart block
+first-dose effect
+
+I 度心脏传导阻滞
+
+首剂作用
+
+first effort angina 初次用力心绞痛
+first heart sound 第一心音
+first-pass hepatic effect
+
+肝脏首次通过效应
+
+first-pass hepatic metabolism
+
+首过肝代谢
+
+first pass radionuclide angiocardiography 首次经过放射性核素心血管造影术
+fish oil
+
+鱼油
+
+fishmouth mitral stenosis 鱼口样二尖瓣狭窄
+fixed--rate pacemaker 定频起搏器
+fixed splitting of second heart sound 第二心音固定分裂
+flail mitral leaflet
+
+连枷样二尖瓣叶
+
+flapping sound 拍击音
+flattened or inverted T wave
+
+T 波低平或倒置
+
+flow tract of the heart 心脏血流途径
+fluctuation of blood pressure 血压波动
+fluid infusion 补液,输液
+fluid retention 液体潴留
+focal myocardial infarction 灶性心肌梗塞
+focal necrosis 局灶性坏死
+folic acid 叶酸
+Fontan procedure Fontan 手术
+foramen ovale
+
+卵园孔
+
+forced expiratory volume in one second 第 1 秒用力呼气容积
+forced position 强迫体位
+forced vital capacity 用力肺活量
+foreign body reaction
+
+异物反应
+
+forward heart failure
+
+前向性心力衰竭
+
+fourth heart sound 第四心音
+fourth heart sound gallop 第四心音奔马律
+Fowler's position 斜坡卧位
+fraction of inspired oxygen
+
+吸入氧气分数
+
+fractioned potentials 碎裂电位
+fractioned wave 破裂波
+Frank-Starling mechanism Frank-Starling 机制
+Fredri
+
+
